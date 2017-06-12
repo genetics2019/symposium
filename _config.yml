@@ -10,14 +10,14 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
+title: “Utes first Website”
+email: “ute.volbehr@cos.uni-heidelberg.de”
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+url: "https://WittbrodtLab.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "WittbrodtLab.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
+heroTitle: “MedakaMeeting 2017”
 eventDate: "September - November, 2014"
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
