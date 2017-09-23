@@ -1,50 +1,132 @@
 - 
-  date: "2014-10-24"
-  dateReadable: "October 24"
+  date: "2018-04-16"
+  dateReadable: "April 16"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Schedule of seminars and subjects to be discussed", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+    	startTime: "10:00"
+    	sessionIds: [16001]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
+        startTime: "10:30",
+        endTime: "12:30",
+        sessionIds: [16101]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
+    	startTime: "12:30",
+    	endTime: "13:30",
+    	sessionIds: [16002]
+    }
+    - {
+    	startTime: "13:30",
+    	endTime: "15:30",
+    	sessionIds: [16102]
+    }
+    - {
+    	startTime: "15:30",
+    	endTime: "15:45",
+    	sessionIds: [16003]
+    }
+    - {
+    	startTime: "15:45",
+    	endTime: "17:45",
+    	sessionIds: [16103]
     }
 - 
-  date: "2014-10-25"
-  dateReadable: "October 25"
+  date: "2018-04-17"
+  dateReadable: "April 17"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
+    - {title: "Schedule of seminars and subjects to be discussed", color: "#90be4e"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
+    	startTime: "09:00",
+    	endTime: "11:00",
+    	sessionIds: [17101]
     }
     - {
     	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
+    	endTime: "11:15",
+    	sessionIds: [17001]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
+        startTime: "11:15",
+        endTime: "12:30",
+        sessionIds: [17002]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+    	startTime: "12:30",
+    	endTime: "13:30",
+    	sessionIds: [17003]
+    }
+    - {
+    	startTime: "13:30",
+    	endTime: "15:30",
+    	sessionIds: [17102]
+    }
+    - {
+    	startTime: "15:30",
+    	endTime: "15:45",
+    	sessionIds: [17004]
+    }
+    - {
+    	startTime: "15:45",
+    	endTime: "17:30",
+    	sessionIds: [17103]
+    }
+    - {
+    	startTime: "17:30",
+    	endTime: "18:30",
+    	sessionIds: [17104]
+    }
+    - {
+    	startTime: "18:30",
+    	endTime: "21:30",
+    	sessionIds: [17005]
+    }
+- 
+  date: "2018-04-18"
+  dateReadable: "April 18"
+  tracks: 
+    - {title: "Schedule of seminars and subjects to be discussed", color: "#90be4e"}
+  timeslots: 
+    - {
+    	startTime: "09:00",
+    	endTime: "11:00",
+    	sessionIds: [18101]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:15",
+    	sessionIds: [18001]
+    }
+    - {
+        startTime: "11:15",
+        endTime: "12:30",
+        sessionIds: [18002]
+    }
+    - {
+    	startTime: "12:30",
+    	endTime: "13:30",
+    	sessionIds: [18002]
+    }
+    - {
+    	startTime: "13:30",
+    	endTime: "15:30",
+    	sessionIds: [18103]
+    }
+    - {
+    	startTime: "15:30",
+    	endTime: "15:45",
+    	sessionIds: [18003]
+    }
+    - {
+    	startTime: "15:45",
+    	endTime: "16:30",
+    	sessionIds: [18104]
+    }
+    - {
+    	startTime: "16:30",
+    	endTime: "21:30",
+    	sessionIds: [18004]
     }

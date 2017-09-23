@@ -1,4 +1,108 @@
 -
+  id: 16001
+  title: "Onwards Registration"
+
+-
+  id: 16002
+  title: "Lunch Break"
+
+-
+  id: 16003
+  title: "Tea / Coffee Break"
+
+-
+  id: 16101
+  title: "Session 1"
+  description: "Development and genetics"
+
+-
+  id: 16102
+  title: "Session 2"
+  description: "Functional genomics"
+
+-
+  id: 16103
+  title: "Session 3"
+  description: "Neuron and behavior"
+
+-
+  id: 17001
+  title: "Tea / Coffee Break"
+
+-
+  id: 17002
+  title: "Networking"
+
+-
+  id: 17003
+  title: "Lunch Break"
+
+-
+  id: 17004
+  title: "Tea / Coffee Break"
+
+-
+  id: 17005
+  title: "Banquet"
+
+-
+  id: 17101
+  title: "Session 4"
+  description: "Disease modeling and regenerations 1"
+
+-
+  id: 17102
+  title: "Session 5"
+  description: "Disease modeling and regenerations 2"
+
+-
+  id: 17103
+  title: "Session 6"
+  description: "Stem cell biology"
+
+-
+  id: 17104
+  title: "Session 7"
+  description: "Plenary lecture"
+
+-
+  id: 18001
+  title: "Tea / Coffee Break"
+
+-
+  id: 18002
+  title: "Lunch Break"
+
+-
+  id: 18003
+  title: "Tea / Coffee Break"
+
+-
+  id: 18004
+  title: "Move to Karlsruhe Institute of Technology (by Bus)"
+
+-
+  id: 18101
+  title: "Session 8"
+  description: "Young Investigator's session"
+
+-
+  id: 18102
+  title: "Session 9"
+  description: "Toxicology and pharmacology"
+
+-
+  id: 18103
+  title: "Session 10"
+  description: "Husbandry, resources and technology"
+
+-
+  id: 18104
+  title: "Session 11"
+  description: "Kiyosu isogenic panel and table discussion"
+  
+
+-
   id: 307
   title: "Coffee Break"
   place: "Hall"
