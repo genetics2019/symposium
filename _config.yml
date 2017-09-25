@@ -55,9 +55,9 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "/img/seo/coslogo204.png"
 heroTitle: "4th Strategic Meeting for Medaka Research & Regional Fish Meeting <typeout> 2018"
-eventDate: "16 - 18 April 2018"
+eventDate: "16-18 April 2018"
 typeoutTextValues: '"", "Heidelberg", "Ruprecht-Karls-University", "Germany", ""'
 typeoutFallback: "Heidelberg"
 heroButtons:
@@ -197,10 +197,6 @@ footerBlocks:
 blogTitle: "Latest news"
 blogCommentsEnabled: true
 discusShortName: "devfestua"
-
-#Schedule Block
-scheduleTitle: "Programm"
-showSchedule: true
 
 # Speakers List Block
 showSessions: true
