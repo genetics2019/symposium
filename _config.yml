@@ -198,6 +198,10 @@ blogTitle: "Latest news"
 blogCommentsEnabled: true
 discusShortName: "devfestua"
 
+#Schedule Block
+scheduleTitle: "Programm"
+showSchedule: true
+
 # Speakers List Block
 showSessions: true
 
