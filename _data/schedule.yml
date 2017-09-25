@@ -2,10 +2,12 @@
   date: "2018-04-16"
   dateReadable: "April 16"
   tracks: 
-    - {title: "Schedule of seminars and subjects to be discussed", color: "#90be4e"}
+    - {
+	title: "Schedule of seminars and subjects to be discussed",
+	color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00"
+    	startTime: "10:00",
     	sessionIds: [16001]
     }
     - {
