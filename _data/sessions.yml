@@ -1,7 +1,6 @@
 -
   id: 16001
   title: "Onwards Registration"
-  service: true
 
 -
   id: 16002
@@ -23,12 +22,12 @@
 
 -
   id: 16102
-  title: "Session 2 - Functional genomics"
+  title: "Session 2 <br> Functional genomics"
   description: "Functional genomics"
 
 -
   id: 16103
-  title: "Session 3 - Neuron and behavior"
+  title: "Session 3 <br> Neuron and behavior"
   description: "Neuron and behavior"
 
 -
@@ -53,22 +52,22 @@
 
 -
   id: 17101
-  title: "Session 4 - Disease modeling and regenerations 1"
+  title: "Session 4 <br> Disease modeling and regenerations 1"
   description: "Disease modeling and regenerations 1"
 
 -
   id: 17102
-  title: "Session 5 - Disease modeling and regenerations 2"
+  title: "Session 5 <br> Disease modeling and regenerations 2"
   description: "Disease modeling and regenerations 2"
 
 -
   id: 17103
-  title: "Session 6 - Stem cell biology"
+  title: "Session 6 <br> Stem cell biology"
   description: "Stem cell biology"
 
 -
   id: 17104
-  title: "Session 7 - Plenary lecture"
+  title: "Session 7 <br> Plenary lecture"
   description: "Plenary lecture"
 
 -
@@ -89,20 +88,20 @@
 
 -
   id: 18101
-  title: "Session 8"
+  title: "Session 8 <br> Young Investigator's session"
   description: "Young Investigator's session"
 
 -
   id: 18102
-  title: "Session 9"
+  title: "Session 9 <br> Toxicology and pharmacology"
   description: "Toxicology and pharmacology"
 
 -
   id: 18103
-  title: "Session 10"
+  title: "Session 10 <br> Husbandry, resources and technology"
   description: "Husbandry, resources and technology"
 
 -
   id: 18104
-  title: "Session 11"
+  title: "Session 11 <br> Kiyosu isogenic panel and table discussion"
   description: "Kiyosu isogenic panel and table discussion"
