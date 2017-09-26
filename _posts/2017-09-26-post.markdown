@@ -1,3 +1,0 @@
-location:
-  latitude: 49.4179402
-  longitude: 8.674625699999979
