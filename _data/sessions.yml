@@ -15,30 +15,20 @@
   service: true
 
 -
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-
--
   id: 16101
-  title: "Session 1"
-  subtitle: "Development and genetics"
+  title: "Session 1 <br> Development and genetics"
+  description: "Development and genetics"
   speakers: [3, 6]
 
 
 -
   id: 16102
-  title: "Session 2"
+  title: "Session 2 - Functional genomics"
   description: "Functional genomics"
 
 -
   id: 16103
-  title: "Session 3"
+  title: "Session 3 - Neuron and behavior"
   description: "Neuron and behavior"
 
 -
@@ -63,22 +53,22 @@
 
 -
   id: 17101
-  title: "Session 4"
+  title: "Session 4 - Disease modeling and regenerations 1"
   description: "Disease modeling and regenerations 1"
 
 -
   id: 17102
-  title: "Session 5"
+  title: "Session 5 - Disease modeling and regenerations 2"
   description: "Disease modeling and regenerations 2"
 
 -
   id: 17103
-  title: "Session 6"
+  title: "Session 6 - Stem cell biology"
   description: "Stem cell biology"
 
 -
   id: 17104
-  title: "Session 7"
+  title: "Session 7 - Plenary lecture"
   description: "Plenary lecture"
 
 -
