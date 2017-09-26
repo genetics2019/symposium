@@ -6,6 +6,7 @@
 -
   id: 16002
   title: "Lunch Break"
+  place: "Dining room"
   service: true
 
 -
@@ -17,7 +18,8 @@
   id: 16101
   title: "Session 1"
   subtitle: "Development and genetics"
-  service: true
+  speakers: [3, 6]
+
 
 -
   id: 16102
