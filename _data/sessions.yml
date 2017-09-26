@@ -16,7 +16,8 @@
 -
   id: 16101
   title: "Session 1"
-  description: "Development and genetics"
+  subtitle: "Development and genetics"
+  service: true
 
 -
   id: 16102
