@@ -1,14 +1,17 @@
 -
   id: 16001
   title: "Onwards Registration"
+  service: true
 
 -
   id: 16002
   title: "Lunch Break"
+  service: true
 
 -
   id: 16003
   title: "Tea / Coffee Break"
+  service: true
 
 -
   id: 16101
