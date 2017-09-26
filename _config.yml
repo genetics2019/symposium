@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "4th Strategic Meeting for Medaka Research & Regional Fish Meeting"
-email: "devfest@gdg.org.ua"
+email: "ute.volbehr@cos.uni-heidelberg.de"
 description: "4th Strategic Meeting for Medaka Research & Regional Fish Meeting"
 baseurl: "/zeppelin"
 url: "https://gdg-x.github.io"
