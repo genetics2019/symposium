@@ -1,7 +1,11 @@
 # Plugins
 gems:
 - jekyll-sitemap
+- jekyll-maps
 safe: false
+maps:
+  google:
+    api_key: AIzaSyCsiVC2msTH4UKm2AFc5_BcuFsB0e3jJD0
 
 # Build Settings
 markdown: kramdown
