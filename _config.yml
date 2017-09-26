@@ -3,9 +3,7 @@ gems:
 - jekyll-sitemap
 - jekyll-maps
 safe: false
-maps:
-  google:
-    api_key: AIzaSyCsiVC2msTH4UKm2AFc5_BcuFsB0e3jJD0
+
 
 # Build Settings
 markdown: kramdown
@@ -103,6 +101,9 @@ eventAddressCountry: "Germany"
 eventStartTime: "2018-04-16"
 eventDoorTime: "09:00"
 eventEndTime: "2018-04-18"
+maps:
+  google:
+    api_key: AIzaSyCsiVC2msTH4UKm2AFc5_BcuFsB0e3jJD0
 eventPlaceCoordinates: "49.4179402, 8.674625699999979"
 mapCenterCoordinates: "49.4179402,8.674625699999979"
 mapMobileCenterCoordinates: "49.4179402,8.674625699999979"
