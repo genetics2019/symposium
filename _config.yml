@@ -61,10 +61,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "SagitalGIF.gif"
-heroTitle: "4th Strategic Meeting for Medaka Research & Regional Fish Meeting <typeout> 2018"
+heroTitle: "4th Strategic Meeting for Medaka Research <br> 3th Regional Fish Meeting <br> 2018"
 eventDate: "16-18 April 2018"
-typeoutTextValues: '""'
-typeoutFallback: "Heidelberg"
 heroButtons:
  - {link: "https://docs.google.com/document/d/1AEIHJkiq80kICXoH6PF7Y-GCuEjJ_M1KGmlMgzzsBL0/edit", text: "Become a speaker"}
 
