@@ -60,10 +60,10 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "maxresdefault.jpg"
+heroImage: "SagitalGIF.gif"
 heroTitle: "4th Strategic Meeting for Medaka Research & Regional Fish Meeting <typeout> 2018"
 eventDate: "16-18 April 2018"
-typeoutTextValues: '"", "Heidelberg", "Ruprecht-Karls-University", "Germany", ""'
+typeoutTextValues: '""'
 typeoutFallback: "Heidelberg"
 heroButtons:
  - {link: "https://docs.google.com/document/d/1AEIHJkiq80kICXoH6PF7Y-GCuEjJ_M1KGmlMgzzsBL0/edit", text: "Become a speaker"}
