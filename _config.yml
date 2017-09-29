@@ -60,13 +60,11 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "SagitalGIF.gif"
+heroImage: "medakahead.gif"
 heroTitle: "4th Strategic Meeting for Medaka Research <br> 3th Regional Fish Meeting"
 eventDate: "16-18 April 2018"
-typeoutTextValues: '""'
-typeoutFallback: "Heidelberg"
 heroButtons:
- - {link: "https://docs.google.com/document/d/1AEIHJkiq80kICXoH6PF7Y-GCuEjJ_M1KGmlMgzzsBL0/edit", text: "Become a speaker"}
+ - {link: "https://docs.google.com/document/d/1AEIHJkiq80kICXoH6PF7Y-GCuEjJ_M1KGmlMgzzsBL0/edit", text: "Registration"}
 
 # About Block
 aboutTitle: "About COS"
