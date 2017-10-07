@@ -16,7 +16,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "4th Strategic Meeting for Medaka Research & Regional Fish Meeting"
-email: "ute.volbehr@cos.uni-heidelberg.de"
+email: "lazaro.centanin@cos.uni-heidelberg.de"
 description: "4th Strategic Meeting for Medaka Research & Regional Fish Meeting"
 baseurl: "/zeppelin"
 url: "https://gdg-x.github.io"
@@ -29,7 +29,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "Centre for Organismal Studies Heidelberg"
 organizerAlternateName: "Centre for Organismal Studies Heidelberg"
 organizerDescription: "The Centre for Organismal Studies (COS) Heidelberg aims to study organismic biology beyond the borders of organisational level."
-organizerEmail: "ute.volbehr@cos.uni-heidelberg.de"
+organizerEmail: "lazaro.centanin@cos.uni-heidelberg.de"
 organizerLogo: "/img/seo/coslogo204.png"
 organizerLink: "https://www.cos.uni-heidelberg.de/"
 
@@ -61,7 +61,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "SagitalGIF.gif"
-heroTitle: "4th Strategic Meeting for Medaka Research <br> 3th Regional Fish Meeting <br> 2018"
+heroTitle: "4th Strategic Meeting for Medaka Research <br> 3th Regional Fish Meeting"
 eventDate: "16-18 April 2018"
 heroButtons:
  - {link: "https://docs.google.com/document/d/1AEIHJkiq80kICXoH6PF7Y-GCuEjJ_M1KGmlMgzzsBL0/edit", text: "Become a speaker"}
@@ -150,7 +150,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:lazaro.centanin@cos.uni-heidelberg.de", text: "lazaro.centanin@cos.uni-heidelberg.de"}
  -
   title: "FAQ"
   links:
