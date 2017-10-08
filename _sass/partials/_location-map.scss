@@ -5,10 +5,17 @@
         margin-bottom: 0;
     }
 }
+
+.google-map{
+    position: absolute;
+    z-index: 0;
+}
+
 .location-description {
     position: relative;
     min-width: 400px;
     padding: 20px 50px;
+    z-index: 1;
     background: #fff;
     .icon-direction {
         width: 32px;
