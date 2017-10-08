@@ -85,6 +85,15 @@ venueSmallImage3: ""
 venueTitle: "Alte Aula - Old Assembly Hall"
 venueFeatures: ["Venue 16th April 2018", "Registration Opening 10:00am", "Located directly in the city center"]
 
+# Venue2 Block
+venueBlockTitle: "Venue Day 2-3"
+venueBigImage: ""
+venueSmallImage1: "Leben_Logo_bunt.jpg"
+venueSmallImage2: "alte_uni_saal.jpg"
+venueSmallImage3: ""
+venueTitle: "COS - Im Neuenheimer Feld 230"
+venueFeatures: ["Venue 17th-18th April 2018", "Sessions", "Located in Neuenheimer Feld campus"]
+
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
