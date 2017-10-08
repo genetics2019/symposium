@@ -58,7 +58,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "SagitalGIF1.gif"
-heroTitle: "4th Strategic Meeting for Medaka Research <br> 3th Regional Fish Meeting <br> 16-18 April 2018 Heidelberg"
+heroTitle: "4th Strategic Meeting for Medaka Research <br> 3th Regional Fish Meeting"
 eventDate: "16-18 April 2018"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf7N_jo1rg3WZdbJY0y6X2Ipgsaacl22q7KJC4NtLJqFsns3Q/viewform?usp=sf_link", text: "Registration"}
@@ -91,12 +91,10 @@ eventEndTime: "2018-04-18"
 eventPlaceCoordinates: "49.4179402, 8.674625699999979"
 mapCenterCoordinates: "49.4179402,8.674625699999979"
 mapMobileCenterCoordinates: "49.4179402,8.674625699999979"
-maps:
-  google:
-    api_key: AIzaSyCsiVC2msTH4UKm2AFc5_BcuFsB0e3jJD0
 location:
-  latitude: 49.4179402
-  longitude: 8.674625699999979
+  latitude: "49.4179402"
+  longitude: "8.674625699999979"
+
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -106,12 +104,6 @@ venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Kinopalace Cinema"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
-
-# Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
