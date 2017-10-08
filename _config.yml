@@ -94,8 +94,8 @@ eventEndTime: "2018-04-18"
 venueBlockTitle: "Venue"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "alte_uni.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "alte_uni_saal.jpg"
+venueSmallImage2: "alte_uni_saal.jpg"
+venueSmallImage3: ""
 venueTitle: "Kinopalace Cinema"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
