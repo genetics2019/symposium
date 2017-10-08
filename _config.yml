@@ -120,25 +120,19 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Footer
-socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://www.cos.uni-heidelberg.de/", text: "cos.uni-heidelberg.de"}
  -
   title: "Contacts"
   links:
    - {link: "mailto:lazaro.centanin@cos.uni-heidelberg.de", text: "lazaro.centanin@cos.uni-heidelberg.de"}
  -
-  title: "FAQ"
+  title: "Address"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {text: "COS <br> Im Neuenheimer Feld 230 <br> 69120 Heidelberg"}
 
 # Blog
 blogTitle: "Latest news"
