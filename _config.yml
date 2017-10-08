@@ -132,7 +132,7 @@ footerBlocks:
  -
   title: "Address"
   links:
-   - {text: "COS <br> Im Neuenheimer Feld 230 <br> 69120 Heidelberg"}
+   - {link: "https://goo.gl/maps/xMkr4hkHoNA2", text: "COS <br> Im Neuenheimer Feld 230 <br> 69120 Heidelberg"}
 
 # Blog
 blogTitle: "Latest news"
