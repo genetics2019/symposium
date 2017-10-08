@@ -106,7 +106,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["3 huge cinemas screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf7N_jo1rg3WZdbJY0y6X2Ipgsaacl22q7KJC4NtLJqFsns3Q/viewform?usp=sf_link", text: "Registration"}
 
