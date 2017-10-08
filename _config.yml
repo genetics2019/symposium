@@ -76,28 +76,14 @@ rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
-# Location Block
-locationBlockTitle: "Location Day 2"
-eventLocationName: "COS"
-eventLocationLink: "https://www.cos.uni-heidelberg.de/"
-eventStreetAddress: "Im Neuenheimer Feld 230"
-eventAddressLocality: "Heidelberg"
-eventAddressLocalityRegion: "Baden-Württemberg"
-eventPostalCode: "69120"
-eventAddressCountry: "Germany"
-eventStartTime: "2018-04-16"
-eventDoorTime: "09:00"
-eventEndTime: "2018-04-18"
-
-
-# Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
+# Venue1 Block
+venueBlockTitle: "Venue Day 1"
+venueBigImage: ""
 venueSmallImage1: "alte_uni.jpg"
 venueSmallImage2: "alte_uni_saal.jpg"
 venueSmallImage3: ""
-venueTitle: "Alte Aula"
-venueFeatures: ["Old Assembly Hall", "Heidelberg University", "Located directly in the city center"]
+venueTitle: "Alte Aula - Old Assembly Hall"
+venueFeatures: ["Venue 16th April 2018", "Registration Opening 10:00am", "Located directly in the city center"]
 
 # Partners Block
 organizersTitle: "Organizers"
