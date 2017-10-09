@@ -76,7 +76,7 @@ rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
-# Venue1 Block
+# Venueone Block
 venueBlockTitle: "Venue Day 1"
 venueBigImage: ""
 venueSmallImage1: "alte_uni.jpg"
@@ -85,7 +85,7 @@ venueSmallImage3: ""
 venueTitle: "Alte Aula - Old Assembly Hall"
 venueFeatures: ["Venue 16th April 2018", "Registration Opening 10:00am", "Located directly in the city center"]
 
-# Venue2 Block
+# Venuetwo Block
 venueBlockTitle: "Venue Day 2-3"
 venueBigImage: ""
 venueSmallImage1: "Leben_Logo_bunt.jpg"
