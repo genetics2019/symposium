@@ -88,8 +88,7 @@ venue2Features: ["Venue 17th-18th April 2018", "Sessions", "Located in Neuenheim
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Hotels"
-hotelButton:
- - {link: "/zeppelin/logistics/", text: "Hotel Information"}
+partnersC4sponsorsButton: "Become a sponsor"
 
 
 # Footer
