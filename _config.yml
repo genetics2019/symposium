@@ -59,7 +59,7 @@ heroTitle: "4th Strategic Meeting for Medaka Research <br> 3th Regional Fish Mee
 eventDate: "16-18 April 2018"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf7N_jo1rg3WZdbJY0y6X2Ipgsaacl22q7KJC4NtLJqFsns3Q/viewform?usp=sf_link", text: "Registration"}
- - {link: "/zeppelin/logistics/", text: "Hotel Information"}
+hotelButton: "Hotel Information"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "alte_uni_saal.jpg"
@@ -88,7 +88,7 @@ venue2Features: ["Venue 17th-18th April 2018", "Sessions", "Located in Neuenheim
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Hotels"
-partnersC4sponsorsButton: "Hotel Information"
+hotelButton: "Hotel Information"
 
 
 # Footer
