@@ -92,6 +92,7 @@ partnersC4sponsorsButton: "Hotel Informations"
 
 
 # Footer
+socialLinks: null
 footerBlocks:
  -
   title: "Links"
