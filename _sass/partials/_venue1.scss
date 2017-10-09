@@ -10,7 +10,7 @@
     }
 }
 .venue1-small-col {
-    .venue-elem-wrapper {
+    .venue1-elem-wrapper {
         &:nth-child(odd) {
             @media (max-width: 767px) {
                 padding-right: 2.5px;
