@@ -62,7 +62,7 @@ heroTitle: "4th Strategic Meeting for Medaka Research <br> 3th Regional Fish Mee
 eventDate: "16-18 April 2018"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf7N_jo1rg3WZdbJY0y6X2Ipgsaacl22q7KJC4NtLJqFsns3Q/viewform?usp=sf_link", text: "Registration"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf7N_jo1rg3WZdbJY0y6X2Ipgsaacl22q7KJC4NtLJqFsns3Q/viewform?usp=sf_link", text: "Hotel Reservation"}
+ - {link: "/logistics/", text: "Hotel Information"}
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
