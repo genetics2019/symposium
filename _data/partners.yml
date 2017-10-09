@@ -1,7 +1,7 @@
 - 
   group: "Speakers Hotel - First Choice"
   elements: 
-    - {name: "NH Hotel Heidelberg", description: "NH Hotel Group", link: "https://www.nh-hotels.de/hotel/nh-heidelberg", imageUrl: "2830608.jpg", width: "120px"}
+    - {name: "NH Hotel Heidelberg", description: "NH Hotel Group - Heidelberg", link: "https://www.nh-hotels.de/hotel/nh-heidelberg", imageUrl: "2830608.jpg", width: "120px"}
 - 
   group: "Partner Hotels"
   elements: 
