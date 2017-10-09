@@ -1,4 +1,4 @@
-.venue-col {
+.venue1-col {
     height: 100%;
     padding: 0;
     padding-right: 5px;
@@ -9,7 +9,7 @@
         padding: 0;
     }
 }
-.venue-small-col {
+.venue1-small-col {
     .venue-elem-wrapper {
         &:nth-child(odd) {
             @media (max-width: 767px) {
@@ -23,16 +23,16 @@
         }
     }
 }
-.venue-elem-wrapper {
+.venue1-elem-wrapper {
     padding: 0;
     padding-bottom: 5px;
 }
-.venue-elem {
+.venue1-elem {
     overflow: hidden;
     text-align: left;
     transition: $base-transition;
 }
-.venue-big-elem {
+.venue1-big-elem {
     height: 610px;
     @media (min-width: 768px) and (max-width: 991px) {
         height: 580px;    
@@ -41,7 +41,7 @@
         height: 340px;    
     }
 }
-.venue-small-elem {
+.venue1-small-elem {
     height: 200px;
     @media (min-width: 768px) and (max-width: 991px) {
         height: 190px;    
@@ -50,7 +50,7 @@
         height: 200px;    
     }
 }
-.venue-text {
+.venue1-text {
     padding: 30px 20px;
     color: #fff;
     background: $main-color;
