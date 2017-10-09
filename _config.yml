@@ -15,7 +15,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "4th Strategic Meeting for Medaka Research & 3th Regional Fish Meeting"
 email: "lazaro.centanin@cos.uni-heidelberg.de"
 description: "4th Strategic Meeting for Medaka Research & 3th Regional Fish Meeting"
-baseurl: "/zeppelin"
+baseurl: ""
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
