@@ -1,10 +1,10 @@
 - 
   group: "Speakers Hotel - First Choice"
   elements: 
-    - {name: "NH Hotel Heidelberg", description: "NH Hotel Group", link: "https://www.nh-hotels.de/hotel/nh-heidelberg", imageUrl: "2830608.jpg"}
+    - {name: "NH Hotel Heidelberg", description: "NH Hotel Group", link: "https://www.nh-hotels.de/hotel/nh-heidelberg", imageUrl: "2830608.jpg", width: "120px"}
 - 
   group: "Partner Hotels"
   elements: 
-    - {name: "Exzellenz Hotel", description: "The Heidelberg Exzellenz Hotel", link: "http://www.exzellenzhotel.de/", imageUrl: "logo_eh1.png"}
-    - {name: "Classic Inn", description: "Hotel Classic Inn", link: "http://www.hd-altstadt-hotel.de/classicinn/", imageUrl: "hotel-logo.png"}
+    - {name: "Exzellenz Hotel", description: "The Heidelberg Exzellenz Hotel", link: "http://www.exzellenzhotel.de/", imageUrl: "logo_eh1.png", width: "120px"}
+    - {name: "Classic Inn", description: "Hotel Classic Inn", link: "http://www.hd-altstadt-hotel.de/classicinn/", imageUrl: "hotel-logo.png", width: "120px"}
 
