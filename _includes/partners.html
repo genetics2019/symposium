@@ -27,9 +27,9 @@
                 </li>
                 {% endfor %}
             </ul>
-            {% endfor %}
             {% for button in site.hotelButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+            {% endfor %}
             {% endfor %}
         </div>
     </div> 
