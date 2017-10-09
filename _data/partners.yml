@@ -6,5 +6,5 @@
   group: "Partner Hotels"
   elements: 
     - {name: "Exzellenz Hotel", description: "The Heidelberg Exzellenz Hotel", link: "http://www.exzellenzhotel.de/", imageUrl: "logo_eh1.png", height: "120px"}
-    - {name: "Classic Inn", description: "Hotel Classic Inn", link: "http://www.hd-altstadt-hotel.de/classicinn/", imageUrl: "hotel-logo.png", height: "200px"}
+    - {name: "Classic Inn", description: "Hotel Classic Inn", link: "http://www.hd-altstadt-hotel.de/classicinn/", imageUrl: "hotel-logo.png", height: "400px"}
 
