@@ -17,7 +17,7 @@
   company: "EMBL Heidelberg"
   title: ""
   bio: ""
-  thumbnailUrl: aghaallaei.jpg
+  thumbnailUrl:
   rockstar: false
   social: 
     - {}
@@ -29,7 +29,7 @@
   company: "Universitätsklinikum Tübingen, Medizinische Universitätsklinik, Abteilung Innere Medizin II, Universität Tübingen"
   title: ""
   bio: ""
-  thumbnailUrl: aghaallaei.jpg
+  thumbnailUrl:
   rockstar: false
   social: 
     - {}
@@ -53,7 +53,7 @@
   company: "Fritz Lippmann Institut, Jena"
   title: ""
   bio: ""
-  thumbnailUrl: Centanin.jpg
+  thumbnailUrl: 
   rockstar: false
   social: 
     - {}
@@ -127,6 +127,438 @@
   bio: ""
   thumbnailUrl: Ryu.jpg
   rockstar: true
+  social: 
+    - {}
+
+- 
+  id: 12
+  name: "Manfred"
+  surname: "Schartl"
+  company: "Biozentrum Universität Würzburg"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 13
+  name: "Didier"
+  surname: "Stanier"
+  company: "Max-Planck Institute for Heart and Lung Research"
+  title: ""
+  bio: ""
+  thumbnailUrl: Stanier.jpg
+  rockstar: true
+  social: 
+    - {}
+
+- 
+  id: 14
+  name: "Andrew"
+  surname: "Straw"
+  company: "Albert-Ludwigs-Universität Freiburg"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 15
+  name: "Thomas"
+  surname: "Thumberger"
+  company: "COS Heidelberg, Heidelberg University"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 16
+  name: "Jochen"
+  surname: "Wittbrodt"
+  company: "COS Heidelberg, Heidelberg University"
+  title: ""
+  bio: ""
+  thumbnailUrl: Wittbrodt.jpg
+  rockstar: true
+  social: 
+    - {}
+
+- 
+  id: 17
+  name: "Bajoghli"
+  surname: "Baubak"
+  company: "Universitätsklinikum Tübingen, Medizinische Universitätsklinik, Abteilung Innere Medizin II, Universität Tübingen"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 18
+  name: "Yann"
+  surname: "Gibert"
+  company: "Faculty of Health, School of Medicine, Deakin University"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 19
+  name: "Jeannette"
+  surname: "Hallab"
+  company: "ARMI, Monash University"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 20
+  name: "Patricia"
+  surname: "Jusuf"
+  company: "School of Biosciences, The University of Melbourne"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 21
+  name: "Jan"
+  surname: "Kaslin"
+  company: "Monash University Clayton Campus"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 22
+  name: "Mirana"
+  surname: "Ramialison"
+  company: "ARMI, Monash University, Clayton Campus"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 23
+  name: "Florian"
+  surname: "Raible"
+  company: "Max F. Perutz Laboratories, Vienna Biocenter, Universität Wien"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 24
+  name: "Kristin"
+  surname: "Tessmar-Raible"
+  company: "Max F. Perutz Laboratories, Vienna Biocenter, Universität Wien"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 25
+  name: "Jean-Stephane"
+  surname: "Joly"
+  company: "Paris-Saclay Institute of Neuroscience, Neuro-PSI"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 26
+  name: "Christoph"
+  surname: "Winkler"
+  company: "Department of Biological Sciences, National University of Singapore "
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 27
+  name: "Paola"
+  surname: "Bovolenta"
+  company: "Centro de Biología Molecular Severo Ochoa, Universidad Autónoma de Madrid"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 28
+  name: "Jose Louis"
+  surname: "Gomez Skarmeta"
+  company: "Centro Andaluz de Biología del Desarrollo, Universidad Pablo de Olavide"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 29
+  name: "Juan"
+  surname: "Martinez Morales"
+  company: "Centro Andaluz de Biología del Desarrollo, Universidad Pablo de Olavide"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 30
+  name: "Juan"
+  surname: "Mateo"
+  company: "Ciencias de la computation e inteligencia artificial, Universidad de Oviedo"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 31
+  name: "Ewan"
+  surname: "Birney"
+  company: "European Bioinformatics Institute EBI, EMBL"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 32
+  name: "Seth"
+  surname: "Kullman"
+  company: "Department of Environmental & Molecular Toxicology, NC State University"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 33
+  name: "Tomoko"
+  surname: "Obara"
+  company: "Dept. of Cell Biology, University of Oklahoma Health Sciences Center"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 34
+  name: "Roger"
+  surname: "Patient"
+  company: "Radcliffe Department of Medicine, MRC Weatherall Institute for Molecular Medicine, University of Oxford"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 35
+  name: "Hiroyuki"
+  surname: "Takeda"
+  company: "Laboratory of embryology, University of Tokyo"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 36
+  name: "Kiyoshi"
+  surname: "Naruse"
+  company: "Laboratory of Bioresources, NIBB"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 37
+  name: "Hideaki"
+  surname: "Takeuchi"
+  company: "Okayama University"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 38
+  name: "Yusuke"
+  surname: "Takehana"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 39
+  name: "Satoshi"
+  surname: "Ansai"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 40
+  name: "Takashi"
+  surname: "Yoshimura"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 41
+  name: "Yasuhiro"
+  surname: "Kamei"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 42
+  name: "Shin-ichi"
+  surname: "Chisada"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 43
+  name: "Saori"
+  surname: "Yokoi"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 44
+  name: "Masato"
+  surname: "Kinoshita"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 45
+  name: "Yukiko"
+  surname: "Ogino"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 46
+  name: "Ai"
+  surname: "Shinomiya"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 47
+  name: "Shoji"
+  surname: "Fukamachi"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
   social: 
     - {}
 
