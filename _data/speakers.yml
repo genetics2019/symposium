@@ -15,9 +15,14 @@
   name: "Alexander"
   surname: "Aulehla"
   company: "EMBL Heidelberg"
-  title: ""
-  bio: ""
-  thumbnailUrl:
+  title: "Dr."
+  bio: "MD 2002, Albert-Ludwigs-University, Freiburg.
+Research at the MD Anderson Cancer Center, Houston, USA and the MPI, Freiburg.
+PhD 2008, Paris VI University.
+Postdoctoral research at the Stowers Institute, Kansas City, USA.
+Group leader at EMBL since 2009. Senior scientist since 2016.
+ERC investigator since 2015."
+  thumbnailUrl: Aulehla.jpg
   rockstar: false
   social: 
     - {}
@@ -27,9 +32,17 @@
   name: "Matthias"
   surname: "Carl"
   company: "Universitätsklinikum Tübingen, Medizinische Universitätsklinik, Abteilung Innere Medizin II, Universität Tübingen"
-  title: ""
-  bio: ""
-  thumbnailUrl:
+  title: "Dr. rer. nat."
+  bio: "seit 12/2008 	Gruppenleiter, Lehrstuhl für Zell- und Molekularbiologie am CBTM, Universität Heidelberg, Medizinische Fakultät Mannheim
+2002-2008 	Postdoc, UCL London, UK
+1999-2002 	
+
+Postdoc, EMBL-Heidelberg
+1996-1999 	Doktorand am MPI Göttingen and am EMBL-Heidelberg
+1995-1996 	Forschung am Zentrum Hygiene und Humangenetik Göttingen
+1994-1995 	Diplomarbeit am Zentrum Hygiene und Humangenetik Göttingen
+1989-1994     	Universität Göttingen"
+  thumbnailUrl: Carl.jpg
   rockstar: false
   social: 
     - {}
