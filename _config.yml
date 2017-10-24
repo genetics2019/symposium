@@ -111,25 +111,13 @@ footerBlocks:
 showSessions: true
 
 # Logistics Map New Block
-locationmapnewBlockTitle: "Venue Day 1"
+locationmapnewBlockTitle: "In Heidelberg"
 locationmapnewBigImage: ""
 locationmapnewSmallImage1: "alte_uni.jpg"
 locationmapnewSmallImage2: "alte_uni_saal_medium.jpg"
 locationmapnewSmallImage3: ""
 locationmapnewTitle: "Alte Aula - Old Assembly Hall"
 locationmapnewFeatures: ["Venue 16th April 2018", "Registration Opening 10:00am", "Located directly in the city center"]
-
-# Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.4179402, 8.674625699999979"
-logisticsMapMobileCenterCoordinates: "49.4179402, 8.674625699999979"
-logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
