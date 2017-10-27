@@ -116,8 +116,10 @@ locationmapnewBigImage: ""
 locationmapnewSmallImage1: "alte_uni.jpg"
 locationmapnewSmallImage2: "alte_uni_saal_medium.jpg"
 locationmapnewSmallImage3: ""
-locationmapnewTitle: "Alte Aula - Old Assembly Hall"
-locationmapnewFeatures: ["Venue 16th April 2018", "Registration Opening 10:00am", "Located directly in the city center"]
+locationmapnewTitle1: "Alte Aula - Old Assembly Hall"
+locationmapnewFeatures1: ["Venue 16th April 2018", "Registration Opening 10:00am", "Located directly in the city center"]
+locationmapnewTitle2: "Alte Aula - Old Assembly Hall"
+locationmapnewFeatures2: ["Venue 16th April 2018", "Registration Opening 10:00am", "Located directly in the city center"]
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
