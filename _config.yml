@@ -118,7 +118,7 @@ locationmapnewSmallImage2: "alte_uni_saal_medium.jpg"
 locationmapnewSmallImage3: "marstall.jpg"
 
 # Logistics Direction Details Block
-directionDetailsImage: "philoseminar.jpg"
+directionDetailsImage: "10-Hedelberg.JPG"
 directionDetailsTitle: "Get around Heidelberg"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
