@@ -127,11 +127,12 @@ Get more information about <br>
 <a href="https://www.vrn.de/mng/#/XSLT_TRIP_REQUEST2@init">- Time schedule</a><br>
 <a href="https://www.vrn.de/tickets/ticketuebersicht/index.html">- Tickets (only in german available)</a><br>
 The following tickets are the important ones:<br>
-<a href="https://www.vrn.de/tickets/ticketuebersicht/tages-karten/tages-karte/index.html#info">- One day ticket (6,50€ (+2,70€ per person))</a><br>
+<a href="https://www.vrn.de/tickets/ticketuebersicht/tages-karten/tages-karte/index.html#info">- One day ticket (6,50€ (+2,70€ per additional person))</a><br>
 <a href="https://www.vrn.de/tickets/ticketuebersicht/city-tarif/heidelberg/index.html#info">- City tarif (1,30€)</a> between Main station and historic center<br>
 <a href="https://www.vrn.de/tickets/ticketuebersicht/einzelfahrschein/erwachsene/index.html#info">- Normal tarif (2,50€)</a> provide access to Campus Neuenheimer Feld<br>
 <a href="https://www.vrn.de/tickets/ticketuebersicht/mehrfahrtenkarte/erwachsene/index.html#info"> (5 tickets for 11,90€ (2,38€))</a><br>
 You can buy the tickets online, at ticket machines, from the bus drivers (not in trams) or in ticket shops of DB or RNV.'}
+ - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
