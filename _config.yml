@@ -132,11 +132,11 @@ The following tickets are the important ones:<br>
 <a href="https://www.vrn.de/tickets/ticketuebersicht/city-tarif/heidelberg/index.html#info">- City tarif (1,30€)</a> between Main station and historic center<br>
 <a href="https://www.vrn.de/tickets/ticketuebersicht/einzelfahrschein/erwachsene/index.html#info">- Normal tarif (2,50€)</a> provide access to Campus Neuenheimer Feld<br>
 <a href="https://www.vrn.de/tickets/ticketuebersicht/mehrfahrtenkarte/erwachsene/index.html#info"> (5 tickets for 11,90€ (2,38€))</a><br>
-You can buy the tickets online, at ticket machines, from the bus drivers (not in trams) or in ticket shops of DB or RNV.'}
+You can buy the tickets online, at ticket machines, from the bus drivers (not in trams) or in ticket shops of DB or RNV/VRN.'}
  - {title: "Via Public Transit to the Venues", information: 'There are some useful train and bus stops which are good to know. Please check <a href="https://www.rnv-online.de/fileadmin/user_upload/downloads/Plaene/Liniennetzplaene/Liniennetzplan_HD.pdf">this map</a> for more details.<br>
 Stops at the venues:<br>
 <a href="https://www.vrn.de/mng/#/XSLT_TRIP_REQUEST2@init?restriction=0&dest=Heidelberg,%20Universit%C3%A4tsplatz&isDeparture=true">- Universitätsplatz</a> is directly in front of the venue of day 1 and is located in the heart of the historic center. Available Busses: 31/32<br>
-<a href="https://www.vrn.de/mng/#/XSLT_TRIP_REQUEST2@init?restriction=0&dest=Heidelberg,%20Bunsengymnasium&isDeparture=true">- Bunsengymnasium</a> is the nearest stop to the venue of day 2/3 and just a 2min walk away from COS. The venue is directly behind the new Mathematikon-building. Available busses: 31, available trams: 21/24<br>'}
+<a href="https://www.vrn.de/mng/#/XSLT_TRIP_REQUEST2@init?restriction=0&dest=Heidelberg,%20Bunsengymnasium&isDeparture=true">- Bunsengymnasium</a> is the nearest stop to the venue of day 2/3 and just a 2min walk away. The venue is directly behind the new Mathematikon-building. Available busses: 31, available trams: 21/24.<br>'}
 directionDetailsWideCards:
  -
   title: "Questions?"
