@@ -121,7 +121,7 @@ locationmapnewSmallImage3: "marstall.jpg"
 directionDetailsImage: "10-Hedelberg.JPG"
 directionDetailsTitle: "Get around Heidelberg"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "From the Frankfurt Airport", information: 'Heidelberg is about an hour away from Frankfurt Int. Airport. It is easily reachable by <a href="https://www.bahn.com/en/view/index.shtml">train</a> or shuttle busses.<br>More information about shuttle busses:<br><a href="http://frankfurt-airport-shuttles.de/en/home-2/">Non-stop airport shuttle service</a><br><a href="https://www.tls-heidelberg.de/en/">Door to Door airport shuttle service</a><br><a href="https://www.flixbus.com/">Low cost intercity bus</a>'}
  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
