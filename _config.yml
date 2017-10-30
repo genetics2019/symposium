@@ -149,7 +149,7 @@ Stops at the venues:<br>
 <a href="https://www.vrn.de/mng/#/XSLT_TRIP_REQUEST2@init?restriction=0&dest=Heidelberg,%20Bunsengymnasium&isDeparture=true">- Bunsengymnasium</a> is the nearest stop to the venue of day 2/3 and just a 2min walk away. The venue is directly behind the new Mathematikon-building. Available busses: 31, available trams: 21/24.<br>'}
 
 # Logistics Hotel Info Block
-hotel-infoImage: "10-Hedelberg.JPG"
+hotel-infoImage: "philoseminar.jpg"
 hotel-infoTitle: "Information about Partner Hotels"
 hotel-infoCards:
  - {title: "NH Hotel Heidelberg", information: 'The <a href="https://www.nh-hotels.de/hotel/nh-heidelberg">NH Hotel</a> is the "first choice" partner hotel and will be the speakers hotel.<br>It is located in the <a href="https://goo.gl/maps/rEXQF8fCpr52">Bergheimer Str. 91</a>.<br>
