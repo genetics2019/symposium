@@ -152,7 +152,7 @@ Stops at the venues:<br>
 hotel-infoImage: "10-Hedelberg.JPG"
 hotel-infoTitle: "Information about Partner Hotels"
 hotel-infoCards:
- - {title: "NH Hotel", information: 'The <a href="https://www.nh-hotels.de/hotel/nh-heidelberg">NH Hotel</a> is the "first choice" partner hotel and will be the speakers hotel.<br>It is located in the <a href="https://goo.gl/maps/rEXQF8fCpr52">Bergheimer Str. 91</a>.<br>
+ - {title: "NH Hotel Heidelberg", information: 'The <a href="https://www.nh-hotels.de/hotel/nh-heidelberg">NH Hotel</a> is the "first choice" partner hotel and will be the speakers hotel.<br>It is located in the <a href="https://goo.gl/maps/rEXQF8fCpr52">Bergheimer Str. 91</a>.<br>
 Contingent name: COS Medaka<br>
 Booking number: MB0000964229<br>
 20 Standard Double rooms for single use including breakfast (for double use if needed – plus 19,90.- per night)<br>
@@ -162,18 +162,17 @@ Booking number: MB0000964229<br>
 17.04.18: 155,05.-<br>
 For your reservation, please send and email to <a href="mailto:nhheidelberg@nh-hotels.com?subject=Reservation Contingent COS Medaka&body=Contingent name COS Medaka%0D%0ABooking number MB0000964229">nhheidelberg@nh-hotels.com</a>.'}
 
- - {title: "Excelenz Hotel", information: 'Trams and busses are available in Heidelberg and provide comfortable access to all venues. 
-Get more information about <br>
-<a href="https://www.vrn.de/mng/#/XSLT_TRIP_REQUEST2@init">- Time schedule</a><br>
-<a href="https://www.rnv-online.de/fileadmin/user_upload/downloads/Plaene/Liniennetzplaene/Liniennetzplan_HD.pdf">- Map of public transport lines</a><br>
-<a href="https://www.vrn.de/tickets/ticketuebersicht/index.html">- Tickets (only in german available)</a><br>
-The following tickets are the important ones:<br>
-<a href="https://www.vrn.de/tickets/ticketuebersicht/tages-karten/tages-karte/index.html#info">- One day ticket (6,50€ (+2,70€ per additional person))</a><br>
-<a href="https://www.vrn.de/tickets/ticketuebersicht/city-tarif/heidelberg/index.html#info">- City tarif (1,30€)</a> between Main station and historic center<br>
-<a href="https://www.vrn.de/tickets/ticketuebersicht/einzelfahrschein/erwachsene/index.html#info">- Normal tarif (2,50€)</a> provide access to Campus Neuenheimer Feld<br>
-<a href="https://www.vrn.de/tickets/ticketuebersicht/mehrfahrtenkarte/erwachsene/index.html#info"> (5 tickets for 11,90€ (2,38€))</a><br>
-You can buy the tickets online, at ticket machines, from the bus drivers (not in trams) or in ticket shops of DB or RNV/VRN.'}
- - {title: "Classic Inn", information: 'There are some useful train and bus stops which are good to know. Please check <a href="https://www.rnv-online.de/fileadmin/user_upload/downloads/Plaene/Liniennetzplaene/Liniennetzplan_HD.pdf">this map</a> for more details.<br>
-Stops at the venues:<br>
-<a href="https://www.vrn.de/mng/#/XSLT_TRIP_REQUEST2@init?restriction=0&dest=Heidelberg,%20Universit%C3%A4tsplatz&isDeparture=true">- Universitätsplatz</a> is directly in front of the venue of day 1 and is located in the heart of the historic center. Available Busses: 31/32<br>
-<a href="https://www.vrn.de/mng/#/XSLT_TRIP_REQUEST2@init?restriction=0&dest=Heidelberg,%20Bunsengymnasium&isDeparture=true">- Bunsengymnasium</a> is the nearest stop to the venue of day 2/3 and just a 2min walk away. The venue is directly behind the new Mathematikon-building. Available busses: 31, available trams: 21/24.<br>'}
+ - {title: "The Heidelberg Exzellenz Hotel", information: 'The <a href="www.exzellenzhotel.de">Exzellenz Hotel</a> is located in the <a href="https://goo.gl/maps/3aC459FKWdM2">Rohrbacher Straße 29</a>.<br>
+Contingent name: COS Medaka<br>
+20 Rooms, reservation from April 15 (arrival) to 18 (departure)<br>
+10 EZ/Single Rooms: 89.- EUR<br>
+10 DZ/Double Rooms: 115.- EUR<br>
+all Doubles also usable as Single Rooms : 95.- EUR<br>
+All prices including breakfast'}
+
+ - {title: "Hotel Classic Inn", information: 'The <a href=" http://www.hotel-classic-inn.de">Hotel Classic Inn</a> is located in the <a href="https://goo.gl/maps/cYXKr2F9URU2">Belfortstraße 3</a>.<br>
+Contingent name: COS Medaka<br>
+12 rooms reserved<br>
+6 EZ/Single Rooms:  72.-€<br>
+6 DZ/Double Rooms:  89.-€<br>
+All rooms excl. breakfast, breakfast at 6.- EUR/day'}
