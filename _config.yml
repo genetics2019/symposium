@@ -97,7 +97,9 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://www.cos.uni-heidelberg.de/", text: "cos.uni-heidelberg.de"}
+   - {link: "http://www.cos.uni-heidelberg.de/?l=_e", text: "COS Heidelberg"}
+   - {link: "http://www.uni-heidelberg.de/index_e.html", text: "Heidelberg University"}
+   - {link: "http://www.heidelberg.de/hd,Len/300652.html", text: "Information about Heidelberg"}
  -
   title: "Contacts"
   links:
@@ -108,7 +110,7 @@ footerBlocks:
    - {link: "https://goo.gl/maps/xMkr4hkHoNA2", text: "COS <br> Im Neuenheimer Feld 230 <br> 69120 Heidelberg"}
  -
   title: "Account Info for Registration Fee"
-  links:
+  text:
    - {text: "Account holder: Universität Heidelberg<br>
 Bank: BW-Bank Stuttgart<br>
 IBAN: DE69 6005 0101 7421 5004 36<br>
