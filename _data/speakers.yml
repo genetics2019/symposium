@@ -60,7 +60,7 @@ Postdoc, EMBL-Heidelberg
   title: ""
   bio: ""
   thumbnailUrl: Centanin.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {}
 
@@ -155,8 +155,8 @@ Postdoc, EMBL-Heidelberg
   company: "Biozentrum Universität Würzburg"
   title: ""
   bio: ""
-  thumbnailUrl: 
-  rockstar: false
+  thumbnailUrl: Manfred_Schartl.jpeg
+  rockstar: true
   social: 
     - {}
 
@@ -204,7 +204,7 @@ Postdoc, EMBL-Heidelberg
   title: ""
   bio: ""
   thumbnailUrl: Wittbrodt.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {}
 
@@ -323,8 +323,8 @@ Postdoc, EMBL-Heidelberg
   company: "Department of Biological Sciences, National University of Singapore "
   title: ""
   bio: ""
-  thumbnailUrl: 
-  rockstar: false
+  thumbnailUrl: Christoph_winkler.jpg
+  rockstar: true
   social: 
     - {}
 
@@ -431,8 +431,8 @@ Postdoc, EMBL-Heidelberg
   company: "Laboratory of embryology, University of Tokyo"
   title: ""
   bio: ""
-  thumbnailUrl: 
-  rockstar: false
+  thumbnailUrl: Hiroyuki_Takeda.jpg
+  rockstar: true
   social: 
     - {}
 
@@ -443,8 +443,8 @@ Postdoc, EMBL-Heidelberg
   company: "Laboratory of Bioresources, NIBB"
   title: ""
   bio: ""
-  thumbnailUrl: 
-  rockstar: false
+  thumbnailUrl: Kiyoshi_Naruse.jpg
+  rockstar: true
   social: 
     - {}
 
@@ -455,8 +455,8 @@ Postdoc, EMBL-Heidelberg
   company: "Okayama University"
   title: ""
   bio: ""
-  thumbnailUrl: 
-  rockstar: false
+  thumbnailUrl: Hideaki_Takeuchi.png
+  rockstar: true
   social: 
     - {}
 
