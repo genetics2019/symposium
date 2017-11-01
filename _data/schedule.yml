@@ -3,132 +3,101 @@
   dateReadable: "April 16"
   tracks: 
     - {
-	title: "Schedule of seminars and subjects to be discussed",
+	title: "Venue: Alte Aula (More information coming soon)",
 	color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	sessionIds: [16001]
+    	startTime: "09:00",
+	endTime: "12:00",
+    	sessionIds: [101]
     }
     - {
-        startTime: "10:30",
-        endTime: "12:30",
-        sessionIds: [16101]
-    }
-    - {
-    	startTime: "12:30",
-    	endTime: "13:30",
-    	sessionIds: [16002]
+        startTime: "12:00",
+        endTime: "13:30",
+        sessionIds: [111]
     }
     - {
     	startTime: "13:30",
     	endTime: "15:30",
-    	sessionIds: [16102]
+    	sessionIds: [102]
     }
     - {
     	startTime: "15:30",
-    	endTime: "15:45",
-    	sessionIds: [16003]
+    	endTime: "16:00",
+    	sessionIds: [112]
     }
     - {
-    	startTime: "15:45",
-    	endTime: "17:45",
-    	sessionIds: [16103]
+    	startTime: "16:00",
+    	endTime: "18:00",
+    	sessionIds: [103]
+    }
+    - {
+    	startTime: "18:00",
+    	sessionIds: [104]
     }
 - 
   date: "2018-04-17"
   dateReadable: "April 17"
   tracks: 
-    - {title: "Schedule of seminars and subjects to be discussed", color: "#90be4e"}
+    - {title: "Venue: COS Auditorium (More information coming soon)", color: "#90be4e"}
   timeslots: 
     - {
     	startTime: "09:00",
-    	endTime: "11:00",
-    	sessionIds: [17101]
+	endTime: "12:00",
+    	sessionIds: [201]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:15",
-    	sessionIds: [17001]
-    }
-    - {
-        startTime: "11:15",
-        endTime: "12:30",
-        sessionIds: [17002]
-    }
-    - {
-    	startTime: "12:30",
-    	endTime: "13:30",
-    	sessionIds: [17003]
+        startTime: "12:00",
+        endTime: "13:30",
+        sessionIds: [211]
     }
     - {
     	startTime: "13:30",
     	endTime: "15:30",
-    	sessionIds: [17102]
+    	sessionIds: [202]
     }
     - {
     	startTime: "15:30",
-    	endTime: "15:45",
-    	sessionIds: [17004]
+    	endTime: "16:00",
+    	sessionIds: [212]
     }
     - {
-    	startTime: "15:45",
-    	endTime: "17:30",
-    	sessionIds: [17103]
+    	startTime: "16:00",
+    	endTime: "18:00",
+    	sessionIds: [203]
     }
     - {
-    	startTime: "17:30",
-    	endTime: "18:30",
-    	sessionIds: [17104]
-    }
-    - {
-    	startTime: "18:30",
-    	endTime: "21:30",
-    	sessionIds: [17005]
+    	startTime: "18:00",
+    	sessionIds: [204]
     }
 - 
   date: "2018-04-18"
   dateReadable: "April 18"
   tracks: 
-    - {title: "Schedule of seminars and subjects to be discussed", color: "#90be4e"}
+    - {title: "Venue: COS Auditorium (More information coming soon)", color: "#90be4e"}
   timeslots: 
     - {
     	startTime: "09:00",
-    	endTime: "11:00",
-    	sessionIds: [18101]
+	endTime: "12:00",
+    	sessionIds: [301]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:15",
-    	sessionIds: [18001]
-    }
-    - {
-        startTime: "11:15",
-        endTime: "12:30",
-        sessionIds: [18002]
-    }
-    - {
-    	startTime: "12:30",
-    	endTime: "13:30",
-    	sessionIds: [18002]
+        startTime: "12:00",
+        endTime: "13:30",
+        sessionIds: [311]
     }
     - {
     	startTime: "13:30",
     	endTime: "15:30",
-    	sessionIds: [18103]
+    	sessionIds: [302]
     }
     - {
     	startTime: "15:30",
-    	endTime: "15:45",
-    	sessionIds: [18003]
+    	endTime: "16:00",
+    	sessionIds: [312]
     }
     - {
-    	startTime: "15:45",
-    	endTime: "16:30",
-    	sessionIds: [18104]
-    }
-    - {
-    	startTime: "16:30",
-    	endTime: "21:30",
-    	sessionIds: [18004]
+    	startTime: "16:00",
+    	endTime: "18:00",
+    	sessionIds: [303]
     }

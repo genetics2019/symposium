@@ -1,4 +1,86 @@
 -
+  id: 101
+  title: "PI-Strategic Meeting"
+  description: "Development & Genetics"
+
+-
+  id: 102
+  title: "PI-Strategic Meeting"
+  description: "Functional Genomics"
+
+-
+  id: 103
+  title: "PI-Strategic Meeting"
+  description: "Neuron & Behaviour"
+
+-
+  id: 104
+  title: "PI-Strategic Meeting"
+  description: "Plenary Lecture - Manfred Schartl"
+
+-
+  id: 111
+  title: "Lunch"
+ 
+-
+  id: 112
+  title: "Coffee Break"
+
+-
+  id: 201
+  title: "PI-Strategic Meeting"
+  description: "Disease Modelling - Networking"
+
+-
+  id: 202
+  title: "PI-Strategic Meeting"
+  description: "Transition to Regional Fish Meeting"
+
+-
+  id: 203
+  title: "PI-Strategic Meeting"
+  description: "Transition to Regional Fish Meeting"
+
+-
+  id: 204
+  title: "PI-Strategic Meeting"
+  description: "Transition to Regional Fish Meeting - Plenary Lecture"
+
+-
+  id: 211
+  title: "Lunch"
+ 
+-
+  id: 212
+  title: "Coffee Break"
+
+-
+  id: 301
+  title: "Regional Fish Meeting"
+  description: "Young Investigator Session"
+
+-
+  id: 302
+  title: "Regional Fish Meeting"
+  description: "Young Investigator Session"
+
+-
+  id: 303
+  title: "Regional Fish Meeting"
+  description: "Young Investigator Session"
+
+-
+  id: 311
+  title: "Lunch"
+ 
+-
+  id: 312
+  title: "Coffee Break"
+
+
+
+
+-
   id: 16001
   title: "Onwards Registration"
 
