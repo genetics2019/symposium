@@ -1,6 +1,7 @@
 # Plugins
 gems:
 - jekyll-sitemap
+- jekyll-maps
 safe: false
 
 
@@ -103,14 +104,10 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:lazaro.centanin@cos.uni-heidelberg.de", text: "lazaro.centanin@cos.uni-heidelberg.de"}
-   - {link: "https://goo.gl/maps/xMkr4hkHoNA2", text: "COS <br> Im Neuenheimer Feld 230 <br> 69120 Heidelberg"}
  -
-  title: "Sitemap"
+  title: "Address"
   links:
- - {link: "/", text: "Home"}
- - {link: "/schedule/", text: "Programm"}
- - {link: "/speakers/", text: "Speakers"}
- - {link: "/logistics/", text: "Logistics"}
+   - {link: "https://goo.gl/maps/xMkr4hkHoNA2", text: "COS <br> Im Neuenheimer Feld 230 <br> 69120 Heidelberg"}
  -
   title: "Account Info for Registration Fee"
   links:
