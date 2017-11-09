@@ -107,10 +107,10 @@ footerBlocks:
  -
   title: "Sitemap"
   links:
-   - {permalink: "/zeppelin/", text: "Home"}
-   - {permalink: "/zeppelin/schedule/", text: "Programm"}
-   - {permalink: "/zeppelin/speakers/", text: "Speakers"}
-   - {permalink: "/zeppelin/logistics/", text: "Logistics"}
+   - {permalink: "/", text: "Home"}
+   - {permalink: "/schedule/", text: "Programm"}
+   - {permalink: "/speakers/", text: "Speakers"}
+   - {permalink: "/logistics/", text: "Logistics"}
  -
   title: "Account Info for Registration Fee"
   links:
