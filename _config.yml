@@ -107,10 +107,10 @@ footerBlocks:
  -
   title: "Sitemap"
   links:
- - {link: "/", text: "Home"}
- - {link: "/schedule/", text: "Programm"}
- - {link: "/speakers/", text: "Speakers"}
- - {link: "/logistics/", text: "Logistics"}
+   - {link: "/", text: "Home"}
+   - {link: "/schedule/", text: "Programm"}
+   - {link: "/speakers/", text: "Speakers"}
+   - {link: "/logistics/", text: "Logistics"}
  -
   title: "Account Info for Registration Fee"
   links:
