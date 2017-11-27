@@ -1,0 +1,4 @@
+- 
+  group: "Main sponsors"
+  elements: 
+    - {name: "COS", description: "Center of Organismal Studies Heidelberg", link: "https://www.cos.uni-heidelberg.de/", imageUrl: "coslogo204.png"}
