@@ -55,7 +55,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "SagitalGIF-ProperScale.gif"
 heroTitle: "4th Strategic Meeting for Medaka Research <br> 3th Regional Fish Meeting"
-eventDate: "16-18 April 2018"
+eventDate: "16-18 April 2018 <br> Deadlines: Abstract submission: January 20th <br> Registration: February 28th"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf7N_jo1rg3WZdbJY0y6X2Ipgsaacl22q7KJC4NtLJqFsns3Q/viewform?usp=sf_link", text: "Registration"}
 hotelButton: "Hotel Information"
