@@ -66,6 +66,9 @@ rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Invited speakers among others"
 rockstarSpeakersButtonText: "See all speakers"
 
+#Sponsor Block
+sponsorsTitle: "Sponsors"
+
 # Venue1 Block
 venue1BlockTitle: "Venue Day 1"
 venue1BigImage: ""
