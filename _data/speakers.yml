@@ -101,6 +101,18 @@ Postdoc, EMBL-Heidelberg
   social: 
     - {}
 
+- 
+  id: 161
+  name: "Jochen"
+  surname: "Wittbrodt"
+  company: "COS Heidelberg, Heidelberg University"
+  title: ""
+  bio: ""
+  thumbnailUrl: Wittbrodt2.jpg
+  rockstar: false
+  social: 
+    - {}
+
 
 - 
   id: 26
