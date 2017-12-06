@@ -51,7 +51,7 @@ $wt-ribbon-border-color: #72e1b3;
     .abbr {
         .ribbon-activator:hover & {
             transform: translateX(100%); 
-            @media (max-width: 100px) {
+            @media (max-width: 767px) {
                 transform: translateX(0);    
             }   
         }    
@@ -62,7 +62,7 @@ $wt-ribbon-border-color: #72e1b3;
         transform: translateX(100%);
         .ribbon-activator:hover & {
             transform: translateX(0);   
-            @media (max-width: 100px) {
+            @media (max-width: 767px) {
                 transform: translateX(100%);    
             } 
         } 
