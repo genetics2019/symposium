@@ -58,8 +58,8 @@ Postdoc, EMBL-Heidelberg
   name: "Soojin"
   surname: "Ryu"
   company: "University Medical Center of the Johannes Gutenberg University Mainz"
-  title: ""
-  bio: ""
+  title: "Prof."
+  bio: "I was born in Seoul, Korea, but grew up in New York City. I got my bachelor’s degree from Harvard and my Ph.D. at the University of California, Berkeley at the laboratory of Prof. Robert Tjian, before moving to Freiburg, Germany, for my postdoc at the laboratory of Prof. Wolfgang Driever. In Freiburg, I started working with zebrafish and have been continuing to work with zebrafish ever since. After my postdoc, I was a group leader at the Max Planck Institute for Medical Research in Heidelberg before moving to Mainz as a professor. I am fascinated by how stress hormones alter our behavior and the brain and would like to understand how stress resilience can be developed and fostered.<br> https://www.ryulab.org/ "
   thumbnailUrl: Ryu.jpg
   rockstar: true
   social: 
@@ -82,9 +82,9 @@ Postdoc, EMBL-Heidelberg
   name: "Didier"
   surname: "Stanier"
   company: "Max-Planck Institute for Heart and Lung Research"
-  title: ""
+  title: "Prof. Dr."
   bio: ""
-  thumbnailUrl: Stanier.jpg
+  thumbnailUrl: Didier_Stainier.jpg
   rockstar: true
   social: 
     - {}
