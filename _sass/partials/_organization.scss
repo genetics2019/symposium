@@ -22,12 +22,4 @@ $small-organization-image-size: 120px;
 .organization {
     padding-bottom: 13px;
 }
-.organization-img {
-    width: $organization-image-size;
-    height: $organization-image-size;
-    margin: 0 auto;
-    @media (max-width: 767px) {
-        width: $small-organization-image-size;
-        height: $small-organization-image-size;
-    }
-}
+
