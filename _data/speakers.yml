@@ -71,7 +71,7 @@ Vienna, Austria"
   company: "University Medical Center of the Johannes Gutenberg University Mainz"
   title: "Prof."
   bio: "I was born in Seoul, Korea, but grew up in New York City. I got my bachelor’s degree from Harvard and my Ph.D. at the University of California, Berkeley at the laboratory of Prof. Robert Tjian, before moving to Freiburg, Germany, for my postdoc at the laboratory of Prof. Wolfgang Driever. In Freiburg, I started working with zebrafish and have been continuing to work with zebrafish ever since. After my postdoc, I was a group leader at the Max Planck Institute for Medical Research in Heidelberg before moving to Mainz as a professor. I am fascinated by how stress hormones alter our behavior and the brain and would like to understand how stress resilience can be developed and fostered.<br> https://www.ryulab.org/ "
-  thumbnailUrl: ryu_wide.jpg
+  thumbnailUrl: ryu-grey.jpg
   rockstar: true
   social: 
     - {}
@@ -83,7 +83,7 @@ Vienna, Austria"
   company: "Biozentrum Universität Würzburg"
   title: ""
   bio: ""
-  thumbnailUrl: schartl_wide.jpg
+  thumbnailUrl: schartl-grey.jpg
   rockstar: true
   social: 
     - {}
@@ -95,7 +95,7 @@ Vienna, Austria"
   company: "COS Heidelberg, Heidelberg University"
   title: ""
   bio: ""
-  thumbnailUrl: Wittbrodt-white.jpg
+  thumbnailUrl: Wittbrodt-grey.jpg
   rockstar: false
   social: 
     - {}
