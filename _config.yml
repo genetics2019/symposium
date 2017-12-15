@@ -89,6 +89,7 @@ venue2Features: ["Venue 17th-18th April 2018", "Bertalanffy Lecture Hall and Sem
 
 # About Block
 aboutTitle: "Organizers"
+aboutInfo: "Test"
 aboutBlock:
  - {title: "Lazaro Centanin", image: "Centanin.jpg"}
  - {title: "Kiyoshi Naruse", image: "Kiyoshi_Naruse.jpg"}

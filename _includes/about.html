@@ -18,6 +18,7 @@
                 {% assign check = forloop.index | modulo:2 %}
                 {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
                 {% endfor %}
+		<p>{{ about.info }}</p>
             </div>
         </div>
     </div>
