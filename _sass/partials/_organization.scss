@@ -1,7 +1,7 @@
-$rockstar-image-size: 140px;
-$small-rockstar-image-size: 120px;
+$organization-image-size: 140px;
+$small-organization-image-size: 120px;
 
-.rockstar-speakers {
+.organization {
     .name {
         font-size: 26px;
         line-height: 1.1;
@@ -19,15 +19,15 @@ $small-rockstar-image-size: 120px;
         }
     }
 }
-.rockstar-speaker {
+.organization {
     padding-bottom: 13px;
 }
-.rockstar-speaker-img {
-    width: $rockstar-image-size;
-    height: $rockstar-image-size;
+.organization-img {
+    width: $organization-image-size;
+    height: $organization-image-size;
     margin: 0 auto;
     @media (max-width: 767px) {
-        width: $small-rockstar-image-size;
-        height: $small-rockstar-image-size;
+        width: $small-organization-image-size;
+        height: $small-organization-image-size;
     }
 }
