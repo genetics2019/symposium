@@ -93,7 +93,7 @@ aboutBlock:
  - {title: "Lazaro Centanin", image: "Centanin.jpg", text: "lazaro.centanin@cos.uni-heidelberg.de"}
  - {title: "Kiyoshi Naruse", image: "Kiyoshi_Naruse.jpg"}
  - {title: "Thomas Thumberger", image: "Thumberger.png"}
- - {title: "Jochen Wittbrodt", image: "Wittbrodt2.jpg", text "sekretariat.wittbrodt@cos.uni-heidelberg.de"}
+ - {title: "Jochen Wittbrodt", image: "Wittbrodt2.jpg", text: "sekretariat.wittbrodt@cos.uni-heidelberg.de"}
 aboutInfo: "Test"
 
 # Partners Block
