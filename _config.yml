@@ -91,6 +91,7 @@ venue2Features: ["Venue 17th-18th April 2018", "Bertalanffy Lecture Hall and Sem
 organizationImage: "white-background.jpg"
 organitationCount: 4
 organizationTitle: "Organizers"
+organizationButtonText: "See all speakers"
 
 # Partners Block
 organizersTitle: "Organizers"
