@@ -1,0 +1,107 @@
+- 
+  id: 1
+  name: "Narges"
+  surname: "Aghaallaei"
+  company: "Universitätsklinikum Tübingen, Medizinische Universitätsklinik, Abteilung Innere Medizin II, Universität Tübingen"
+  title: ""
+  bio: "I am currently working as senior post-doc at Heidelberg University. My main current focus of research is the study of the intestinal stem cell development.
+After completing my PhD in Biology-Genetics, I joined the Max-Planck Institute of Immunobiology and Epigenetics. My work focused on understanding the evolution and development of the thymus, a specialized primary lymphoid organ necessary for T-lymphocyte development, we identified a presumptive thymus equivalent tissue in the lamprey (Bajoghli, Aghaallaei, et al.,
+Nature 2011). I also characterized the dendritic cells in fish for first time (Aghaallaei et al., PNAS, 2010). Now as an independent postdoc, I study the development of intestinal stem cells
+in teleost gut. During this time, I realized that the combination of optical transparency
+of fish gut and advanced tools of molecular biology provides a unique opportunity to
+understand basic mechanisms that underlie immune response to tumor formation."
+  thumbnailUrl: aghaallaei_wide.jpg
+  rockstar: true
+  social: 
+    - {}
+
+- 
+  id: 2
+  name: "Alexander"
+  surname: "Aulehla"
+  company: "EMBL Heidelberg"
+  title: "Dr."
+  bio: "MD 2002, Albert-Ludwigs-University, Freiburg.
+Research at the MD Anderson Cancer Center, Houston, USA and the MPI, Freiburg.
+PhD 2008, Paris VI University.
+Postdoctoral research at the Stowers Institute, Kansas City, USA.
+Group leader at EMBL since 2009. Senior scientist since 2016.
+ERC investigator since 2015."
+  thumbnailUrl: aulehla_grey.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 3
+  name: "Baubak"
+  surname: "Bajoghli"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 4
+  name: "Lazaro"
+  surname: "Centanin"
+  company: "COS Heidelberg"
+  title: ""
+  bio: ""
+  thumbnailUrl: Centanin.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 11
+  name: "Soojin"
+  surname: "Ryu"
+  company: "University Medical Center of the Johannes Gutenberg University Mainz"
+  title: "Prof."
+  bio: "I was born in Seoul, Korea, but grew up in New York City. I got my bachelor’s degree from Harvard and my Ph.D. at the University of California, Berkeley at the laboratory of Prof. Robert Tjian, before moving to Freiburg, Germany, for my postdoc at the laboratory of Prof. Wolfgang Driever. In Freiburg, I started working with zebrafish and have been continuing to work with zebrafish ever since. After my postdoc, I was a group leader at the Max Planck Institute for Medical Research in Heidelberg before moving to Mainz as a professor. I am fascinated by how stress hormones alter our behavior and the brain and would like to understand how stress resilience can be developed and fostered.<br> https://www.ryulab.org/ "
+  thumbnailUrl: ryu_wide.jpg
+  rockstar: true
+  social: 
+    - {}
+
+- 
+  id: 12
+  name: "Manfred"
+  surname: "Schartl"
+  company: "Biozentrum Universität Würzburg"
+  title: ""
+  bio: ""
+  thumbnailUrl: schartl_wide.jpg
+  rockstar: true
+  social: 
+    - {}
+
+- 
+  id: 16
+  name: "Jochen"
+  surname: "Wittbrodt"
+  company: "COS Heidelberg, Heidelberg University"
+  title: ""
+  bio: ""
+  thumbnailUrl: Wittbrodt-white.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 36
+  name: "Kiyoshi"
+  surname: "Naruse"
+  company: "Laboratory of Bioresources, NIBB"
+  title: ""
+  bio: ""
+  thumbnailUrl: Kiyoshi_Naruse.jpg
+  rockstar: true
+  social: 
+    - {}
+
+
