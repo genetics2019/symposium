@@ -2,7 +2,7 @@
   id: 1
   name: "Narges"
   surname: "Aghaallaei"
-  company: "Universitätsklinikum Tübingen, Medizinische Universitätsklinik, Abteilung Innere Medizin II, Universität Tübingen"
+  company: "Universitätsklinikum Tübingen, Abteilung Innere Medizin II"
   title: ""
   bio: "I am currently working as senior post-doc at Heidelberg University. My main current focus of research is the study of the intestinal stem cell development.
 After completing my PhD in Biology-Genetics, I joined the Max-Planck Institute of Immunobiology and Epigenetics. My work focused on understanding the evolution and development of the thymus, a specialized primary lymphoid organ necessary for T-lymphocyte development, we identified a presumptive thymus equivalent tissue in the lamprey (Bajoghli, Aghaallaei, et al.,
@@ -36,10 +36,18 @@ ERC investigator since 2015."
   id: 3
   name: "Baubak"
   surname: "Bajoghli"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  company: "University Hospital Tübingen"
+  title: "Dr."
+  bio: "Group Leader at University Hospital Tübingen, Translational Oncology
+Jun 2007 - Feb 2012
+PostDoc Position
+Max Planck Institute of Immunobiology and Epigenetics · Department of Developmental Immunology
+Freiburg, Germany
+Feb 2005 - May 2007
+PhD Student
+University of Veterinary Medicine in Vienna · Institute for Animal Breeding and Genetics
+Vienna, Austria"
+  thumbnailUrl: bajoghli.jpg
   rockstar: false
   social: 
     - {}
