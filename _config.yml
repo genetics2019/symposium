@@ -90,10 +90,10 @@ venue2Features: ["Venue 17th-18th April 2018", "Bertalanffy Lecture Hall and Sem
 # About Block
 aboutTitle: "Organizers"
 aboutBlock:
- - {title: "Lazaro Centanin", image: "Centanin.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Kiyoshi Naruse", image: "Kiyoshi_Naruse.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Thomas Thumberger", image: "Thumberger.png", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
- - {title: "Jochen Wittbrodt", image: "Wittbrodt2.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Lazaro Centanin", image: "Centanin.jpg"}
+ - {title: "Kiyoshi Naruse", image: "Kiyoshi_Naruse.jpg"}
+ - {title: "Thomas Thumberger", image: "Thumberger.png"}
+ - {title: "Jochen Wittbrodt", image: "Wittbrodt2.jpg"}
 
 # Partners Block
 partnersTitle: "Hotels"
