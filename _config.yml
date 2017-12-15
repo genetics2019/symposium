@@ -95,8 +95,6 @@ aboutBlock:
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Partners Block
-organizersTitle: "Organizers"
-sponsorsTitle: "Sponsors"
 partnersTitle: "Hotels"
 hotelButton: "Hotel Information"
 
