@@ -1,3 +1,6 @@
+$organization-image-size: 140px;
+$small-organization-image-size: 120px;
+
 .organization {
     .name {
         font-size: 26px;
@@ -19,4 +22,12 @@
 .organization {
     padding-bottom: 13px;
 }
-
+.rorganization-img {
+    width: $organization-image-size;
+    height: $organization-image-size;
+    margin: 0 auto;
+    @media (max-width: 767px) {
+        width: $small-organization-image-size;
+        height: $small-organization-image-size;
+    }
+}
