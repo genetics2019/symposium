@@ -113,6 +113,7 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:lazaro.centanin@cos.uni-heidelberg.de", text: "lazaro.centanin@cos.uni-heidelberg.de"}
+   - {link: "mailto:sekretariat.wittbrodt@cos.uni-heidelberg.de", text: "sekretariat.wittbrodt@cos.uni-heidelberg.de"}
    - {link: "https://goo.gl/maps/xMkr4hkHoNA2", text: "COS <br> Im Neuenheimer Feld 230 <br> 69120 Heidelberg"}
  -
   title: "Sitemap"
