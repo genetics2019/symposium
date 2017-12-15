@@ -2,7 +2,7 @@
   id: 1
   name: "Narges"
   surname: "Aghaallaei"
-  company: "Universitätsklinikum Tübingen, Abteilung Innere Medizin II"
+  company: "University Hospital Tübingen, Abteilung Innere Medizin II"
   title: ""
   bio: "I am currently working as senior post-doc at Heidelberg University. My main current focus of research is the study of the intestinal stem cell development.
 After completing my PhD in Biology-Genetics, I joined the Max-Planck Institute of Immunobiology and Epigenetics. My work focused on understanding the evolution and development of the thymus, a specialized primary lymphoid organ necessary for T-lymphocyte development, we identified a presumptive thymus equivalent tissue in the lamprey (Bajoghli, Aghaallaei, et al.,
@@ -10,7 +10,7 @@ Nature 2011). I also characterized the dendritic cells in fish for first time (A
 in teleost gut. During this time, I realized that the combination of optical transparency
 of fish gut and advanced tools of molecular biology provides a unique opportunity to
 understand basic mechanisms that underlie immune response to tumor formation."
-  thumbnailUrl: aghaallaei_wide.jpg
+  thumbnailUrl: aghaallaei.jpg
   rockstar: true
   social: 
     - {}
