@@ -1,5 +1,5 @@
 - 
   group: "Main sponsors"
   elements: 
-    - {name: "ACQUIFER", description: "ACQUIFER", link: "https://www.acquifer.de/", imageUrl: "Acquifer_Logo_60k_cmyk_300dpi.png", height: "600px"}
+    - {name: "ACQUIFER", description: "ACQUIFER", link: "https://www.acquifer.de/", imageUrl: "Acquifer_Logo_color.png", height: "600px"}
     - {name: "COS", description: "Center of Organismal Studies Heidelberg", link: "https://www.cos.uni-heidelberg.de/", imageUrl: "coslogo204.png", height: "600px"}
