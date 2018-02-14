@@ -48,8 +48,10 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
+ - {link: "https://goo.gl/forms/v8rtIL6zuGW8TS1t2", text: "Apply for Sponsorship"}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf7N_jo1rg3WZdbJY0y6X2Ipgsaacl22q7KJC4NtLJqFsns3Q/viewform?usp=sf_link", text: "Registration"}
 rightNavigationButtons:
+ - {link: "https://goo.gl/forms/v8rtIL6zuGW8TS1t2", text: "Apply for Sponsorship"}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf7N_jo1rg3WZdbJY0y6X2Ipgsaacl22q7KJC4NtLJqFsns3Q/viewform?usp=sf_link", text: "Registration"}
 
 # Hero Block
