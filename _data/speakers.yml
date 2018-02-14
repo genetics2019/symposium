@@ -66,8 +66,8 @@ Vienna, Austria"
 
 - 
   id: 5
-  name: "Tanaka"
-  surname: "Minoru"
+  name: "Minoru"
+  surname: "Tanaka"
   company: "Nagoya University"
   title: ""
   bio: ""
@@ -78,8 +78,8 @@ Vienna, Austria"
 
 - 
   id: 6
-  name: "Martinez-Morales"
-  surname: "Juan Ramon"
+  name: "Juan Ramon"
+  surname: "Martinez-Morales"
   company: "CABD"
   title: ""
   bio: ""
@@ -90,8 +90,8 @@ Vienna, Austria"
 
 - 
   id: 7
-  name: "Winkler"
-  surname: "Christoph"
+  name: "Christoph"
+  surname: "Winkler"
   company: "National University of Singapore"
   title: ""
   bio: ""
@@ -102,8 +102,8 @@ Vienna, Austria"
 
 - 
   id: 8
-  name: "Stanier"
-  surname: "Didier"
+  name: "Didier"
+  surname: "Stanier"
   company: "MPI Bad Nauheim"
   title: ""
   bio: ""
