@@ -65,6 +65,55 @@ Vienna, Austria"
     - {}
 
 - 
+  id: 5
+  name: "Tanaka"
+  surname: "Minoru"
+  company: "Nagoya University"
+  title: ""
+  bio: ""
+  thumbnailUrl: Minoru_Tanaka.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 6
+  name: "Martinez-Morales"
+  surname: "Juan Ramon"
+  company: "CABD"
+  title: ""
+  bio: ""
+  thumbnailUrl: Martinez-Morales.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 7
+  name: "Winkler"
+  surname: "Christoph"
+  company: "National University of Singapore"
+  title: ""
+  bio: ""
+  thumbnailUrl: Christoph_Winkler2.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 8
+  name: "Stanier"
+  surname: "Didier"
+  company: "MPI Bad Nauheim"
+  title: ""
+  bio: ""
+  thumbnailUrl: Stanier2.jpg
+  rockstar: false
+  social: 
+    - {}
+
+
+- 
   id: 11
   name: "Soojin"
   surname: "Ryu"
