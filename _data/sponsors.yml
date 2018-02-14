@@ -4,7 +4,7 @@
     - {name: "ACQUIFER", description: "ACQUIFER", link: "https://www.acquifer.de/", imageUrl: "Acquifer_70.png", height: "800px"}
 
 -
-  group: ""
+  group: "   "
   elements:
     - {name: "EPPENDORF", description: "Eppendorf", link: "https://www.eppendorf.com/", imageUrl: "eppendorf_small.jpg", height: "600px"}
     - {name: "EHEIM shopDesign", description: "EHEIM Shopdesign", link: "http://www.eheim-shopdesign.de/", imageUrl: "Eheim_small.png", height: "600px"}
