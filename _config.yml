@@ -69,6 +69,9 @@ rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Confirmed Speakers among others"
 rockstarSpeakersButtonText: "See all speakers"
 
+#Contributor Block
+contributorTitle: "Main Contributor"
+
 #Sponsor Block
 sponsorsTitle: "Major Sponsors"
 
