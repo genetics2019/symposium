@@ -1,6 +1,6 @@
 - 
   group: "  "
   elements: 
-    - {name: "DFG", description: "Deutsche Forschungsgemeinschaft", link: "http://www.dfg.de/", imageUrl: "DFG-logo-blau.png", height: "800px"}
+    - {name: "DFG", description: "Deutsche Forschungsgemeinschaft", link: "http://www.dfg.de/", imageUrl: "DFGBox.png", height: "800px"}
 
 
