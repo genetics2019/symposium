@@ -1,7 +1,7 @@
 - 
   group: "  "
   elements: 
-    - {name: "ACQUIFER", description: "ACQUIFER", link: "https://www.acquifer.de/", imageUrl: "Acquifer_70.png", height: "800px"}
+    - {name: "ACQUIFER", description: "ACQUIFER", link: "https://www.acquifer.de/", imageUrl: "AcquiferBox.png", height: "800px"}
 
 -
   group: "   "
