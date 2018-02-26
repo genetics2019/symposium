@@ -112,6 +112,29 @@ Vienna, Austria"
   social: 
     - {}
 
+- 
+  id: 9
+  name: "Hideaki"
+  surname: "Takeuichi"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: Hideaki_Takeuchi.png
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 10
+  name: "Hiroyuki"
+  surname: "Takeda"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: Hiroyuki_Takeda.jpg
+  rockstar: false
+  social: 
+    - {}
 
 - 
   id: 11
@@ -138,6 +161,42 @@ Vienna, Austria"
     - {}
 
 - 
+  id: 13
+  name: "Saori"
+  surname: "Yokoi"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: Saori Yokoi.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 14
+  name: "Satoshi"
+  surname: "Ansai"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: Satoshi Ansai.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 15
+  name: "Takahashi"
+  surname: "Yoshimura"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: Takahashi Yoshimura.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
   id: 16
   name: "Jochen"
   surname: "Wittbrodt"
@@ -145,6 +204,18 @@ Vienna, Austria"
   title: ""
   bio: ""
   thumbnailUrl: wittbrodt-grey.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 17
+  name: "Yasuhiro"
+  surname: "Kamei"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: Yasuhiro Kamei.jpg
   rockstar: false
   social: 
     - {}
