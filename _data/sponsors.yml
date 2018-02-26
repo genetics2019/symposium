@@ -1,13 +1,13 @@
 - 
   group: "  "
   elements: 
-    - {name: "ACQUIFER", description: "ACQUIFER", link: "https://www.acquifer.de/", imageUrl: "AcquiferBox.png", height: "800px"}
+    - {name: "ACQUIFER", description: "ACQUIFER", link: "https://www.acquifer.de/", imageUrl: "Acquifer_b.png", height: "800px"}
 
 -
   group: "   "
   elements:
-    - {name: "EPPENDORF", description: "Eppendorf", link: "https://www.eppendorf.com/", imageUrl: "EppendorfBox.png", height: "600px"}
-    - {name: "EHEIM shopDesign", description: "EHEIM Shopdesign", link: "http://www.eheim-shopdesign.de/", imageUrl: "EHEIMBox.png", height: "600px"}
-    - {name: "TECNIPLAST", description: "Tecniplast", link: "http://www.tecniplast.it/de/index.html", imageUrl: "TecniplastBox.png", height: "600px"}
-    - {name: "COS", description: "Center of Organismal Studies Heidelberg", link: "https://www.cos.uni-heidelberg.de/", imageUrl: "COSbox.png", height: "600px"}
+    - {name: "EPPENDORF", description: "Eppendorf", link: "https://www.eppendorf.com/", imageUrl: "Eppendorf_b.png", height: "600px"}
+    - {name: "EHEIM shopDesign", description: "EHEIM Shopdesign", link: "http://www.eheim-shopdesign.de/", imageUrl: "EHEIM_b.png", height: "600px"}
+    - {name: "TECNIPLAST", description: "Tecniplast", link: "http://www.tecniplast.it/de/index.html", imageUrl: "Tecniplast_b.png", height: "600px"}
+    - {name: "COS", description: "Center of Organismal Studies Heidelberg", link: "https://www.cos.uni-heidelberg.de/", imageUrl: "COS_b.png", height: "600px"}
 
