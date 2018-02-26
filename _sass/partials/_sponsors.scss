@@ -16,10 +16,6 @@
     }
     img {
         width: 120px;
-    	min-height: 120px;
-    	max-height: auto;
-	margin: 3px;
-	padding: 3px;
         transition: $base-transition;
         filter: grayscale(1);
         &:hover {
