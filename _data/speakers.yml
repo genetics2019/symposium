@@ -116,9 +116,10 @@ Vienna, Austria"
   id: 9
   name: "Hideaki"
   surname: "Takeuichi"
-  company: ""
-  title: ""
-  bio: ""
+  company: "Okayama University"
+  title: "PhD Associate Professor"
+  bio: "To clarify both molecular/neural basis and brain information processing underlying social interactions in vertebrates, we have focused on Medaka fish and established novel behavior systems to assess social interactions (schooling behavior, individual recognition, group-escape and group-learning). Using these systems we are planning to identify internal factors (genes, neural networks, and brain regions) essential for vertebrate social interactions using transgenic medaka systems. On the other hand, to estimate behavior rules underlying social interactions, we developed a hypothesis-independent data mining, which could explain actual fish movement. Our eventual purpose is to how the internal factors (genes, neural networks, and brain regions) influences animal behaviors which can serve as the basis for the emergence of sociality.
+Furthermore I have investigated the molecular/neural basis underlying invertebrate social behavior (honeybee) and compare neural/ social mechanisms between the vertebrate and invertebrate."
   thumbnailUrl: Hideaki_Takeuchi.png
   rockstar: false
   social: 
@@ -164,7 +165,7 @@ Vienna, Austria"
   id: 13
   name: "Saori"
   surname: "Yokoi"
-  company: ""
+  company: "Hokkaido University"
   title: ""
   bio: ""
   thumbnailUrl: Saori_Yokoi_grey.png
@@ -176,7 +177,7 @@ Vienna, Austria"
   id: 14
   name: "Satoshi"
   surname: "Ansai"
-  company: ""
+  company: "National Institute for Basic Biology"
   title: ""
   bio: ""
   thumbnailUrl: Satoshi_Ansai_grey.jpg
@@ -212,9 +213,19 @@ Vienna, Austria"
   id: 17
   name: "Yasuhiro"
   surname: "Kamei"
-  company: ""
-  title: ""
-  bio: ""
+  company: "National Institutes of Natural Sciences"
+  title: "PhD. Associate Prof."
+  bio: "Oct 2012 - Today   Associate Prof.,  Dept. Basic Biology, SOKENDAI
+
+Apr 2012 - Mar 2013   Visiting Associate Professor, Kumamoto University
+
+Apr 2010 - Today   Associate Prof. (Specially Appointed),  Spectrography and BioImaging Facility, National Institute for Basic Biology
+
+Sep 2009 - Mar 2010   Researcher (specially appointed), Nagahama Institute for Biotechnology
+
+Jan 2008 - Sep 2009   Researcher (specially appointed), Osaka University
+
+"
   thumbnailUrl: Yasuhiro_Kamei_grey.jpg
   rockstar: false
   social: 
@@ -224,8 +235,8 @@ Vienna, Austria"
   id: 36
   name: "Kiyoshi"
   surname: "Naruse"
-  company: "Laboratory of Bioresources, NIBB"
-  title: ""
+  company: "Laboratory of Bioresources, National Institute for Basic Biology"
+  title: "Ph.D Associate Professor"
   bio: ""
   thumbnailUrl: Kiyoshi_Naruse.jpg
   rockstar: true
