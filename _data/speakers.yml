@@ -232,6 +232,30 @@ Jan 2008 - Sep 2009   Researcher (specially appointed), Osaka University
     - {}
 
 - 
+  id: 18
+  name: "Kristin"
+  surname: "Tessmar Raible"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: Tessmar_Kristin.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 19
+  name: "Ron B."
+  surname: "Walter"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: RonWalter.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
   id: 36
   name: "Kiyoshi"
   surname: "Naruse"
