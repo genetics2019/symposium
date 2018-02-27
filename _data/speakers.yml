@@ -3,7 +3,7 @@
   name: "Narges"
   surname: "Aghaallaei"
   company: "University Hospital Tübingen, Abteilung Innere Medizin II"
-  title: ""
+  title: "Click for Abstract"
   bio: "I am currently working as senior post-doc at Heidelberg University. My main current focus of research is the study of the intestinal stem cell development.
 After completing my PhD in Biology-Genetics, I joined the Max-Planck Institute of Immunobiology and Epigenetics. My work focused on understanding the evolution and development of the thymus, a specialized primary lymphoid organ necessary for T-lymphocyte development, we identified a presumptive thymus equivalent tissue in the lamprey (Bajoghli, Aghaallaei, et al.,
 Nature 2011). I also characterized the dendritic cells in fish for first time (Aghaallaei et al., PNAS, 2010). Now as an independent postdoc, I study the development of intestinal stem cells
@@ -20,7 +20,7 @@ understand basic mechanisms that underlie immune response to tumor formation."
   name: "Alexander"
   surname: "Aulehla"
   company: "EMBL Heidelberg"
-  title: "Dr."
+  title: "Click for Abstract"
   bio: "MD 2002, Albert-Ludwigs-University, Freiburg.
 Research at the MD Anderson Cancer Center, Houston, USA and the MPI, Freiburg.
 PhD 2008, Paris VI University.
@@ -37,7 +37,7 @@ ERC investigator since 2015."
   name: "Baubak"
   surname: "Bajoghli"
   company: "University Hospital Tübingen"
-  title: "Dr."
+  title: "Click for Abstract"
   bio: "Group Leader at University Hospital Tübingen, Translational Oncology
 Jun 2007 - Feb 2012
 PostDoc Position
@@ -57,7 +57,7 @@ Vienna, Austria"
   name: "Lazaro"
   surname: "Centanin"
   company: "COS Heidelberg"
-  title: ""
+  title: "Click for Abstract"
   bio: ""
   thumbnailUrl: centanin-grey.jpg
   rockstar: false
@@ -69,7 +69,7 @@ Vienna, Austria"
   name: "Minoru"
   surname: "Tanaka"
   company: "Nagoya University"
-  title: ""
+  title: "Click for Abstract"
   bio: ""
   thumbnailUrl: Minoru_Tanaka.jpg
   rockstar: false
@@ -81,7 +81,7 @@ Vienna, Austria"
   name: "Juan Ramon"
   surname: "Martinez-Morales"
   company: "CABD"
-  title: ""
+  title: "Click for Abstract"
   bio: ""
   thumbnailUrl: Martinez-Morales.jpg
   rockstar: false
@@ -93,7 +93,7 @@ Vienna, Austria"
   name: "Christoph"
   surname: "Winkler"
   company: "National University of Singapore"
-  title: ""
+  title: "Click for Abstract"
   bio: ""
   thumbnailUrl: Christoph_Winkler2.jpg
   rockstar: false
@@ -105,7 +105,7 @@ Vienna, Austria"
   name: "Didier"
   surname: "Stanier"
   company: "MPI Bad Nauheim"
-  title: ""
+  title: "Click for Abstract"
   bio: ""
   thumbnailUrl: Didier_Stanier_grey.jpg
   rockstar: false
@@ -117,7 +117,7 @@ Vienna, Austria"
   name: "Hideaki"
   surname: "Takeuichi"
   company: "Okayama University"
-  title: "PhD Associate Professor"
+  title: "Click for Abstract"
   bio: "To clarify both molecular/neural basis and brain information processing underlying social interactions in vertebrates, we have focused on Medaka fish and established novel behavior systems to assess social interactions (schooling behavior, individual recognition, group-escape and group-learning). Using these systems we are planning to identify internal factors (genes, neural networks, and brain regions) essential for vertebrate social interactions using transgenic medaka systems. On the other hand, to estimate behavior rules underlying social interactions, we developed a hypothesis-independent data mining, which could explain actual fish movement. Our eventual purpose is to how the internal factors (genes, neural networks, and brain regions) influences animal behaviors which can serve as the basis for the emergence of sociality.
 Furthermore I have investigated the molecular/neural basis underlying invertebrate social behavior (honeybee) and compare neural/ social mechanisms between the vertebrate and invertebrate."
   thumbnailUrl: Hideaki_Takeuchi.png
@@ -130,7 +130,7 @@ Furthermore I have investigated the molecular/neural basis underlying invertebra
   name: "Hiroyuki"
   surname: "Takeda"
   company: ""
-  title: ""
+  title: "Click for Abstract"
   bio: ""
   thumbnailUrl: Hiroyuki_Takeda_grey.jpg
   rockstar: false
@@ -142,7 +142,7 @@ Furthermore I have investigated the molecular/neural basis underlying invertebra
   name: "Soojin"
   surname: "Ryu"
   company: "University Medical Center of the Johannes Gutenberg University Mainz"
-  title: "Prof."
+  title: "Click for Abstract"
   bio: "I was born in Seoul, Korea, but grew up in New York City. I got my bachelor’s degree from Harvard and my Ph.D. at the University of California, Berkeley at the laboratory of Prof. Robert Tjian, before moving to Freiburg, Germany, for my postdoc at the laboratory of Prof. Wolfgang Driever. In Freiburg, I started working with zebrafish and have been continuing to work with zebrafish ever since. After my postdoc, I was a group leader at the Max Planck Institute for Medical Research in Heidelberg before moving to Mainz as a professor. I am fascinated by how stress hormones alter our behavior and the brain and would like to understand how stress resilience can be developed and fostered.<br> https://www.ryulab.org/ "
   thumbnailUrl: ryu-grey.jpg
   rockstar: true
@@ -154,7 +154,7 @@ Furthermore I have investigated the molecular/neural basis underlying invertebra
   name: "Manfred"
   surname: "Schartl"
   company: "Biozentrum Universität Würzburg"
-  title: ""
+  title: "Click for Abstract"
   bio: ""
   thumbnailUrl: schartl-grey.jpg
   rockstar: true
@@ -166,7 +166,7 @@ Furthermore I have investigated the molecular/neural basis underlying invertebra
   name: "Saori"
   surname: "Yokoi"
   company: "Hokkaido University"
-  title: ""
+  title: "Click for Abstract"
   bio: ""
   thumbnailUrl: Saori_Yokoi_grey.png
   rockstar: false
@@ -178,7 +178,7 @@ Furthermore I have investigated the molecular/neural basis underlying invertebra
   name: "Satoshi"
   surname: "Ansai"
   company: "National Institute for Basic Biology"
-  title: ""
+  title: "Click for Abstract"
   bio: ""
   thumbnailUrl: Satoshi_Ansai_grey.jpg
   rockstar: false
@@ -190,7 +190,7 @@ Furthermore I have investigated the molecular/neural basis underlying invertebra
   name: "Takahashi"
   surname: "Yoshimura"
   company: ""
-  title: ""
+  title: "Click for Abstract"
   bio: ""
   thumbnailUrl: Takahashi_Yoshimura_grey.jpg
   rockstar: false
@@ -202,7 +202,7 @@ Furthermore I have investigated the molecular/neural basis underlying invertebra
   name: "Jochen"
   surname: "Wittbrodt"
   company: "COS Heidelberg, Heidelberg University"
-  title: ""
+  title: "Click for Abstract"
   bio: ""
   thumbnailUrl: wittbrodt-grey.jpg
   rockstar: false
@@ -214,7 +214,7 @@ Furthermore I have investigated the molecular/neural basis underlying invertebra
   name: "Yasuhiro"
   surname: "Kamei"
   company: "National Institutes of Natural Sciences"
-  title: "PhD. Associate Prof."
+  title: "Click for Abstract"
   bio: "Oct 2012 - Today   Associate Prof.,  Dept. Basic Biology, SOKENDAI
 
 Apr 2012 - Mar 2013   Visiting Associate Professor, Kumamoto University
@@ -236,7 +236,7 @@ Jan 2008 - Sep 2009   Researcher (specially appointed), Osaka University
   name: "Kristin"
   surname: "Tessmar Raible"
   company: ""
-  title: ""
+  title: "Click for Abstract"
   bio: ""
   thumbnailUrl: Tessmar_Kristin.jpg
   rockstar: false
@@ -248,7 +248,7 @@ Jan 2008 - Sep 2009   Researcher (specially appointed), Osaka University
   name: "Ronald B."
   surname: "Walter"
   company: "Texas State University"
-  title: "Professor and University Chair"
+  title: "Click for Abstract"
   bio: "		We have previously shown 4,100 K or “cool white” fluorescent light (FL) exposure induces cellular stress, inflammation and immune responses in the skin of several varied biomedical fish models including; platyfish (Xiphophorus maculatus), medaka, (Oryzias latipes) and zebrafish (Danio rerio)1.  
 	Here we present RNA-seq results that establish similar patterns of modulated gene expression within two internal organs, brain and liver, of zebrafish and medaka exposed to 35 kJ/m2 FL.  In addition, FL light induced modulated gene expression within skin, brain and liver of both fish models is compared to similarly FL exposed hairless mice (Mus musculus). 
 	In zebrafish and medaka, each of the three organs tested showed up-modulation of unique gene sets that are expected to activate the Acute Phase Response (APR) signaling pathway, leading to increased inflammation and innate immune response. Our pathway and gene clustering analyses suggest this response is due to increased cellular oxidative stress that promotes induction of the primary up-stream regulator, tumor necrosis factor (TNF).  Exposure of hairless mice to FL also serves to induce both inflammation and an immune response that mimics that observed in the fish models for both skin and brain. However, the FL induced genetic response in liver, although consistent and up-modulated in medaka and zebrafish, exhibits a suppressed response in mouse liver, but in the same pathways. 
@@ -267,7 +267,7 @@ Jan 2008 - Sep 2009   Researcher (specially appointed), Osaka University
   name: "Kiyoshi"
   surname: "Naruse"
   company: "Laboratory of Bioresources, National Institute for Basic Biology"
-  title: "Ph.D Associate Professor"
+  title: "Click for Abstract"
   bio: ""
   thumbnailUrl: Kiyoshi_Naruse.jpg
   rockstar: true
