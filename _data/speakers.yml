@@ -34,7 +34,7 @@ ERC investigator since 2015."
   surname: "Bajoghli"
   company: "University Hospital Tübingen<br>Department of Immunology, Oncology - Labor for Translational Oncology"
   title: "Click for Abstract"
-  bio: "<b>Long search for the “Holy Grail” in the evolution of adaptive immune system: Identification of lymph node equivalent structures in medaka fish</b><br>In the past two decades, we have witnessed a renaissance in the study of the evolution of the adaptive immune system in vertebrates. In particular, these studies have expanded our knowledge of the evolution of thymopoietic tissues, where T-lymphocytes develop. Furthermore, dendritic cells (DCs), which primarily serve as a bridge between the innate and adaptive immune systems were identified in teleost fishes. Overall, these studies demonstrate that the cellular components of the adaptive immune system are evolutionarily conserved between vertebrates. However, secondary lymphoid organs (SLOs), which spatially organising the interaction between lymphocytes and antigen-loaded DCs, are not well conserved across vertebrate groups. For example, lower vertebrates lack lymph node, a vital SLO in mammals. The great mystery is therefore where the adaptive immune response takes place in lower vertebrates. To address this fundamental question, we used medaka fish as a model system. In a comprehensive study, we discovered specific sites, where T-lymphocytes and DCs traffic and interact akin to mammalian lymph nodes. We found that these sites are distributed throughout the body facilitating a rapid adaptive immune response to local infections. Overall, our work provides a new evolutionary framework of the adaptive immune response in teleost fishes. "
+  bio: "<b>Long search for the &quot;Holy Grail&quot; in the evolution of adaptive immune system: Identification of lymph node equivalent structures in medaka fish</b><br><br>In the past two decades, we have witnessed a renaissance in the study of the evolution of the adaptive immune system in vertebrates. In particular, these studies have expanded our knowledge of the evolution of thymopoietic tissues, where T-lymphocytes develop. Furthermore, dendritic cells (DCs), which primarily serve as a bridge between the innate and adaptive immune systems were identified in teleost fishes. Overall, these studies demonstrate that the cellular components of the adaptive immune system are evolutionarily conserved between vertebrates. However, secondary lymphoid organs (SLOs), which spatially organising the interaction between lymphocytes and antigen-loaded DCs, are not well conserved across vertebrate groups. For example, lower vertebrates lack lymph node, a vital SLO in mammals. The great mystery is therefore where the adaptive immune response takes place in lower vertebrates. To address this fundamental question, we used medaka fish as a model system. In a comprehensive study, we discovered specific sites, where T-lymphocytes and DCs traffic and interact akin to mammalian lymph nodes. We found that these sites are distributed throughout the body facilitating a rapid adaptive immune response to local infections. Overall, our work provides a new evolutionary framework of the adaptive immune response in teleost fishes. "
   thumbnailUrl: bajoghli.jpg
   rockstar: false
   social: 
@@ -46,7 +46,7 @@ ERC investigator since 2015."
   surname: "Centanin"
   company: "COS Heidelberg"
   title: "Click for Abstract"
-  bio: ""
+  bio: "<b></b><br><br>"
   thumbnailUrl: centanin-grey.jpg
   rockstar: false
   social: 
@@ -56,9 +56,9 @@ ERC investigator since 2015."
   id: 5
   name: "Minoru"
   surname: "Tanaka"
-  company: "Nagoya University"
+  company: "Nagoya University<br>Graduate School of Science"
   title: "Click for Abstract"
-  bio: ""
+  bio: "<b>Germ Cells - More than Gametogenesis</b><br><br>Germ cells are the only cells indispensible for producing the next generation. But it is generally recognized that germ cells are passive cells that can develop into only gametes. Actually the gametogenesis is strictly regulated by the surrounded somatic cells. However, our studies have begun to reveal the positive ability that germ cells possess. The germ cells do not only have intrinsic mechanism that determines their fate cell-autonomously, but also have the ability to change their environment. Our recent results indicate that germ cells have an intrinsic power to feminize the gonad and body, which can be against a power of masculinization by male sex determination gene, dmrt1bY. Analysis of controlling the germ cell number also suggests that regulation of germline stem cells is related to the size of gonad. I would like to summarize the potential ability of germ cells that were found during the course of our studies."
   thumbnailUrl: Minoru_Tanaka.jpg
   rockstar: false
   social: 
@@ -68,9 +68,9 @@ ERC investigator since 2015."
   id: 6
   name: "Juan Ramon"
   surname: "Martinez-Morales"
-  company: "CABD"
+  company: "Centro Andaluz de Biología del Desarrollo (CSIC/UPO)<br>Gene regulation and morphogenesis"
   title: "Click for Abstract"
-  bio: ""
+  bio: "<b>Analysis of YAP/TAZ-dependent transcriptional response during early morphogenesis in teleost embryos.</b><br><br>The Hippo signaling pathway is a genetic regulatory cascade that controls tissue homeostasis and organ size by coordinating the expression of proliferation, differentiation and apoptotic genes during development. The main constituents of this pathway are two effector proteins: YAP and its paralog TAZ (WWTR1). When YAP or TAZ are active, they get translocated into the cell nucleus and regulate the expression of their target genes interacting physically with TEAD, among other transcription factors. Here we show that Yap family’s paralogs composition is variable among vertebrates. Whereas many of the vertebrate branches maintained functional copies of both Yap and Taz (such as in tetrapods, spotted gar or zebrafish), Taz is not present in Acanthomorpha, the largest group of teleost fishes (e.g. cod, tilapia, platyfish, stickleback, or medakafish). In contrast, a second copy of Yap1, here referred as yap1b, appears conserved in their genomes. This closer paralog encodes for a protein with a divergent c-terminal transactivation domain. Interestingly, comparative analysis of zebrafish and medaka mutants shows that the mutation of yap1 in medaka (generated by CRISPR-Cas) results in a strong morphogenetic phenotype early during development, which is similar to the simultaneous mutation of yap1 and taz in zebrafish. We use iDamIDseq to identify the potential targets of these transcriptional regulators during gastrulation in medaka embryos. Our results, reinforced after carrying out a transcriptomic approach, indicate that the binding profile of yap1b is limited to a subset of the yap1 TEAD-dependent binding sites. Furthermore, the abundance of genes involved in cell migration in both datasets as well as the evidence from ISH and functional assays suggest the potential role of YAP as a regulatory driver of morphogenesis at early developmental stages."
   thumbnailUrl: Martinez-Morales.jpg
   rockstar: false
   social: 
@@ -82,7 +82,7 @@ ERC investigator since 2015."
   surname: "Winkler"
   company: "National University of Singapore"
   title: "Click for Abstract"
-  bio: ""
+  bio: "<b></b><br><br>"
   thumbnailUrl: Christoph_Winkler2.jpg
   rockstar: false
   social: 
@@ -94,7 +94,7 @@ ERC investigator since 2015."
   surname: "Stanier"
   company: "MPI Bad Nauheim"
   title: "Click for Abstract"
-  bio: ""
+  bio: "<b></b><br><br>"
   thumbnailUrl: Didier_Stanier_grey.jpg
   rockstar: false
   social: 
@@ -106,8 +106,7 @@ ERC investigator since 2015."
   surname: "Takeuichi"
   company: "Okayama University"
   title: "Click for Abstract"
-  bio: "To clarify both molecular/neural basis and brain information processing underlying social interactions in vertebrates, we have focused on Medaka fish and established novel behavior systems to assess social interactions (schooling behavior, individual recognition, group-escape and group-learning). Using these systems we are planning to identify internal factors (genes, neural networks, and brain regions) essential for vertebrate social interactions using transgenic medaka systems. On the other hand, to estimate behavior rules underlying social interactions, we developed a hypothesis-independent data mining, which could explain actual fish movement. Our eventual purpose is to how the internal factors (genes, neural networks, and brain regions) influences animal behaviors which can serve as the basis for the emergence of sociality.
-Furthermore I have investigated the molecular/neural basis underlying invertebrate social behavior (honeybee) and compare neural/ social mechanisms between the vertebrate and invertebrate."
+  bio: "<b></b><br><br>"
   thumbnailUrl: Hideaki_Takeuchi.png
   rockstar: false
   social: 
@@ -119,7 +118,7 @@ Furthermore I have investigated the molecular/neural basis underlying invertebra
   surname: "Takeda"
   company: ""
   title: "Click for Abstract"
-  bio: ""
+  bio: "<b></b><br><br>"
   thumbnailUrl: Hiroyuki_Takeda_grey.jpg
   rockstar: false
   social: 
@@ -131,7 +130,7 @@ Furthermore I have investigated the molecular/neural basis underlying invertebra
   surname: "Ryu"
   company: "University Medical Center of the Johannes Gutenberg University Mainz"
   title: "Click for Abstract"
-  bio: "I was born in Seoul, Korea, but grew up in New York City. I got my bachelor’s degree from Harvard and my Ph.D. at the University of California, Berkeley at the laboratory of Prof. Robert Tjian, before moving to Freiburg, Germany, for my postdoc at the laboratory of Prof. Wolfgang Driever. In Freiburg, I started working with zebrafish and have been continuing to work with zebrafish ever since. After my postdoc, I was a group leader at the Max Planck Institute for Medical Research in Heidelberg before moving to Mainz as a professor. I am fascinated by how stress hormones alter our behavior and the brain and would like to understand how stress resilience can be developed and fostered.<br> https://www.ryulab.org/ "
+  bio: "<b></b><br><br>"
   thumbnailUrl: ryu-grey.jpg
   rockstar: true
   social: 
@@ -143,7 +142,7 @@ Furthermore I have investigated the molecular/neural basis underlying invertebra
   surname: "Schartl"
   company: "Biozentrum Universität Würzburg"
   title: "Click for Abstract"
-  bio: ""
+  bio: "<b></b><br><br>"
   thumbnailUrl: schartl-grey.jpg
   rockstar: true
   social: 
@@ -155,7 +154,7 @@ Furthermore I have investigated the molecular/neural basis underlying invertebra
   surname: "Yokoi"
   company: "Hokkaido University"
   title: "Click for Abstract"
-  bio: ""
+  bio: "<b></b><br><br>"
   thumbnailUrl: Saori_Yokoi_grey.png
   rockstar: false
   social: 
@@ -167,7 +166,7 @@ Furthermore I have investigated the molecular/neural basis underlying invertebra
   surname: "Ansai"
   company: "National Institute for Basic Biology"
   title: "Click for Abstract"
-  bio: ""
+  bio: "<b></b><br><br>"
   thumbnailUrl: Satoshi_Ansai_grey.jpg
   rockstar: false
   social: 
@@ -179,7 +178,7 @@ Furthermore I have investigated the molecular/neural basis underlying invertebra
   surname: "Yoshimura"
   company: ""
   title: "Click for Abstract"
-  bio: ""
+  bio: "<b></b><br><br>"
   thumbnailUrl: Takahashi_Yoshimura_grey.jpg
   rockstar: false
   social: 
@@ -191,7 +190,7 @@ Furthermore I have investigated the molecular/neural basis underlying invertebra
   surname: "Wittbrodt"
   company: "COS Heidelberg, Heidelberg University"
   title: "Click for Abstract"
-  bio: ""
+  bio: "<b></b><br><br>"
   thumbnailUrl: wittbrodt-grey.jpg
   rockstar: false
   social: 
@@ -203,16 +202,7 @@ Furthermore I have investigated the molecular/neural basis underlying invertebra
   surname: "Kamei"
   company: "National Institutes of Natural Sciences"
   title: "Click for Abstract"
-  bio: "Oct 2012 - Today   Associate Prof.,  Dept. Basic Biology, SOKENDAI
-
-Apr 2012 - Mar 2013   Visiting Associate Professor, Kumamoto University
-
-Apr 2010 - Today   Associate Prof. (Specially Appointed),  Spectrography and BioImaging Facility, National Institute for Basic Biology
-
-Sep 2009 - Mar 2010   Researcher (specially appointed), Nagahama Institute for Biotechnology
-
-Jan 2008 - Sep 2009   Researcher (specially appointed), Osaka University
-
+  bio: "<b></b><br><br>
 "
   thumbnailUrl: Yasuhiro_Kamei_grey.jpg
   rockstar: false
@@ -225,7 +215,7 @@ Jan 2008 - Sep 2009   Researcher (specially appointed), Osaka University
   surname: "Tessmar Raible"
   company: ""
   title: "Click for Abstract"
-  bio: ""
+  bio: "<b></b><br><br>"
   thumbnailUrl: Tessmar_Kristin.jpg
   rockstar: false
   social: 
@@ -237,13 +227,7 @@ Jan 2008 - Sep 2009   Researcher (specially appointed), Osaka University
   surname: "Walter"
   company: "Texas State University"
   title: "Click for Abstract"
-  bio: "		We have previously shown 4,100 K or “cool white” fluorescent light (FL) exposure induces cellular stress, inflammation and immune responses in the skin of several varied biomedical fish models including; platyfish (Xiphophorus maculatus), medaka, (Oryzias latipes) and zebrafish (Danio rerio)1.  
-	Here we present RNA-seq results that establish similar patterns of modulated gene expression within two internal organs, brain and liver, of zebrafish and medaka exposed to 35 kJ/m2 FL.  In addition, FL light induced modulated gene expression within skin, brain and liver of both fish models is compared to similarly FL exposed hairless mice (Mus musculus). 
-	In zebrafish and medaka, each of the three organs tested showed up-modulation of unique gene sets that are expected to activate the Acute Phase Response (APR) signaling pathway, leading to increased inflammation and innate immune response. Our pathway and gene clustering analyses suggest this response is due to increased cellular oxidative stress that promotes induction of the primary up-stream regulator, tumor necrosis factor (TNF).  Exposure of hairless mice to FL also serves to induce both inflammation and an immune response that mimics that observed in the fish models for both skin and brain. However, the FL induced genetic response in liver, although consistent and up-modulated in medaka and zebrafish, exhibits a suppressed response in mouse liver, but in the same pathways. 
-	Overall, the sharing of genetic responses to light among divergent diurnal fishes, and a nocturnal mammal, suggests the genetic response to light is likely hard-wired deep within the vertebrate genome, and may extend through the vertebrate classes, perhaps even to humans.
-
-1) Boswell, M., Boswell, W., Lu, Y., Savage, M, et. al., (2017). The Transcriptional Response of Skin to Fluorescent Light Exposure in Viviparous (Xiphophorus) and Oviparous (Danio, Oryzias) Fishes. Comp. Biochem. & Physiology, https://doi.org/10.1016/j.cbpc.2017.10.003
-
+  bio: "<b></b><br><br>
 "
   thumbnailUrl: RonWalter.jpg
   rockstar: false
@@ -256,7 +240,7 @@ Jan 2008 - Sep 2009   Researcher (specially appointed), Osaka University
   surname: "Naruse"
   company: "Laboratory of Bioresources, National Institute for Basic Biology"
   title: "Click for Abstract"
-  bio: ""
+  bio: "<b></b><br><br>"
   thumbnailUrl: Kiyoshi_Naruse.jpg
   rockstar: true
   social: 
