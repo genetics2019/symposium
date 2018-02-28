@@ -34,7 +34,7 @@ ERC investigator since 2015."
   surname: "Bajoghli"
   company: "University Hospital Tübingen<br>Department of Immunology, Oncology - Labor for Translational Oncology"
   title: "Click for Abstract"
-  bio: "<b>Long search for the &quot;Holy Grail&quot; in the evolution of adaptive immune system: Identification of lymph node equivalent structures in medaka fish</b><br><br>In the past two decades, we have witnessed a renaissance in the study of the evolution of the adaptive immune system in vertebrates. In particular, these studies have expanded our knowledge of the evolution of thymopoietic tissues, where T-lymphocytes develop. Furthermore, dendritic cells (DCs), which primarily serve as a bridge between the innate and adaptive immune systems were identified in teleost fishes. Overall, these studies demonstrate that the cellular components of the adaptive immune system are evolutionarily conserved between vertebrates. However, secondary lymphoid organs (SLOs), which spatially organising the interaction between lymphocytes and antigen-loaded DCs, are not well conserved across vertebrate groups. For example, lower vertebrates lack lymph node, a vital SLO in mammals. The great mystery is therefore where the adaptive immune response takes place in lower vertebrates. To address this fundamental question, we used medaka fish as a model system. In a comprehensive study, we discovered specific sites, where T-lymphocytes and DCs traffic and interact akin to mammalian lymph nodes. We found that these sites are distributed throughout the body facilitating a rapid adaptive immune response to local infections. Overall, our work provides a new evolutionary framework of the adaptive immune response in teleost fishes. "
+  bio: "<b>Long search for the &quot;Holy Grail&quot; in the evolution of adaptive immune system: Identification of lymph node equivalent structures in medaka fish</b><br> <br>In the past two decades, we have witnessed a renaissance in the study of the evolution of the adaptive immune system in vertebrates. In particular, these studies have expanded our knowledge of the evolution of thymopoietic tissues, where T-lymphocytes develop. Furthermore, dendritic cells (DCs), which primarily serve as a bridge between the innate and adaptive immune systems were identified in teleost fishes. Overall, these studies demonstrate that the cellular components of the adaptive immune system are evolutionarily conserved between vertebrates. However, secondary lymphoid organs (SLOs), which spatially organising the interaction between lymphocytes and antigen-loaded DCs, are not well conserved across vertebrate groups. For example, lower vertebrates lack lymph node, a vital SLO in mammals. The great mystery is therefore where the adaptive immune response takes place in lower vertebrates. To address this fundamental question, we used medaka fish as a model system. In a comprehensive study, we discovered specific sites, where T-lymphocytes and DCs traffic and interact akin to mammalian lymph nodes. We found that these sites are distributed throughout the body facilitating a rapid adaptive immune response to local infections. Overall, our work provides a new evolutionary framework of the adaptive immune response in teleost fishes. "
   thumbnailUrl: bajoghli.jpg
   rockstar: false
   social: 
@@ -80,9 +80,9 @@ ERC investigator since 2015."
   id: 7
   name: "Christoph"
   surname: "Winkler"
-  company: "National University of Singapore"
+  company: "National University of Singapore<br>Department of Biological Sciences"
   title: "Click for Abstract"
-  bio: "<b></b><br><br>"
+  bio: "<b>Transcriptome profiling of osteoblasts in a medaka osteoporosis model identifies novel mediators of bone repair</b><br><br>Bone is a highly dynamic organ that is constantly remodeled to maintain its high quality. During remodeling, old bone matrix is degraded by bone-resorbing osteoclasts and instantly replaced by new matrix from bone-forming osteoblasts. To prevent diseases such as osteoporosis, remodeling must be tightly coordinated to balance osteoblast and osteoclast activity. To date, many aspects that control bone homeostasis and osteoblast-osteoclast coupling remain unclear. To address this, we have chosen the Japanese medaka (Oryzias latipes) as a powerful animal model to mimic aspects of human bone diseases. Previously, we generated transgenic medaka where excessive bone resorption and osteoporosis-like lesions can be triggered by inducible expression of the osteoclast-inducing factor ‘Receptor Activator of Nuclear Factor kappa Ligand’ (RANKL). Using live imaging, we could demonstrate that osteoblast progenitor cells get activated and recruited to the osteoporotic lesion sites, where they differentiate and efficiently repair and remineralize damaged bone matrix. To identify factors involved in osteoblast activation during bone repair, we performed transcriptome profiling of osteoblast progenitors and mature osteoblasts that were purified from osteoporotic fish by Fluorescence Activated Cell Sorting (FACS). We characterized a set of transcripts that are up-regulated in osteoblast progenitors immediately after ectopic osteoclasts had started to induce bone lesions. Among these transcripts, we identified a novel calcium sensing receptor CaSR, which is expressed in osteoblasts. CRISPR-mediated genome editing in medaka revealed that deficient CaSR signaling affects osteogenesis, as well as interferes with the recruitment of osteoblast progenitors to osteoporotic lesions sites. In conclusion, our study revealed a set of novel transcripts up-regulated during osteoporotic bone repair and identified essential roles for CaSR in osteogenesis and bone homeostasis."
   thumbnailUrl: Christoph_Winkler2.jpg
   rockstar: false
   social: 
@@ -104,9 +104,9 @@ ERC investigator since 2015."
   id: 9
   name: "Hideaki"
   surname: "Takeuichi"
-  company: "Okayama University"
+  company: "Okayama University<br>Graduate School of Natural Science and Technology"
   title: "Click for Abstract"
-  bio: "<b></b><br><br>"
+  bio: "<b>Individual recognition in medaka fish</b><br><br>Previously, we demonstrated that medaka females recognize familiar males following prior visual exposure, and social familiarity influences female mating receptivity. Medaka females can discriminate familiar males from unfamiliar mates and prefer to mate with the former (Okuyama et al., Science, 2014). Here, we found that medaka use faces for individual recognition. Females can discriminate between two male faces and two objects, but upside-down of the faces made it more difficult to discriminate them. When discriminating between two non-face objects, upside-down did not affect it. Thus faces may be special for fish, just as humans (Wang and Takeuchi, elife, 2017). This is the first study that shows the face inversion effect in animals other than mammals."
   thumbnailUrl: Hideaki_Takeuchi.png
   rockstar: false
   social: 
@@ -152,9 +152,9 @@ ERC investigator since 2015."
   id: 13
   name: "Saori"
   surname: "Yokoi"
-  company: "Hokkaido University"
+  company: "Hokkaido University<br>Faculty of Pharmaceutical Sciences"
   title: "Click for Abstract"
-  bio: "<b></b><br><br>"
+  bio: "<b>Analysis of molecular basis underlying decision making according to social familiarity</b><br><br>Some social animals can recognize socially-familiarized conspecific individuals (social recognition) and familiarity affects their behavior, which may be important for social adaptation. Disorders in human brain function for this system are assumed to cause mental illnesses, such as autism, and great attention has recently been paid to the underlying neural/molecular mechanisms of these disorders. Oxytocin (OT) is considered to be involved in social recognition and social behavior in rodents and humans. For example, social familiarization (repeated encounters) decreases approach behaviors of male wild-type mice toward unfamiliar females, but not OT KO males. Thus, the OT KO males are thought to have defects in social recognition (social amnesia). In this study, we investigated social behaviors of individual medaka fish, which is a model organism commonly used for molecular genetics, toward group-reared fish (defined as familiar fish) in the same tank and toward unfamiliar conspecifics reared in a different tank. Wild-type males exhibit mating behaviors, irrespective of social familiarity. In contrast, we found that social familiarity strongly affects male social behaviors (e.g., courtship, aggressive, and mate-guarding behaviors) in isotocin-related gene mutants. Isotocin (IT) is a fish homologue of OT. This result suggested that IT-related gene mutants lost social motivation toward conspecifics. In some fish, imprinting affects the social preferences of the juvenile fish based on the traits of their parents that care for them during the early development period. Next, to examine whether or not imprinting mediates social recognition of mutants for IT mutants, we investigated whether social familiarization (rearing in the same tank only as adults) could recover the lost of social motivation in the mutants toward unfamiliar fish."
   thumbnailUrl: Saori_Yokoi_grey.png
   rockstar: false
   social: 
@@ -164,9 +164,9 @@ ERC investigator since 2015."
   id: 14
   name: "Satoshi"
   surname: "Ansai"
-  company: "National Institute for Basic Biology"
+  company: "National Institute for Basic Biology<br>Laboratory of Bioresources"
   title: "Click for Abstract"
-  bio: "<b></b><br><br>"
+  bio: "<b>The molecular genetic basis of diversified sexually dimorphic traits in Oryzias species endemic to Sulawesi, Indonesia</b><br><br>Sexual dimorphism is prevalent, but often differs remarkably between closely related species. However, we know little about which genetic changes can actually contribute to diversification of such sexually dimorphic traits. Sulawesi endemic Adrianichthyidae species (commonly referred to as medaka) serves an excellent model system because their sexual dimorphic body colorations are significantly diversified in closely-related species. As a first step, we generated a de novo long-read genome assembly of Oryzias celebensis as a reference assembly for the Sulawesi species. This assembly was anchored to 18 chromosomes by a linkage analysis and was annotated using RNA-seq data from adult and embryonic tissues. Using this genomic information, we have studied the molecular mechanisms underlying red coloration in pectoral fins, a characteristic feature of O. woworae males. Quantitative trait loci (QTL) mapping in a F2 intercross between a male of O. woworae and a female of O. celebensis revealed that an autosomal locus controls the red pigmentation. Subsequent RNA-seq analysis showed that csf1 gene is a strong candidate responsible for the red fins in 18 deferentially-expressed genes in the QTL region. This was supported by loss-of-function analysis of the csf1 gene by CRISPR/Cas system, which caused a defect in xanthophores. Semi-quantitive allele specific expression analysis indicates cis-regulatory mutations would cause higher expression in pectoral fins of the males. Further genomic analysis are underway to identify the cis-regulatory mutation(s) responsible for responsible for the red fin traits. "
   thumbnailUrl: Satoshi_Ansai_grey.jpg
   rockstar: false
   social: 
@@ -200,9 +200,9 @@ ERC investigator since 2015."
   id: 17
   name: "Yasuhiro"
   surname: "Kamei"
-  company: "National Institutes of Natural Sciences"
+  company: "National Institute for Basic Biology (Japan)<br>Spectrography and Bioimaging Facility"
   title: "Click for Abstract"
-  bio: "<b></b><br><br>
+  bio: "<b>Biological and Optical improvement of IR laser-mediated gene induction microscope system</b><br><br>IR laser-mediated gene induction microscope system: IR-LEGO, is a promising technique for developmental biology and biothermology, because the system enables single-cell level local heating. To date, we applied the system to single-cell/local gene induction in many species including medaka and zebrafish. Recently, we utilized the system for a study of heat in biology, especially temperature distribution and dynamics inside cells (we termed this feild as biothermology). Now, we are improving the system to be convenient the operation of IR-LEGO and to be match for biothermological experiment. Although temperature measurement is one of key technology for the IR-LEGO and biothermology, in 2017 we established temperature measurement method in vivo by using fluorescent proteins, gTEMP (Genetically encoded fluorescent thermometer). This FPs realize retiometric temperature measurement in cells without harmful effect. Moreover, we are also improving other points of view. In the meeting, we will explain the outline of improvement of the system in three categories, molecular and microscopic; gTEMP, biological; heat shock factors, and optical; adaptive optics.
 "
   thumbnailUrl: Yasuhiro_Kamei_grey.jpg
   rockstar: false
@@ -213,9 +213,10 @@ ERC investigator since 2015."
   id: 18
   name: "Kristin"
   surname: "Tessmar Raible"
-  company: ""
+  company: "MFPL/ University of Vienna<br>Platform Rhythms of Life"
   title: "Click for Abstract"
-  bio: "<b></b><br><br>"
+  bio: "<b>More than meets the eye: Vertebrate non-visual photoreceptors</b><br><br>The eyes are not the only sites that can perceive light. Light perception by cells in the inner brain of vertebrates, independent of eyes and pineal organs, was already discovered more than 100 years ago. The responsible encephalic photoreceptors have been thought to be specialized cells, similar to the photoreceptors present in the eye and pineal. Consistently, the expression of several opsins has been described at places harboring such deep brain photoreceptors, and hence these opsins were independently claimed to mediate non-visual light responses, such as seasonality. During recent years, an impressive number of non-visual opsins was identified and shown to be in principle able to function as light receptors.<br>
+In order to obtain a better understanding of this puzzling complexity of light perception in teleosts, we investigate several ‘non-visual’ Opsins on a functional level. Our particular focus is on TMT/Encephalopsin group, since these Opsins exhibit a particularly slow sequence evolution and some members are conserved across all vertebrate phyla. We have recently shown that the expression of several members of this group is enriched in medaka and zebrafish inter- and motorneurons. Using molecular and behavioral assays we can show that tmt1b in medakafish modulates neurohormone transcript levels and different behaviors in a light-dependent manner. Different types of ‘non-visual’ Opsins have been proposed to convey the light information controlling light-dependent seasonal breeding response, as it is present in medakafish. Null-alleles of medaka tmt1b do not impact on the fish’s gonadal status."
   thumbnailUrl: Tessmar_Kristin.jpg
   rockstar: false
   social: 
@@ -225,9 +226,14 @@ ERC investigator since 2015."
   id: 19
   name: "Ronald B."
   surname: "Walter"
-  company: "Texas State University"
+  company: "Texas State University<br>Chemistry & Biochemistry"
   title: "Click for Abstract"
-  bio: "<b></b><br><br>
+  bio: "<b>The Genetic Response to Fluorescent Light Exposure Within Internal and External Organs Is Conserved Among Vertebrates (Danio rerio, Oryzias latipes, and Mus musculus)</b><br><br>	We have previously shown 4,100 K or “cool white” fluorescent light (FL) exposure induces cellular stress, inflammation and immune responses in the skin of several varied biomedical fish models including; platyfish (Xiphophorus maculatus), medaka, (Oryzias latipes) and zebrafish (Danio rerio)1.<br>
+Here we present RNA-seq results that establish similar patterns of modulated gene expression within two internal organs, brain and liver, of zebrafish and medaka exposed to 35 kJ/m2 FL. In addition, FL light induced modulated gene expression within skin, brain and liver of both fish models is compared to similarly FL exposed hairless mice (Mus musculus).<br>
+In zebrafish and medaka, each of the three organs tested showed up-modulation of unique gene sets that are expected to activate the Acute Phase Response (APR) signaling pathway, leading to increased inflammation and innate immune response. Our pathway and gene clustering analyses suggest this response is due to increased cellular oxidative stress that promotes induction of the primary up-stream regulator, tumor necrosis factor (TNF). Exposure of hairless mice to FL also serves to induce both inflammation and an immune response that mimics that observed in the fish models for both skin and brain. However, the FL induced genetic response in liver, although consistent and up-modulated in medaka and zebrafish, exhibits a suppressed response in mouse liver, but in the same pathways.<br>
+Overall, the sharing of genetic responses to light among divergent diurnal fishes, and a nocturnal mammal, suggests the genetic response to light is likely hard-wired deep within the vertebrate genome, and may extend through the vertebrate classes, perhaps even to humans.<br><br>
+
+1) Boswell, M., Boswell, W., Lu, Y., Savage, M, et. al., (2017). The Transcriptional Response of Skin to Fluorescent Light Exposure in Viviparous (Xiphophorus) and Oviparous (Danio, Oryzias) Fishes. Comp. Biochem. & Physiology, https://doi.org/10.1016/j.cbpc.2017.10.003
 "
   thumbnailUrl: RonWalter.jpg
   rockstar: false
@@ -238,9 +244,9 @@ ERC investigator since 2015."
   id: 36
   name: "Kiyoshi"
   surname: "Naruse"
-  company: "Laboratory of Bioresources, National Institute for Basic Biology"
+  company: "National Institute for Basic Biology<br>Lab of Bioresources"
   title: "Click for Abstract"
-  bio: "<b></b><br><br>"
+  bio: "<b>Evolution of the sex chromosome and sex-determining genes in Oryzias fish</b><br><br>Sex chromosomes harbor a primary sex-determining signal that triggers sexual development of the organism. In mammals, Sry is the dominant male-determining gene located on the Y chromosome, and has evolved from the neural gene Sox3 on the X chromosome probably through a regulatory mutation. Medaka fishes in the genus Oryzias have different sex chromosomes with different systems (XY and ZW), providing ideal conditions for investigating the mechanisms that lead to the rapid turnover of sex chromosomes. So far, different sex-determining genes, Dmy and GsdfY, have been isolated from the Oryzias species, demonstrating that turnover of sex chromosomes is associated with the substitution of master sex-determining genes. Recently, we identified Sox3 as a novel sex-determining gene on the XY sex chromosomes in the marine medaka Oryzias dancena/melastgma by positional cloning. Sex reversed phenotypes in transgenic fish and loss-of-function mutants of the Y chromosomal Sox3 allele all point to its critical role in sex determination, suggesting that the neo-Y chromosome of O. dancena arose by co-option of Sox3. Furthermore, we found the Sox3 gene also on the XY sex chromosomes in distantly related Oryzias species, O. marmoratus and O. profundicola. Fine mapping and association analysis identified the Y chromosome-specific 430-bp insertion at the Sox3 locus, which appeared to be involved in its male determination function. The Sox3-dependent sex determination system in Oryzias species is polyphyletic, and the Y-specific insertion has not been found in O. dancena, suggesting that Sox3 has evolved as the sex-determining gene independently in different lineages of Oryzias. These results suggest that Sox3 might have acquired the novel male-determining function repeatedly and independently during vertebrate evolution."
   thumbnailUrl: Kiyoshi_Naruse.jpg
   rockstar: true
   social: 
