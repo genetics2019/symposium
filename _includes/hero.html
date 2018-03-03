@@ -2,12 +2,13 @@
 <section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');"width="auto" height="auto">
     {% include navigation.html %}
     <div class="content-wrapper">
+
+    <div class="jumbotron">
 <div class="banner" style="padding:15px; text-align:center;">
 <div class="banner-content">
 <p><b><br> Deadline for Registration has been extended until March 15th<p></h3>
 </div>
 </div>
-    <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <h1>{{ heroText[0] }}</h1>
