@@ -2,6 +2,7 @@
   group: "  "
   elements: 
     - {name: "ACQUIFER", description: "ACQUIFER", link: "https://www.acquifer.de/", imageUrl: "AcquiferBox.png"}
+    - {name: "LUXENDO", description: "LUXENDO - A Bruker Company", link: "http://luxendo.eu/", imageUrl: "Luxendo.png"}
 
 -
   group: "   "
