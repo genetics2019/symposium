@@ -7,6 +7,10 @@
 -
   group: "   "
   elements:
+
+-
+  group: "   "
+  elements:
     - {name: "EPPENDORF", description: "Eppendorf", link: "https://www.eppendorf.com/", imageUrl: "EppendorfBox.png"}
     - {name: "EHEIM shopDesign", description: "EHEIM Shopdesign", link: "http://www.eheim-shopdesign.de/", imageUrl: "EHEIMBox.png"}
     - {name: "TECNIPLAST", description: "Tecniplast", link: "http://www.tecniplast.it/de/index.html", imageUrl: "TecniplastBox.png"}
