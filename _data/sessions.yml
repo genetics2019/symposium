@@ -9,7 +9,6 @@
   id: 102
   title: "More than meets the eye: Vertebrate non-visual photoreceptors"
   place: "Alte Aula"
-  description: "Functional Genomics"
   speakers: [18]
 
 -
@@ -28,66 +27,59 @@
 
 -
   id: 105
-  title: "PI-Strategic Meeting"
+  title: "Individual recognition in medaka fish"
   place: "Alte Aula"
-  description: "Neuron & Behaviour"
-  speakers: [18]
+  speakers: [9]
 
 -
   id: 106
-  title: "PI-Strategic Meeting"
+  title: "Evolution of the sex chromosome and sex-determining genes in Oryzias fish"
   place: "Alte Aula"
-  description: "Neuron & Behaviour"
-  speakers: [18]
+  speakers: [36]
 
 -
   id: 107
-  title: "PI-Strategic Meeting"
+  title: "Diversification of androgen receptor function underlies secondary sex characteristics development of teleost fishes"
   place: "Alte Aula"
-  description: "Neuron & Behaviour"
-  speakers: [18]
+  speakers: [20]
 
 -
   id: 108
-  title: "PI-Strategic Meeting"
+  title: "Analysis of molecular basis underlying decision making according to social familiarity"
   place: "Alte Aula"
-  description: "Neuron & Behaviour"
-  speakers: [18]
+  speakers: [13]
 
 -
   id: 109
-  title: "PI-Strategic Meeting"
+  title: "Germ Cells - More than Gametogenesis"
   place: "Alte Aula"
-  description: "Neuron & Behaviour"
-  speakers: [18]
+  speakers: [5]
 
 -
   id: 110
-  title: "PI-Strategic Meeting"
+  title: "Transcriptome profiling of osteoblasts in a medaka osteoporosis model identifies novel mediators of bone repair"
   place: "Alte Aula"
-  description: "Neuron & Behaviour"
-  speakers: [18]
+  speakers: [7]
 
 -
   id: 111
-  title: "PI-Strategic Meeting"
+  title: "The Genetic Response to Fluorescent Light Exposure Within Internal and External Organs Is Conserved Among Vertebrates (Danio rerio, Oryzias latipes, and Mus musculus)"
   place: "Alte Aula"
-  description: "Neuron & Behaviour"
-  speakers: [18]
+  speakers: [19]
 
 -
   id: 112
   title: "PI-Strategic Meeting"
   place: "Alte Aula"
-  description: "Neuron & Behaviour"
-  speakers: [18]
+  description: "To be announced"
+  speakers: [16]
 
 -
   id: 113
   title: "PI-Strategic Meeting"
   place: "Alte Aula"
-  description: "Neuron & Behaviour"
-  speakers: [18]
+  description: "To be announced"
+  speakers: [12]
 
 -
   id: 1100

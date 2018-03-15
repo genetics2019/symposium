@@ -236,6 +236,25 @@ Overall, the sharing of genetic responses to light among divergent diurnal fishe
     - {}
 
 - 
+  id: 20
+  name: "Yukiko"
+  surname: "Ogino"
+  company: "Kyushu University, Japan <br> Faculty of Agriculture"
+  title: "Click for Abstract"
+  bio: "<b>Diversification of androgen receptor function underlies secondary sex characteristics development of teleost fishes</b><br><br>Gene duplication is a dominant driving force of evolution. Steroid hormone receptor gene family is thought to have arisen from gene duplication. However, the molecular events which produce new protein functions after the genome duplication have not been fully understood. Teleost fishes present a good model to investigate an accurate evolutionary history of protein function after whole genome duplication, because the teleost-specific whole genome duplication (TSGD) 350 million years ago resulted in a variety of duplicated genes that exist in modern fishes. We focused on the androgen receptor (AR) gene, since two different subtype genes, ARα and ARβ, were generated in the TSGD. ARβ has retained the ancestral function, whereas the ARα evolved as a hyperactive form of AR in the teleost lineage. Results of our combined functional and 3 dimensional analyses of medaka (Oryzias latipes) ARs identified the substitutions that led to changes in protein structure and function between medaka ARα and ARβ. One substitution located within the helices 10/11 of ligand binding domain is sufficient for generating higher transactivation of ARα. This amino acid change affects the stability of ligand binding by modifying the hydrogen bonds between ligand and AR. 
+To further address the functional differences between ARα and ARβ in vivo, we isolated the nonsense mutants of ARα and ARβ from the medaka tilling library. ARβ have predominant function for external masculine phenotypes, and ARα might participate the development of traits for male-male competition. Our findings would provide an historical explanation for the retention of the duplicated AR copies in euteleost genome.
+<br><br>References:
+1.	Y. Ogino et al., (2016) Mol. Biol. Evol. 33, 228-244.
+2.	Y. Ogino et al., (2014) Endocrinology 155, 449-462.
+3.	Y. Ogino et al., (2011) Evol. Dev. 13, 315-325.
+4.	Y. Ogino et al., (2009) Endocrinology 150, 5415-5427.
+"
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
   id: 36
   name: "Kiyoshi"
   surname: "Naruse"
