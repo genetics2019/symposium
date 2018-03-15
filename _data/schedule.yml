@@ -95,38 +95,108 @@
     }
 - 
   date: "2018-04-17"
-  dateReadable: "April 17"
+  dateReadable: "April 17, Tuesday"
   tracks: 
     - {title: "Venue: COS Auditorium (More information coming soon)", color: "#90be4e"}
   timeslots: 
     - {
     	startTime: "09:00",
-	endTime: "12:00",
-    	sessionIds: [201]
+	endTime: "10:00",
+    	sessionIds: [2110]
+	}
+    - {
+        startTime: "10:00",
+        endTime: "10:25",
+        sessionIds: [201]
     }
     - {
-        startTime: "12:00",
-        endTime: "13:30",
-        sessionIds: [211]
-    }
-    - {
-    	startTime: "13:30",
-    	endTime: "15:30",
+    	startTime: "10:25",
+    	endTime: "10:50",
     	sessionIds: [202]
     }
     - {
-    	startTime: "15:30",
-    	endTime: "16:00",
-    	sessionIds: [212]
+    	startTime: "10:50",
+	endTime: "11:20",
+    	sessionIds: [2120]
     }
     - {
-    	startTime: "16:00",
-    	endTime: "18:00",
-    	sessionIds: [203]
+        startTime: "11:20",
+        endTime: "11:45",
+        sessionIds: [203]
     }
     - {
-    	startTime: "18:00",
+    	startTime: "11:45",
+    	endTime: "12:10",
     	sessionIds: [204]
+    }
+    - {
+        startTime: "12:10",
+        endTime: "12:25",
+        sessionIds: [205]
+    }
+    - {
+    	startTime: "12:25",
+    	endTime: "12:50",
+    	sessionIds: [206]
+    }
+    - {
+    	startTime: "12:50",
+	endTime: "14:15",
+    	sessionIds: [2130]
+    }
+    - {
+        startTime: "14:15",
+        endTime: "14:40",
+        sessionIds: [207]
+    }
+    - {
+    	startTime: "14:40",
+    	endTime: "15:05",
+    	sessionIds: [208]
+    }
+    - {
+    	startTime: "15:05",
+    	endTime: "15:30",
+    	sessionIds: [209]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "15:55",
+        sessionIds: [210]
+    }
+    - {
+    	startTime: "15:55",
+    	endTime: "16:20",
+    	sessionIds: [211]
+    }
+    - {
+    	startTime: "16:20",
+	endTime: "16:45",
+    	sessionIds: [2140]
+    }
+    - {
+        startTime: "16:45",
+        endTime: "17:10",
+        sessionIds: [212]
+    }
+    - {
+        startTime: "17:10",
+        endTime: "17:35",
+        sessionIds: [213]
+    }
+    - {
+        startTime: "17:35",
+        endTime: "18:00",
+        sessionIds: [214]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "18:25",
+        sessionIds: [215]
+    }
+    - {
+    	startTime: "18:30",
+    	sessionIds: [2150]
     }
 - 
   date: "2018-04-18"
