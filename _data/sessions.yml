@@ -85,7 +85,6 @@
   id: 1100
   title: "Welcome and Opening Remarks"
   service: true
-  speakers: [18]
 
 -
   id: 1110
@@ -108,33 +107,115 @@
   id: 1150
   title: "Wine Testing & Dinner for Speakers"
 
+
+
 -
   id: 201
-  title: "PI-Strategic Meeting"
-  description: "Disease Modelling - Networking"
+  title: "cis-regulatory logic of Shh expression reveals common history of unpaired and paired fins"
+  speakers: [21]
 
 -
   id: 202
-  title: "PI-Strategic Meeting"
-  description: "Transition to Regional Fish Meeting"
+  title: "The molecular genetic basis of diversified sexually dimorphic traits in Oryzias species endemic to Sulawesi, Indonesia"
+  speakers: [14]
 
 -
   id: 203
-  title: "PI-Strategic Meeting"
-  description: "Transition to Regional Fish Meeting"
+  title: "The Proteins Interacting with Prmt5 in Medaka (Oryzias latipes)"
+  speakers: [22]
 
 -
   id: 204
+  title: "Long search for the &quot;Holy Grail&quot; in the evolution of adaptive immune system: Identification of lymph node equivalent structures in medaka fish"
+  speakers: [3]
+
+-
+  id: 205
   title: "PI-Strategic Meeting"
-  description: "Transition to Regional Fish Meeting - Plenary Lecture"
+  description: "To be announced"
+  speakers: [11]
+
+-
+  id: 206
+  title: "Basal lamina in the base of intestinal furrow is an inductive site for the mucosal adaptive immune response in medaka fish"
+  speakers: [1]
+
+-
+  id: 207
+  title: "Suppressed recombination of the homomorphic Y chromosome in the medaka"
+  speakers: [23]
+
+-
+  id: 208
+  title: "PI-Strategic Meeting"
+  description: "To be announced"
+  speakers: [4]
+
+-
+  id: 209
+  title: "PI-Strategic Meeting"
+  description: "To be announced"
+  speakers: [27]
+
+-
+  id: 210
+  title: "Biological and Optical improvement of IR laser-mediated gene induction microscope system"
+  speakers: [17]
 
 -
   id: 211
-  title: "Lunch"
- 
+  title: "in vivo MR microcopy of disease models in Medaka"
+  speakers: [24]
+
 -
   id: 212
+  title: "Germline sex determination by nanos3, a component of germ plasm, in medaka"
+  speakers: [25]
+
+-
+  id: 213
+  title: "A panel of medaka inbred lines: a resource to study the genetics of individuality"
+  speakers: [26]
+
+-
+  id: 214
+  title: "Analysis of YAP/TAZ-dependent transcriptional response during early morphogenesis in teleost embryos."
+  description: "4th Strategic Meeting for Medaka Research"
+  speakers: [6]
+
+-
+  id: 215
+  title: "PI-Strategic Meeting"
+  description: "To be announced"
+  speakers: [8]
+
+
+-
+  id: 2110
+  title: "Community Meeting Current State and Future Directions"
+  service: true
+ 
+-
+  id: 2120
   title: "Coffee Break"
+  service: true
+
+-
+  id: 2130
+  title: "Lunch"
+  service: true
+
+-
+  id: 2140
+  title: "Coffee Break"
+  service: true
+
+-
+  id: 2150
+  title: "BBQ & Posters"
+  service: true
+
+
 
 -
   id: 301

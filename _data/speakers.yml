@@ -255,6 +255,92 @@ To further address the functional differences between ARα and ARβ in vivo, we 
     - {}
 
 - 
+  id: 21
+  name: " Joaqu&iacute;n"
+  surname: "Letelier"
+  company: "Centro Andaluz de Biología del Desarrollo, Spain <br> Morphogenesis and gene regulation"
+  title: "Click for Abstract"
+  bio: "<b>cis-regulatory logic of Shh expression reveals common history of unpaired and paired fins</b><br><br>Despite their evolutionary, developmental, and functional importance the origin of vertebrate paired appendages remains a mystery. Classical ideas center on three hypotheses: that paired fins relate to gill arches, are derived from a fin fold, or that median fins evolved first and paired fins arose by co-option of ancient genetic patterning modules. Importantly, the third hypothesis makes specific predictions about the function and phylogenetic history of cis-regulatory elements (CREs) involved in appendage patterning. Here we show that a major enhancer for Sonic hedgehog (Shh, a key diffusible morphogen essential for proper growth and patterning of limbs and paired fins) is deeply shared between paired and unpaired fins in fish and with the limbs of mice. In mice, a single CRE termed ZRS is solely responsible for coordinating Shh expression in limbs. We use transgenic assays in zebrafish and mouse to trace the functional equivalence of the ZRS across gnathostome phylogeny and its likely absence in agnathans. CRISPR/Cas9- mediated deletion of the medaka core ZRS sequence, inspection of shh epigenetic landscape and in vivo enhancer assays reveal the existence of ZRS shadow enhancers in both teleost and human genomes. Deletion of both ZRS and shadow ZRS abolish shh expression and completely truncate pectoral fin formation. Strikingly, deletion of the medaka ZRS, an experiment expected to only affect the paired fins, results in an almost complete ablation of the dorsal fin. This finding indicates that a ZRS-Shh regulatory module is shared by paired and medial fins, and that paired fins likely emerged by the co-option of developmental programs established in the median fins of stem gnathostomes. Later on, this critical ZRS- driven Shh function was reinforced in pectoral fin development with the recruitment of shadow enhancers, conferring additional robustness."
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 22
+  name: "Haobin"
+  surname: "Zhao"
+  company: "Central China Normal University, China <br>School of Life Sciences "
+  title: "Click for Abstract"
+  bio: "<b>The Proteins Interacting with Prmt5 in Medaka (Oryzias latipes) </b><br><br>Prmt5 plays important roles in regulation of gene expression, RNA processing, cell growth and differentiation, signal transduction and germ cell development, etc in mammal. Prmt5 of medaka had been reported. However, the proteins interacting with Prmt5 in medaka are in dim. In this sudy, medaka Prmt5 was used as a bait to fish the interacting proteins in the library by yeast two-hybrid technology. Positive colonies were obtained by mating yeast cells of Y187 containing pGBKT7-prmt5 and AH109 containing cDNA library on a plate with the dificient medium of SD/-His-Leu-Trp-Ade and by X-α-gal staining. Eight proteins were confirmed interacting with Prmt5 from 69 preliminary positive colonies after four passages, X-α-gal analysis, backcross test and sequencing. The proteins interacting with Prmt5 are methylosome protein 50 (Mep50), apolipoprotein A-I-like （Apo-AI）, PR domain containing protein 1a with zinc fingers (Prdm1a), Prdm1b, Tim-like protein (Tim-l), phosphoribosylaminoimidazole carboxylase and phosphoribosylaminoimidazolesuccinocarboxamide synthase (Paics), NADH dehydrogenase subunit 4 (ND4) and sciellin (Scl). The identification of the proteins interacting with Prmt5 is helpful for study and understanding of Prmt5 function in fish."
+  thumbnailUrl:
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 23
+  name: "Alexander"
+  surname: "Froschauer"
+  company: "Technische Universität Dresden, Germany <br> Institut für Zoologie"
+  title: "Click for Abstract"
+  bio: "<b>Suppressed recombination of the homomorphic Y chromosome in the medaka</b><br><br>The suppression of meiotic recombination is a key feature of sex chromosomes. After the formation of a sex chromosome pair the lack of recombination keeps the identity of the chromosome pair (WZ or XY) and paves the way for morphological differentiation, accumulation of sex specific genes or degeneration. The relatively young Y chromosome of the medaka Oryzias latipes arose by a chromosomal insertion with the dmrt1by gene (aka DMY) driving male sex determination. This Y-specific region has a size of 250 kb and is closely linked to phenotypic markers that are described as early as 1921. The region with suppressed recombination was estimated to be roughly 3.5 Mb in size.
+When we analyzed the recombination frequency of the 39 Mb LG1 chromosomes in different strains of the medaka, we found a suppression of recombination over at least 16 Mb of the X-chromosome, deduced from phenotypic and PCR-markers mapped in the ensemble database. This recombination block between a transgene (EGFP fluorescence) and the leucophore free locus leads to a genetic distance of only 0.4 cM per 16 Mb and is dependent on the sex of the individual and possibly the origin of the sex chromosomes analyzed. This plasticity reflects the young state of evolution of the chromosomes. Our current analyses compare the physical and genetic recombination frequencies on autosomes and different sex chromosomes to elucidate possible mechanisms of the suppression of recombination. As outlook we discuss the artificial evolution of the medaka sex chromosomes to generate a testable model for evolutionary hypotheses."
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 24
+  name: "Tomohiro"
+  surname: "Ueno"
+  company: "Kyoto University, Japan<br> Graduate School of Medicine"
+  title: "Click for Abstract"
+  bio: "<b>in vivo MR microcopy of disease models in Medaka</b><br><br>Magnetic Resonance Imaging (MRI) is a non-invasive imaging technique, which is suitable for differentiating soft tissues of internal organs. Thus, MRI is an essential diagnostic tool in a clinical situation. To investigate various human disease models in small fish, we accomplished in vivo MR microscopy by developing a 14.1 T ultra-high field MRI and a hypothermic anesthesia procedure. In the in vivo MR microscopy, we can exclude a water pool and achieve high spatial resolution enough for the small body size of the fish. We created a non-alcoholic fatty liver disease model in medaka and followed its individual disease progression. We quantitatively evaluated the steatosis level by calculating the MRI-estimated proton density fat-fraction (MRI-PDFF), which estimated triglyceride in liver tissue. The MRI-PDFF results agreed with a histological analysis. Moreover, we applied the in vivo MR microscopy to investigate early indication of disease in p53 knockout medaka. We will also discuss results of the time series analysis of the p53 knockout medaka."
+  thumbnailUrl:
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 25
+  name: "Toshiya"
+  surname: "Nishimura"
+  company: "Nagoya University, Japan<br> Biological Science"
+  title: "Click for Abstract"
+  bio: "<b>Germline sex determination by nanos3, a component of germ plasm, in medaka</b><br><br>Germ cells are the common origin cells of sperm and eggs. In many animals, germ plasm, in which germline determinants are contained, is accumulated in oocytes, and cells which inherit the germ plasm during early embryogenesis develop as primordial germ cells (PGC). Nanos is one of the components of germ plasm and evolutionally conserved from flies to mammals. In medaka, nanos3 mRNA and NANOS3 protein are maternally provided to the embryos and expressed in PGCs during embryonic development. Here, we generated nanos3 loss-of-function mutants by TALEN and examined the function of nanos3 in medaka. nanos3 homozygous (–/–) zygotic mutants derived from nanos3 heterozygous mothers formed germ cells. However, after hatching, the number of germ cells decreased dramatically, leading to infertility in both nanos3–/– males and females. Surprisingly, germ cells in nanos3–/– females reduced the expression level of FOXL3, a gene involved in germline sex determination, and initiate spermatogenesis. Therefore, in addition to the maintenance of germ cells, zygotic nanos3 have a novel role involved in germline sex determination, possibly by regulating foxl3 in medaka."
+  thumbnailUrl:
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 26
+  name: "Felix"
+  surname: "Loosli"
+  company: "Karlsruhe Institute of Technology (KIT), Germany <br> Institute of Toxicology and Genetics (ITG)"
+  title: "Click for Abstract"
+  bio: "<b>A panel of medaka inbred lines: a resource to study the genetics of individuality</b><br><br>Individuals of a natural population share the same set of genes. However, the polymorphic nature of the gene pool results in genetic individuality with variation in many key phenotypic traits. Statistical approaches, such as genome wide association studies (GWAS) are applied to unravel these complex genetic traits. This requires large numbers of individuals to achieve meaningful statistics and eventually functional tests to prove causality.
+
+It is therefore important to establish suitable model systems. We have used medaka fish (Oryzias latipes), an economical, fecund vertebrate with a high tolerance to inbreeding to establish a panel of more than a hundred inbred lines from a wild population. By that we have captured and fixed a large diversity of wild genotypes as near isogenic lines. We will use this panel for GWAS to study the underlying genetics of a select number of complex traits. To this aim we are now establishing assays to screen these lines for phenotypic variation. These assays are designed to measure quantitative differences of a given trait, to allow genome wide association studies with the ultimate aim to identify causative QTLs. I will discuss examples of how we assay specific traits relating to organ development and function, as well as behaviour."
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 27
+  name: "Tonomori"
+  surname: "Deguchi"
+  company: "<br>"
+  title: "Click for Abstract"
+  bio: "To be announced<b></b><br><br>"
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {}
+
+- 
   id: 36
   name: "Kiyoshi"
   surname: "Naruse"
