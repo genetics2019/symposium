@@ -36,67 +36,62 @@
     }
     - {
     	startTime: "11:20",
-    	endTime: "11:20",
-    	sessionIds: [104]
-    }
-    - {
-    	startTime: "11:20",
     	endTime: "11:45",
-    	sessionIds: [104]
+    	sessionIds: [105]
     }
     - {
     	startTime: "11:45",
     	endTime: "12:10",
-    	sessionIds: [104]
+    	sessionIds: [106]
     }
     - {
     	startTime: "12:10",
     	endTime: "12:25",
-    	sessionIds: [104]
+    	sessionIds: [107]
     }
     - {
     	startTime: "12:25",
     	endTime: "12:50",
-    	sessionIds: [104]
+    	sessionIds: [108]
     }
     - {
     	startTime: "12:50",
     	endTime: "14:15",
-    	sessionIds: [104]
+    	sessionIds: [1120]
     }
     - {
     	startTime: "14:15",
     	endTime: "14:40",
-    	sessionIds: [104]
+    	sessionIds: [109]
     }
     - {
     	startTime: "14:40",
     	endTime: "15:05",
-    	sessionIds: [104]
+    	sessionIds: [110]
     }
     - {
     	startTime: "15:05",
     	endTime: "15:30",
-    	sessionIds: [104]
+    	sessionIds: [111]
     }
     - {
     	startTime: "15:30",
     	endTime: "15:55",
-    	sessionIds: [104]
+    	sessionIds: [112]
     }
     - {
     	startTime: "15:55",
     	endTime: "16:20",
-    	sessionIds: [104]
+    	sessionIds: [113]
     }
     - {
     	startTime: "16:20",
     	endTime: "18:00",
-    	sessionIds: [104]
+    	sessionIds: [1140]
     }
     - {
     	startTime: "18:00",
-    	sessionIds: [104]
+    	sessionIds: [1150]
     }
 - 
   date: "2018-04-17"
