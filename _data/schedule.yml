@@ -3,7 +3,6 @@
   dateReadable: "April 16, Monday"
   tracks: 
     - {title: "Venue: Alte Aula (More information coming soon)", color: "#90be4e"}
-    - {title: "Community", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "09:00",
@@ -13,7 +12,7 @@
     - {
         startTime: "09:10",
         endTime: "09:35",
-        sessionIds: [111]
+        sessionIds: [101]
     }
     - {
     	startTime: "09:35",
@@ -23,17 +22,17 @@
     - {
     	startTime: "10:00",
     	endTime: "10:25",
-    	sessionIds: [112]
+    	sessionIds: [103]
     }
     - {
     	startTime: "10:25",
     	endTime: "10:50",
-    	sessionIds: [103]
+    	sessionIds: [104]
     }
     - {
     	startTime: "10:50",
     	endTime: "11:20",
-    	sessionIds: [104]
+    	sessionIds: [1110]
     }
     - {
     	startTime: "11:20",
