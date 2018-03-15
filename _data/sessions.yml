@@ -9,6 +9,7 @@
   id: 102
   title: "More than meets the eye: Vertebrate non-visual photoreceptors"
   place: "Alte Aula"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [18]
 
 -
@@ -29,42 +30,49 @@
   id: 105
   title: "Individual recognition in medaka fish"
   place: "Alte Aula"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [9]
 
 -
   id: 106
   title: "Evolution of the sex chromosome and sex-determining genes in Oryzias fish"
   place: "Alte Aula"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [36]
 
 -
   id: 107
   title: "Diversification of androgen receptor function underlies secondary sex characteristics development of teleost fishes"
   place: "Alte Aula"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [20]
 
 -
   id: 108
   title: "Analysis of molecular basis underlying decision making according to social familiarity"
   place: "Alte Aula"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [13]
 
 -
   id: 109
   title: "Germ Cells - More than Gametogenesis"
   place: "Alte Aula"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [5]
 
 -
   id: 110
   title: "Transcriptome profiling of osteoblasts in a medaka osteoporosis model identifies novel mediators of bone repair"
   place: "Alte Aula"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [7]
 
 -
   id: 111
   title: "The Genetic Response to Fluorescent Light Exposure Within Internal and External Organs Is Conserved Among Vertebrates (Danio rerio, Oryzias latipes, and Mus musculus)"
   place: "Alte Aula"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [19]
 
 -
@@ -112,21 +120,25 @@
 -
   id: 201
   title: "cis-regulatory logic of Shh expression reveals common history of unpaired and paired fins"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [21]
 
 -
   id: 202
   title: "The molecular genetic basis of diversified sexually dimorphic traits in Oryzias species endemic to Sulawesi, Indonesia"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [14]
 
 -
   id: 203
   title: "The Proteins Interacting with Prmt5 in Medaka (Oryzias latipes)"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [22]
 
 -
   id: 204
   title: "Long search for the &quot;Holy Grail&quot; in the evolution of adaptive immune system: Identification of lymph node equivalent structures in medaka fish"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [3]
 
 -
@@ -138,11 +150,13 @@
 -
   id: 206
   title: "Basal lamina in the base of intestinal furrow is an inductive site for the mucosal adaptive immune response in medaka fish"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [1]
 
 -
   id: 207
   title: "Suppressed recombination of the homomorphic Y chromosome in the medaka"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [23]
 
 -
@@ -160,16 +174,19 @@
 -
   id: 210
   title: "Biological and Optical improvement of IR laser-mediated gene induction microscope system"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [17]
 
 -
   id: 211
   title: "in vivo MR microcopy of disease models in Medaka"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [24]
 
 -
   id: 212
   title: "Germline sex determination by nanos3, a component of germ plasm, in medaka"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [25]
 
 -
