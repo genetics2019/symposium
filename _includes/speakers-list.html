@@ -14,7 +14,7 @@
                                     {% for ribbon in speaker.ribbon %}
                                     <li class="{{ ribbon["abbr"] | downcase }}">
                                         <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
-                                        
+                                        <p class="ribbon full-title">{{ ribbon["title"] }}</p>
                                     </li>
                                     {% endfor %}
                                 </ul>
@@ -36,7 +36,7 @@
                                         {% for session_speaker in session.speakers %} 
                                             {% if session_speaker == speaker.id %}
                                             {% assign sessionsNumber = sessionsNumber | plus: 1 %}
-                                                <li class="title slider-item animated fadeInRight hidden">{{ session.title }}</li>
+                                                <li class="title slider-item animated fadeInRight hidden">{{ session.id }}</li>
                                             {% endif %} 
                                         {% endfor %} 
                                     {% endfor %} 
