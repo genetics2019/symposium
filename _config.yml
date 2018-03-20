@@ -99,7 +99,7 @@ aboutBlock:
  - {title: "Lazaro Centanin", image: "Centanin3.jpg", text: "lazaro.centanin@cos.uni-heidelberg.de"}
  - {title: "Kiyoshi Naruse", image: "Kiyoshi_Naruse.jpg"}
  - {title: "Thomas Thumberger", image: "Thumberger3.png"}
- - {title: "Ute Volbehrr", image: "volbehr.JPG", text: "ute.volbehr@cos.uni-heidelberg.de"}
+ - {title: "Ute Volbehr", image: "volbehr.JPG", text: "ute.volbehr@cos.uni-heidelberg.de"}
  - {title: "Jochen Wittbrodt", image: "wittbrodt.jpeg", text: "sekretariat.wittbrodt@cos.uni-heidelberg.de"}
 aboutInfo: "Test"
 
