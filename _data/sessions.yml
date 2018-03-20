@@ -2,7 +2,7 @@
   id: 101
   title: "To be announced"
   place: "Alte Aula"
-  description: "To be announced"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [10]
 
 -
@@ -16,14 +16,14 @@
   id: 103
   title: "To be announced"
   place: "Alte Aula"
-  description: "To be announced"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [2]
 
 -
   id: 104
-  title: "To be announced"
+  title: "Medaka as a model to understand the underlying mechanism of vertebrate seasonal adaptation"
   place: "Alte Aula"
-  description: "To be announced"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [15]
 
 -
@@ -79,14 +79,14 @@
   id: 112
   title: "To be announced"
   place: "Alte Aula"
-  description: "To be announced"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [16]
 
 -
   id: 113
   title: "To be announced"
   place: "Alte Aula"
-  description: "To be announced"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [12]
 
 -
@@ -144,7 +144,7 @@
 -
   id: 205
   title: "To be announced"
-  description: "To be announced"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [11]
 
 -
@@ -162,13 +162,13 @@
 -
   id: 208
   title: "To be announced"
-  description: "To be announced"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [4]
 
 -
   id: 209
   title: "To be announced"
-  description: "To be announced"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [27]
 
 -
@@ -192,6 +192,7 @@
 -
   id: 213
   title: "A panel of medaka inbred lines: a resource to study the genetics of individuality"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [26]
 
 -
@@ -203,7 +204,7 @@
 -
   id: 215
   title: "To be announced"
-  description: "To be announced"
+  description: "4th Strategic Meeting for Medaka Research"
   speakers: [8]
 
 

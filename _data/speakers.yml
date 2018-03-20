@@ -171,9 +171,9 @@
   id: 15
   name: "Takahashi"
   surname: "Yoshimura"
-  company: "Nagoya University, Japan"
+  company: "Nagoya University, Japan<br>Institute of Transformative Bio-Molecules"
   title: "Click for Abstract"
-  bio: "To be announced.<b></b><br><br>"
+  bio: "<b>Medaka as a model to understand the underlying mechanism of vertebrate seasonal adaptation</b><br><br>The appropriate timing of various seasonal processes, such as reproduction, migration and hibernation, is crucial to the survival of animals living in temperate regions. Although this phenomenon attracts great interest, its underlying mechanisms are not well understood. By using non-model organisms that have highly sophisticated seasonal responses, we have uncovered the universality and diversity in the signal transduction pathway regulating seasonal rhythms in vertebrates. Although humans are not typically considered seasonal animals, some evidence suggests that seasonal variation in physiology and behavior also exists in humans. For example, the wavelength settings for the unique yellow hue are shifted to shorter wavelengths in summer compared with those in winter. Seasonal affective disorder patients, experiencing recurrent winter episodes of depressed mood, overeating and hypersomnia, show electroretinogram changes in winter, with lower sensitivity compared with healthy subjects. These observations highlight the potential importance of the retinal in seasonality, but the molecular basis of these seasonal changes remains unknown. We have recently discovered dynamic plasticity in phototransduction regulates seasonal changes in color perception in Japanese medaka fish (Oryzias latipes), an excellent model for studying seasonal adaptation. I will discuss how we can better understand human seasonal rhythms using unique animal models."
   thumbnailUrl: t-yoshimura_2.jpg	
   rockstar: false
   social: 
