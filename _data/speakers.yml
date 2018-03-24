@@ -342,7 +342,7 @@ It is therefore important to establish suitable model systems. We have used meda
     - {}
 
 - 
-  id: 36
+  id: 28
   name: "Kiyoshi"
   surname: "Naruse"
   company: "National Institute for Basic Biology, Japan<br>Lab of Bioresources"
@@ -352,5 +352,47 @@ It is therefore important to establish suitable model systems. We have used meda
   rockstar: true
   social: 
     - {}
+
+- 
+  id: 29
+  name: " Beatriz"
+  surname: "Furones Cuadrado"
+  company: "BMLS Goethe University, Germany<br>AG Acker-Palmer"
+  title: "Click for Abstract"
+  bio: "<b>The role of neuropilin1a in the zebrafish Optic Tectum</b><br><br>It has recently been postulated that axonal scaffolds in the optic tectum (OT) are dependent on signals from the nearby vessels(Ulrich et al., 2011). For this reason, we are interested in the molecules involved in the neurovascular link, setting focus on the branching of axonal terminals of retinal ganglion cells (RGC) in the optic tectum of zebrafish.
+RGCs express a key protein in the neurovascular link signaling cascade: neuropilin1 (co-receptor with VEGFR2 for VEGF signaling as well as co-receptor with plexins for class 3 semaphorin signaling). In zebrafish, nrp1 is a duplicated gene (nrp1a and nrp1b). Although both show a neurovascular expression pattern, nrp1a is more highly expressed in neurons while nrp1b is more predominantly expressed in vessels ((Bovenkamp et al., 2004). Therefore, we generated nrp1a KO zebrafish and we studied the axonal layering of the OT in the mutant and control larvae.
+We found that, while nrp1a knockouts do not expose an obvious vascular phenotype, the  sublaminar layering in the OT was abnormal with axons aberrantly positioned between the SO and the SFGS layer. Moreover, and since the OT is the primary visual center in zebrafish, behavior experiments showed that the mislayering of the axons also translates in a defect in the visual function.
+
+Bovenkamp, D.E., Goishi, K., Bahary, N., Davidson, A.J., Zhou, Y., Becker, T., Becker, C.G., Zon, L.I., Klagsbrun, M., 2004. Expression and mapping of duplicate neuropilin-1 and neuropilin-2 genes in developing zebrafish. Gene expression patterns: GEP 4, 361-370.
+Ulrich, F., Ma, L.H., Baker, R.G., Torres-Vazquez, J., 2011. Neurovascular development in the embryonic zebrafish hindbrain. Developmental biology 357, 134-151."
+  thumbnailUrl: grey_standin.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 30
+  name: "Bettina C."
+  surname: "Kirchmaier"
+  company: "Goethe University Frankfurt, Germany <br>Abteilung für molekulare und zelluläre Neurobiologie, AG Acker-Palmer"
+  title: "Click for Abstract"
+  bio: "<b>Dynamics of neurovascular interaction in the zebrafish embryo</b><br><br>Vessels and neurons possess similar specialized structures (tip cells and growth cones) which, through filopodial extensions, sense the surrounding tissue for specific cues that direct their movements. Interestingly, emerging evidence suggests that axonal growth cones and capillary tip cells might use common repulsive and attractive signals in their environment that ultimately determine their directional navigation through the body. In our group, we study the unknown neurovascular function of guidance cues focusing on CNS vascularization and the control of the neurovascular unit. To investigate the importance of the molecules reelin, neuropilin and flrt in regulating communication at the neurovascular interface we use a combination of state-of-the-art inducible and cell type-specific genetics in mouse and a wide range of cellular assays and tissue ex vivo techniques. To complement the mouse data we will use zebrafish as a small vertebrate model to visualize in real time and dynamic spatial resolution the dynamic dell-to-cell contact interactions in vivo. We will concentrate our studies on the neurovascular communication during neuronal migration in the zebrafish brain (optic tectum) and in the trunk."
+  thumbnailUrl: grey_standin.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 31
+  name: "Tomas"
+  surname: "Fitzgerald"
+  company: "EMBL - EBI, United Kingdom<br>Birney Research"
+  title: "Click for Abstract"
+  bio: "<b>Whole Genome Analysis of the Inbred Medaka Kiyosu Panel</b><br><br>Over the last six years dedicated work has led to the establishment of the inbred medaka Kiyosu panel. Randomly selected mating pairs originating from an outbred wild population in Kiyosu Japan were used to start the inbreeding scheme. After 9 rounds of single brother-sister mating, 111 inbred lines remained from 83 different original wild founding breeding pairs. Thus 28 lines are “sib lines” to another line, a feature we aim to exploit in our statistical analysis. We have completed whole genome sequencing across the entire panel and called homozygous and heterozygous SNPs, INDEL’s and CNV’s in each line against the improved PacBio derived medaka reference. Amazingly over 75% of the lines are greater than 80% homozygous providing a truly unique model organism resource. We present initial analysis of Kiyosu panel genomes focussing on global sequence characteristics in and around detected variation. For QTL mapping, whole organism phenotypes are unlikely to provide specific loci from panel phenotyping alone, here we aim to boost statistical power using carefully designed F2 cross strategies. We have developed an extensive simulation and statistical power assessment of the genetic and environmental effects we might encounter, this simulation scheme handles polygenic phenotypes, multi-trait phenotypes and can simulate the results of phenotyping the Kiyosu panel and expected phenotyping of crosses. We will present simulation results showing a predicted improvement in loci mapping when following specific F2 cross experiment design strategies."
+  thumbnailUrl: grey_standin.jpg
+  rockstar: false
+  social: 
+    - {}
+
 
 
