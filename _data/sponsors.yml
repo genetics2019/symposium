@@ -14,5 +14,6 @@
     - {name: "EPPENDORF", description: "Eppendorf", link: "https://www.eppendorf.com/", imageUrl: "EppendorfBox.png"}
     - {name: "EHEIM shopDesign", description: "EHEIM Shopdesign", link: "http://www.eheim-shopdesign.de/", imageUrl: "EHEIMBox.png"}
     - {name: "TECNIPLAST", description: "Tecniplast", link: "http://www.tecniplast.it/de/index.html", imageUrl: "TecniplastBox.png"}
+    - {name: "NIKON", description: "NIKON", link: "https://www.nikon.de/de_DE/", imageUrl: "NIKON.png"}
     - {name: "COS", description: "Center of Organismal Studies Heidelberg", link: "https://www.cos.uni-heidelberg.de/", imageUrl: "COSbox.png"}
 
