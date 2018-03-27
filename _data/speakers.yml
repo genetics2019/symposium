@@ -111,9 +111,17 @@
   id: 10
   name: "Hiroyuki"
   surname: "Takeda"
-  company: "University of Tokyo, Japan"
+  company: " Graduate School of Science, University of Tokyo, Japan <br>Department of Biological Sciences "
   title: "Click for Abstract"
-  bio: "To be announced.<b></b><br><br>"
+  bio: "<b>The structure and epigenetics of the pluripotent genome in medaka fish</b><br><br>The epigenome of pluripotent cells ensures active transcription of pluripotency-related genes and repression of developmental genes. We generated epigenomic profiles of pluripotent cells which include base-resolution DNA methylomes, histone modification and chromatin accessibility maps using the medaka (Japanese killifish, Oryzias latipes), a vertebrate model suitable for genome science. Native pluripotent cells from medaka blastula embryos were used in rhis study. We first addressed the nucleosome organization and the contribution of DNA sequences to nucleosome positioning in DNA hypomethylated domains (HMDs) using a supervised machine learning algorithm, k-mer SVM. We found that HMDs specifically possess accessible nucleosome organization with longer linkers and identified the strong link between nucleosome positioning and specific DNA sequences at gene promoters in HMDs. Surprisingly, the sequence preference of the nucleosome and linker in HMDs is opposite from that reported previously.
+We then investigated the dynamics of three-dimensional genome organization during zygotic genome activation (ZGA) using Hi-C in medaka embryos. As reported in Drosophila and mouse, we found that higher-order structures such as compartments are established during ZGA in medaka, independent of transcription. The chromatin accessibility heterogeneity emerges almost simultaneously with compartmentalization. These results suggest that the reprogramming of chromatin folding in early embryos is conserved. 
+
+Related references
+1) Qu W, Hashimoto S, Shimada A, Nakatani Y, Ichikawa K, Saito TL, Ogoshi K, Matsushima K, Suzuki Y, Sugano S, Takeda H, and Morishita S. Genome-wide genetic variations are highly correlated with proximal DNA methylation patterns. Genome Res. 22:1419-25, 2012.
+2) Nakamura R, Tsukahara T, Qu W, Ichikawa K, Otsuka T, Ogoshi K, Saito TL, Matsushima K, Sugano S, Hashimoto S, Suzuki Y, Morishita S, and Takeda H. Large hypomethylated domains serve as strong repressive machinery for key developmental genes in vertebrates. Development 141: 2568-80, 2014.
+3) Nakamura R, Uno A, Kumagai M, Morishita S, and Takeda H. Hypomethylated domain-enriched DNA motifs prepattern the accessible nucleosome organization in teleosts. Epigenetics Chromatin 10: 44-56, 2017.
+4) Ichikawa K, Tomioka S, Suzuki S, Nakamura R, Doi K, Yoshimura J, Kumagai M, Inoue Y, Uchida Y, Irie N, Takeda H and Morishita S. Centromere evolution and CpG methylation during vertebrate speciation. Nat. commun. 8: 1833, 2017.
+5) Napo K. M. Cheung, Ryohei Nakamura, Ayako Uno, Masahiko Kumagai, Hiroto S. Fukushima, Shinichi Morishita and Hiroyuki Takeda, Unlinking the methylome pattern from nucleotide sequence, revealed by large-scale in vivo genome engineering and methylome editing in medaka fish. PLoS Genet., 13(12):e1007123, 2017."
   thumbnailUrl: Hiroyuki_Takeda_grey.jpg
   rockstar: false
   social: 
