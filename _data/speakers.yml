@@ -123,9 +123,9 @@
   id: 11
   name: "Soojin"
   surname: "Ryu"
-  company: "University Medical Center of the Johannes Gutenberg University Mainz, Germany"
+  company: "University Medical School, Johannes Gutenberg University Mainz, Germany <br> German Resilience Center"
   title: "Click for Abstract"
-  bio: "To be announced.<b></b><br><br>"
+  bio: "<b>Characterization of the endocrine and behavioural stress responses of medaka larvae</b><br><br>When confronted with a stressor animals modify their physiology and behavior in order to cope with the threat. The stressors can be of diverse type but they typically culminate in the activation of the Hypothalami-Pituitary-adrenal (HPA) axis whose final output is the pleiotropic stress hormone glucocorticoids (called cortisol in fish). We are interested in using medaka larvae to study the molecular changes caused by stress exposure during development. As a first step, we have begun to characterise the endocrine and behavioural stress response in larval medaka. Our initial aims are 1) to identify different stressors that elevate cortisol in larval medaka, 2) identify behavioural responses to different stressors, and 3) characterise the ontogeny of the stress response during development."
   thumbnailUrl: ryu-grey.jpg
   rockstar: true
   social: 
@@ -135,9 +135,9 @@
   id: 12
   name: "Manfred"
   surname: "Schartl"
-  company: "Biozentrum Universität Würzburg, Germany"
+  company: "Biozentrum Universität Würzburg, Germany <br>Physiological Chemistry "
   title: "Click for Abstract"
-  bio: "To be announced.<b></b><br><br>"
+  bio: "<b>How the Medaka came to Europe</b><br><br>An overview will be given on the history of medaka research in Europe from its very beginning in the eighties of the last century. Initial motivations to select medaka as laboratory model, obstacles and selected examples that mark the triumphal procession of medaka to become the truely complementary and even useful alternative to the zebrafish will be highlighted."
   thumbnailUrl: schartl-grey.jpg
   rockstar: true
   social: 
