@@ -398,5 +398,17 @@ It is therefore important to establish suitable model systems. We have used meda
   social: 
     - {}
 
+- 
+  id: 32
+  name: "Andrea"
+  surname: "Pauli"
+  company: "Vienna Biocenter, Austria<br>Research Institute of Molecular Pathology"
+  title: "Click for Abstract"
+  bio: "<b>Small proteins with big roles: Bouncer is necessary and sufficient for species-specific fertilization</b><br><br>Fertilization is fundamental for sexual reproduction, yet its molecular mechanisms are poorly understood. Here, we identify an oocyte-expressed Ly6/uPAR protein, which we call Bouncer, as a crucial fertilization factor in zebrafish. We show that membrane-bound Bouncer mediates sperm-egg binding and is thus essential for sperm entry into the egg. Remarkably, Bouncer is not only required for sperm-egg interaction, but also sufficient to allow cross-species fertilization between zebrafish and medaka, two fish species that diverged over 150 million years ago. Our study thus identifies Bouncer as a key determinant of species-specific fertilization in fish. Bouncer’s closest homolog in tetrapods is restricted to the male gonad in internally fertilizing vertebrates, suggesting that our findings in fish have relevance to human biology."
+  thumbnailUrl: APauli_profile.png
+  rockstar: false
+  social: 
+    - {}
+
 
 
