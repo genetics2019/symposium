@@ -72,6 +72,18 @@
     - {}
 
 - 
+  id: 61
+  name: "Juan Ramon"
+  surname: "Martinez-Morales"
+  company: "Centro Andaluz de Biolog&iacute;a del Desarrollo (CSIC/UPO), Spain<br>Gene regulation and morphogenesis"
+  title: "Click for Abstract"
+  bio: "<b>Evolutionary emergence of the rac3b/rfng/sgca regulatory cluster refined mechanisms for hindbrain boundaries formation in zebrafish</b><br><br>Developmental programs often rely on parallel morphogenetic mechanisms that guarantee precise tissue architecture. While redundancy constitutes an obvious selective advantage, little is known on how novel morphogenetic mechanisms emerge during evolution. The vertebrate hindbrain is subdivided along the antero-posterior axis in 7 rhombomeres emerging during development through a finely tuned TFs code. In zebrafish, rhombomeric boundaries behave as an elastic barrier, preventing cell intermingling between adjacent compartments. Here, we identify the role of the small-GTPase Rac3b in actomyosin cable assembly at hindbrain boundaries. We show that the novel rac3b/rfng/sgca regulatory cluster, which is specifically expressed at the boundaries, emerged in the Ostariophysi superorder by a chromosomal rearrangement that generated new cis-regulatory interactions. By combining 4C-seq, ATAC-seq, transgenesis, and CRISPR-induced deletions, we characterized this regulatory domain, identifying cis-regulatory elements active specifically at the hindbrain boundaries. Our results suggest that the capacity of boundaries to act as an elastic mesh for segregating rhombomeric cells evolved by co-option of critical genes to a novel regulatory block, refining the mechanisms for hindbrain segmentation."
+  thumbnailUrl: Martinez-Morales.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
   id: 7
   name: "Christoph"
   surname: "Winkler"
@@ -89,7 +101,7 @@
   surname: "Stainier"
   company: "MPI Bad Nauheim, Germany"
   title: "Click for Abstract"
-  bio: "To be announced.<b></b><br><br>"
+  bio: "<b>Genetic compensation is triggered by mutant mRNA degradation</b><br><br>In response to deleterious mutations, genetic compensation by transcriptional upregulation of related gene(s) (also known as transcriptional adaptation) has been reported in numerous systems; however, how such a response is activated is unknown.  We developed and analyzed several models of transcriptional adaptation in zebrafish and mouse and observed a correlation between the degree of mutant mRNA decay and the transcriptional upregulation of related gene(s).  To assess the role of the mutant mRNA in triggering transcriptional adaptation, we generated alleles that fail to transcribe the mutated gene and found that they do not exhibit this response.  Moreover, genetic inactivation, silencing or chemical inhibition of the nonsense mediated decay factor Upf1 can also lead to loss of transcriptional adaptation.  These and other results presented at the meeting identify a new role for the mRNA surveillance machinery in buffering against mutations by triggering the transcriptional upregulation of related genes.  In addition, these results will help design mutant alleles with minimal transcriptional adaptation-derived compensation."
   thumbnailUrl: Didier_Stanier_grey.jpg
   rockstar: false
   social: 
