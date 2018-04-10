@@ -177,7 +177,7 @@ Related references
 
 - 
   id: 15
-  name: "Takahashi"
+  name: "Takashi"
   surname: "Yoshimura"
   company: "Nagoya University, Japan<br>Institute of Transformative Bio-Molecules"
   title: "Click for Abstract"
@@ -361,31 +361,6 @@ It is therefore important to establish suitable model systems. We have used meda
   social: 
     - {}
 
-#-
-#  id: 29
-#  name: "Beatriz"
-#  surname: "Furones Cuadrado"
-#  company: "BMLS Goethe University, Germany<br>AG Acker-Palmer"
-#  title: "Click for Abstract"
-#  bio: "<b>The role of neuropilin1a in the zebrafish Optic Tectum</b><br><br>It has recently been postulated that axonal scaffolds in the optic tectum (OT) are dependent on signals from the nearby #vessels (Ulrich et al., 2011). For this reason, we are interested in the molecules involved in the neurovascular link, setting focus on the branching of axonal terminals of retinal ganglion cells (RGC) #in the optic tectum of zebrafish. <br> RGCs express a key protein in the neurovascular link signaling cascade: neuropilin1 (co-receptor with VEGFR2 for VEGF signaling as well as co-receptor with plexins #for class 3 semaphorin signaling). In zebrafish, nrp1 is a duplicated gene (nrp1a and nrp1b). Although both show a neurovascular expression pattern, nrp1a is more highly expressed in neurons while nrp1b #is more predominantly expressed in vessels (Bovenkamp et al., 2004). Therefore, we generated nrp1a KO zebrafish and we studied the axonal layering of the OT in the mutant and control larvae. <br> We #found that, while nrp1a knockouts do not expose an obvious vascular phenotype, the  sublaminar layering in the OT was abnormal with axons aberrantly positioned between the SO and the SFGS layer. #Moreover, and since the OT is the primary visual center in zebrafish, behavior experiments showed that the mislayering of the axons also translates in a defect in the visual function.<br> Bovenkamp, #D.E., Goishi, K., Bahary, N., Davidson, A.J., Zhou, Y., Becker, T., Becker, C.G., Zon, L.I., Klagsbrun, M., 2004. Expression and mapping of duplicate neuropilin-1 and neuropilin-2 genes in developing #zebrafish. Gene expression patterns:  GEP 4, 361-370.<br> <br> Ulrich, F., Ma, L.H., Baker, R.G., Torres-Vazquez, J., 2011. Neurovascular development in the embryonic zebrafish hindbrain. Developmental #biology 357, 134-151."
-#  thumbnailUrl: grey_standin.jpg
-#  rockstar: false
-#  social:
-#    - {}
-
-
-#- 
-#  id: 30
-#  name: "Bettina C."
-#  surname: "Kirchmaier"
-#  company: "Goethe University Frankfurt, Germany <br>Abteilung für molekulare und zelluläre Neurobiologie, AG Acker-Palmer"
-#  title: "Click for Abstract"
-#  bio: "<b>Dynamics of neurovascular interaction in the zebrafish embryo</b><br><br>Vessels and neurons possess similar specialized structures (tip cells and growth cones) which, through filopodial #extensions, sense the surrounding tissue for specific cues that direct their movements. Interestingly, emerging evidence suggests that axonal growth cones and capillary tip cells might use common #repulsive and attractive signals in their environment that ultimately determine their directional navigation through the body. In our group, we study the unknown neurovascular function of guidance cues #focusing on CNS vascularization and the control of the neurovascular unit. To investigate the importance of the molecules reelin, neuropilin and flrt in regulating communication at the neurovascular #interface we use a combination of state-of-the-art inducible and cell type-specific genetics in mouse and a wide range of cellular assays and tissue ex vivo techniques. To complement the mouse data we #will use zebrafish as a small vertebrate model to visualize in real time and dynamic spatial resolution the dynamic dell-to-cell contact interactions in vivo. We will concentrate our studies on the #neurovascular communication during neuronal migration in the zebrafish brain (optic tectum) and in the trunk."
-#  thumbnailUrl: grey_standin.jpg
-#  rockstar: false
-#  social: 
-#    - {}
-
 - 
   id: 31
   name: "Tomas"
@@ -410,5 +385,196 @@ It is therefore important to establish suitable model systems. We have used meda
   social: 
     - {}
 
+
+- 
+  id: 33
+  name: "Mohamed A."
+  surname: "El-Brolosy"
+  company: "MPI for heart and lung research, Germany<br>Developmental genetics"
+  title: "Click for Abstract"
+  bio: "<b>The mRNA surveillance machinery controls transcriptional adaptation to mutations</b><br><br>In response to deleterious mutations, genetic compensation by transcriptional upregulation of related gene(s) (also known as transcriptional adaptation) has been reported in numerous systems; however, how such a response is activated is unknown. We developed and analyzed several models of transcriptional adaptation in zebrafish and mouse and observed a correlation between mutant mRNA decay and transcriptional upregulation of related gene(s). To assess the role of the mutant mRNA in triggering transcriptional adaptation, we generated alleles that fail to transcribe the mutated gene and found that they do not exhibit this response. Moreover, genetic inactivation, silencing or chemical inhibition of the nonsense mediated decay factor Upf1 can also lead to loss of transcriptional adaptation. These results identify a new role for the mRNA surveillance machinery in buffering against mutations by triggering the transcriptional upregulation of related genes. In addition, these results will help design mutant alleles with minimal transcriptional adaptation-derived compensation."
+  thumbnailUrl: grey_standin.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 34
+  name: "Christian"
+  surname: "Helker"
+  company: "Max Planck Institute for Heart and Lung Research, Germany<br>Department of Developmental Genetics"
+  title: "Click for Abstract"
+  bio: "<b>In vivo secretome-wide and chemical screening to identify novel regulators of pancreatic β-cell function</b><br><br>Diabetes Mellitus is foreseen to be the 7th leading cause of death in 2030, warranting a high demand to identify new therapeutics.  Type 2 Diabetes, which affects 90% of diabetes patients, initiates with insulin resistance of the target tissue but only manifests in individuals where the β-cells cannot meet the higher demand for Insulin. Several in vitro drug screens have been carried out to identify signaling pathways inducing β-cell expansion and functionality.  However, the drugs identified often fail in the following in vivo studies due to the xenobiotic defense mechanism of the organism.  To monitor β-cell functionality in vivo, we established two zebrafish transgenic lines using the firefly luciferase as a sensitive and quantitative readout of pdx1 and insulin promoter activity.  To specifically identify conserved and clinically relevant proteins, we screened a library of the human secretome (1700 cDNAs) as well as 7000 chemical compounds including FDA approved drugs.
+So far, our in vivo strategy has identified 29 human proteins that induce the insulin promoter and 7 small molecules that induce the pdx1 promoter.  We further validated several of the small molecules and found that the hit compounds indeed induce β-cell function in primary human tissue samples as well as in a stem cell based human β-cell differentiation protocol.  Thus, by using our in vivo high throughput screening strategy, we have been able to identify potential modulators of the activity of the pdx1 and insulin promoters in vivo.  We speculate that some of these proteins and compounds will provide a beneficial effect when tested in diabetic patients."
+  thumbnailUrl: grey_standin.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 35
+  name: "Michelle"
+  surname: "Collins"
+  company: "Max Planck Institute for Heart and Lung Research, Germany<br>Developmental Genetics"
+  title: "Click for Abstract"
+  bio: "<b>Pitx2c orchestrates embryonic axis extension via  mesendodermal cell migration and oriented cell division</b><br><br>Pitx2c, a homeodomain transcription factor, is classically known for its left-right patterning role.  However, an early wave of pitx2 expression occurs at the onset of gastrulation in several species, indicating a possible earlier role that remains relatively unexplored.  Here, we show that in zebrafish, maternal-zygotic (MZ) pitx2c mutants exhibit a shortened body axis indicative of convergence and extension (CE) defects.  Live imaging reveals that MZpitx2c mutants display less persistent mesendodermal migration and randomly oriented cell divisions, which contribute to ineffective CE movements.  Transplant experiments indicate that Pitx2c functions cell non-autonomously to regulate these cell behaviors by modulating cell shape and protrusive activity.  Using transcriptomic analyses and candidate gene approaches, we identify transcriptional changes in components of the chemokine-ECM-integrin dependent mesendodermal migration network.  Together, our results define pathways downstream of Pitx2 that are required during early embryogenesis, and reveal novel functions for Pitx2 as a regulator of morphogenesis."
+  thumbnailUrl: grey_standin.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 36
+  name: "Anabela"
+  surname: "Bensimon-Brito"
+  company: "Max Planck Institute for Heart and Lung Research, Germany<br>Dept. III – Developmental Genetics"
+  title: "Click for Abstract"
+  bio: "<b>Zebrafish heart valve regeneration: a model for valve recellularization</b><br><br>Heart valve diseases pose a major threat to human health worldwide, ultimately leading to heart failure and death.  The majority of diseased valves are not repairable, and the only possible therapy relies on surgical replacement using mechanical implants or biological scaffolds.  Recently, the clinical application of decellularized valves has shown promising results.  However, complete recellularization of the implanted valves is still a challenge, which leads to extracellular matrix destabilization, and ultimately valve leaflet degradation.  Therefore, identification of cellular and molecular factors promoting efficient recellularization of the implanted valve is crucial to ensure growth potential, repair and effective response to cardiac function demands.
+Zebrafish are known for their unusual ability to regenerate multiple organs and tissues.  Here we show that, upon atrio-ventricular (AV) valve interstitial cell ablation using the Nitroreductase/Metronidazole (NTR/Mtz) system, adult zebrafish are capable of fully regenerating their cardiac valves.  Taking advantage of multiple transgenic lines and detailed confocal imaging, we characterized the key stages of valve regeneration.  We focused on the positive role of the inflammatory response, cell cycle re-entry, re-differentiation and reconstruction of lost tissue. 
+Moreover, by combining a high-resolution approach of Laser Capture Microdissection with RNAseq, we established a transcriptomic profile of the regenerating valve and surrounding tissues.  This dataset allowed us to identify potential pro-regenerative factors driving valve recellularization.  Using overexpression transgenic lines and loss-of-function strategies, we are analyzing the role of chemokines and other secreted factors in promoting cell recruitment during valve regeneration.
+Overall we expect to bring new insights into the field of cardiac valve regeneration, with a particular focus on the molecular factors promoting valvular recellularization. "
+  thumbnailUrl: grey_standin.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 37
+  name: "Chaitanya"
+  surname: "Dingare"
+  company: "Institute of Cell Biology and Neuroscience, Germany<br>Dept. of Developmental Biology of Vertebrates"
+  title: "Click for Abstract"
+  bio: "<b>The Hippo Pathway effector Taz is required for the formation of the Micropyle in Zebrafish</b><br><br>In some aquatic species such as teleost fishes, the process of fertilization is external and is mediated by a funnel-shaped opening on the vitelline membrane of the oocyte, called ‘Micropyle’. The micropyle constitutes a unique sperm entry point at the animal pole of the oocyte. It is left behind by a highly specialized follicular cell, the micropylar cell (MC) that is thought to block the formation of the vitelline membrane at the point of contact with the oocyte. Hardly anything is known on how only one cell of the follicular cell layer is first selected and then specified to become such a specialized structure. 
+We recently uncovered that the hippo pathway effector Taz (encoded by the wwtr1 gene) plays a major role in this process. wwtr1 homozygous mutant females are infertile. We could show that this is due to a failure to specify a micropylar cell and, as a consequence, a micropyle. Although it has been clearly shown that the oocyte polarity plays an important role in the specification of the MC, we demonstrate that oocyte polarity is not affected in MZwwtr1 females. We further identified Taz as the first bona fide marker of the MC, and could show that Taz is restricted very early during oogenesis to only one cell, which later forms the functional MC. Finally we uncover cell properties of the MC as potential downstream effectors of Taz in the specification process. Altogether our results identify Taz as the first potential Master regulator of the micropylar cell fate, thus making also an important contribution to understanding fertility in teleost fishes.
+"
+  thumbnailUrl: grey_standin.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 38
+  name: "Alexander A."
+  surname: "Goloborodko"
+  company: "Göttingen Center for Molecular Biosciences (GZMB), Germany<br>Developmental Biochemistry"
+  title: "Click for Abstract"
+  bio: "<b>Molecular Mechanisms of Germ Plasm Localization during Early Zebrafish Embryogenesis</b><br><br>The zebrafish germline is specified early during embryogenesis by inherited maternal RNAs and proteins called germ plasm.  Only those cells containing germ plasm will become part of the germline, whereas other cells will commit to somatic cell fates. Therefore, proper localization of germ plasm is crucial for germ cell specification. 
+To investigate germ plasm localization, we use the Bucky ball (Buc) gene discovered in our lab as a molecular proxy. Buc is indispensable for germ plasm aggregation in zebrafish. Moreover, Buc is the first protein inducing the formation of primordial germ cells in vivo.  Fascinatingly, Buc protein mirrors germ plasm localization during all stages of zebrafish embryogenesis and oogenesis. For example, Buc is restricted to the cleavage furrows at the 4-cell stage, which will constitute the entire germline of the embryo. Interestingly, I found that a motif of 47 of 639 amino acids is necessary and sufficient for Buc localization. However, it was recently shown that the localization signal of the Buc homologue in Xenopus contains prion domains, which are responsible for protein aggregation (Boke et al., Cell, 2016). Nonetheless , I could show that Buc localization is independent of protein aggregation via prion domains. Furthermore, I found that Buc is recruited to cell-cell junctions, since it co-localizes with the adherens junction protein ZO-1 and hemidesmosomal protein integrin-alfa-5. Further co-localization experiments will determine the subtype of cell-cell junction, which anchors germ plasm to the cleavage furrow. In addition, I plan to use the localization domain as a bait to isolate the biochemical interaction network controlling Buc positioning in the early embryo. Taken together my experiments suggest that Buc acts as a scaffold recruiting germ plasm proteins to four cell-cell junctions, which then separate the germline from the soma during zebrafish embryogenesis.
+"
+  thumbnailUrl: grey_standin.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 39
+  name: "Erika"
+  surname: "Tsingos"
+  company: "Heidelberg University, Germany<br>Centre for Organismal Studies (COS)"
+  title: "Click for Abstract"
+  bio: "<b>Neural stem cells coordinate post-embryonic morphogenesis in the eye of medaka</b><br><br>"How do anatomically and functionally distinct tissues coordinate to direct growth and shape in complex organs? 
+
+Teleost fish grow throughout life, providing an excellent system to address this question. The eye consists of many anatomically distinct tissues; i.e. cells in one tissue do not contribute new cells to other tissues in the organ. Thus, the tissues grow independently, and yet their growth rates must be precisely tuned to maintain the 3D shape crucial for visual function.
+
+In medaka (Oryzias latipes), the neural retina (NR) and retinal pigmented epithelium (RPE) contain independent stem cells in a ring-shaped domain. In both tissues, cell size is constant, cell death is negligible, and there is no cell rearrangement. Therefore, the critical parameter that needs to be tuned to adjust tissue growth rate to organ growth rate is the proliferation of the tissue stem cells. 
+
+We explore conceptual modes of growth and shape-giving in the NR and RPE in an agent-based computational model. Using experimental lineage tracing in medaka, we validate the model predictions and introduce step-wise increments in complexity to explain the experimental findings. The combination of computational modelling and experiments uncovers that - despite the identical topology of NR and RPE - stem cells in the NR drive growth and control shape of the organ, whereas RPE stem cells follow external instructive signals. 
+
+Our work highlights how a minimal target node for evolution – the proliferation of neuroretinal stem cells – can be exploited to adapt complex organ morphogenesis in a vertebrate system.""
+  thumbnailUrl: grey_standin.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 40
+  name: "Clara"
+  surname: "Becker"
+  company: "Universität Heidelberg, Germany<br>Centre for Organismal Studies"
+  title: "Click for Abstract"
+  bio: "<b>Growth control in the retinal stem cell niche of medaka</b><br><br>All species with life-long growth are facing similar challenges. Organs have to scale in size, while proliferation of stem and progenitor cells has to be tightly controlled to prevent aberrant growth of tissue. The teleost medaka (Oryzias latipes) is one of those species, and after completion of embryogenesis the retina continues to grow. Retinal stem cells (RSCs), located in the niche at the ciliary marginal zone, divide life-long, ultimately adding new neurons to the growing organ. Since the function of the eye depends on its shape, the activity of stem and progenitor cells is tightly coordinated to establish the proper cell type composition and number. 
+My project combines advanced genetics and targeted modulation of signaling pathways in RSCs to address mechanisms of growth control in the RSC niche. I found that the activation of the insulin signaling pathway in RSCs is sufficient to stimulate massive proliferation. Here, the retina not only grows in radial size but also in thickness of the individual layers. The proliferation rate of stem and progenitor cells is a key determinant not only for eye size but also for its physiological properties. Strikingly we could only achieve this by the physiological signal, but not by oncogenic triggers of proliferation so far. 
+Addressing this aspect, we found that RSCs are under surveillance of mononuclear phagocytic cells. The stem cells express a chemokine ligand attracting mononuclear phagocytic cells expressing the corresponding chemokine receptor. These cells form a network, maintained life-long, in close proximity to the RSC niche. Preliminary data point to an active role of immune cells in protecting and honing the RSC niche."
+  thumbnailUrl: grey_standin.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 41
+  name: "Omar"
+  surname: "Hammouda"
+  company: "University Heidelberg, Germany<br>Center of Organismal Studies Heidelberg"
+  title: "Click for Abstract"
+  bio: "<b>A Change of Heart: Medaka as a model for Human Cardio-Vascular Diseases & GWAS</b><br><br>Cardiovascular diseases (CVD) cover a wide spectrum of disorders involving the heart or blood vessels such as congenital heart diseases, arrhythmias and many more. Together CVD are the leading cause of death globally. Increasing number of Genome Wide Association Studies (GWAS) are being performed, thousands of single nucleotide polymorphisms (SNPs) are being identified and associated to diseases in humans. However, about 93% of identified SNPs lie within non-coding regions of our genome, highlighting the necessity to explore and understand the role of these regions in disease development and progression. Moreover, genetic and experimental limitations in human GWAS urge us to use animal models to fully exploit the advantages of GWAS. 
+
+My aim is to break down the complex regulatory pathways involved in the development of CVD using medaka (Oryzias latipes) as a model for functional validation of human CVD-associated genes/SNPs. While also introducing it as a robust model for GWAS to identify novel CVD-associated SNPs. Medaka offers many technical advantages such as transparent body and a high tolerance to inbreeding; which will aid in the identification, validation & characterization of novel coding/regulatory mutations leading to CVD-related phenotypes. 
+
+As a first step, using our newly developed high-throughput heart rate screening protocol, I functionally validate various novel CVD-associated gene hits identified in human GWAS in vivo in medaka embryos. Using CRIPSR/Cas9 targeting complementary human SNP-containing gene regions in medaka, I observe significant changes in heart rate, heart morphology or arrhythmias already in the injected generation. The high isogenicity of medaka inbred lines, ease of the experimental setup & analysis in addition to the rapid gain of results, all pave the way for medaka as an exceptional model for high throughput functional gene validations.
+"
+  thumbnailUrl: grey_standin.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 42
+  name: "Ali"
+  surname: "Seleit"
+  company: "COS, Germany<br>Animal Physiology"
+  title: "Click for Abstract"
+  bio: "<b>Neural stem cells induce the formation of their physical niche during organogenesis</b><br><br>Most organs rely on stem cells to maintain homeostasis during post-embryonic life. Typically, stem cells of independent lineages work coordinately within mature organs to ensure proper ratios of cell types. Little is known, however, on how these different stem cells locate to forming organs during development. Here we show that neuromasts of the posterior lateral line in medaka are composed of two independent life-long lineages with different embryonic origins. Clonal analysis and 4D imaging revealed a hierarchical organisation with instructing and responding roles: an inner, neural lineage induces the formation of an outer, border cell lineage (nBC) from the skin epithelium. Our results demonstrate that the neural lineage is necessary and sufficient to generate nBCs highlighting self-organisation principles at the level of the entire embryo. We hypothesise that induction of surrounding tissues plays a major role during the establishment of vertebrate stem cell niches."
+  thumbnailUrl: grey_standin.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 43
+  name: "Carina Beatrice"
+  surname: "Vibe"
+  company: "EMBL Heidelberg, Germany<br>Developmental Biology Unit"
+  title: "Click for Abstract"
+  bio: "<b>Visualizing signaling oscillations during embryonic patterning in the Medaka model </b><br><br>During development, cells are required to interpret dynamic signals and coordinate a precise response in space and time. Our lab is interested in how embryonic patterning can be encoded in the dynamic properties of such signals. To explore the function of signaling dynamics in development, we study somitogenesis in vertebrate embryos. The timing of somitogenesis is controlled by a “segmentation clock” that periodically activates a system of oscillating genes in the presomitic mesoderm (PSM). It is known that these dynamic signals are important for somite formation, but how cells interpret such signals is an open question. While somitogenesis itself is a conserved process in vertebrates, the oscillatory signaling pathways involved vary between different species. For example, in the Mouse PSM this includes the Notch, Wnt and FGF pathways, while in the Zebrafish PSM there is only evidence for the involvement of the Notch pathway, notably the her genes. To complement existing models of vertebrate somitogenesis, we study signaling dynamics in the Japanese Medaka (Oryzias Latipes). Using CRISPR/Cas9, we aim to knock in reporters in the endogenous locus of molecular players in the Notch, Wnt and FGF pathways, followed by imaging of signaling oscillations in real time. I will present recent progress in the development and imaging of these dynamic reporters. Following this approach, we hope to discover which pathways are involved in the Medaka segmentation clock, and how general the principles of dynamic signal encoding are across vertebrate species. Ultimately, these reporter lines can be used not only to characterize the Medaka segmentation clock, but also to correlate signaling dynamics with spatial patterns through genetic and chemical perturbations.  "
+  thumbnailUrl: grey_standin.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 44
+  name: "Ravindra"
+  surname: "Peravali"
+  company: "Karlsruhe Institute of Technology, Germany<br>Institute of Toxicology and Genetics"
+  title: "Click for Abstract"
+  bio: "<b>From Morphology to Behavior: Phenotyping Medaka Inbred Lines</b><br><br>With advances in genotyping and cost-effective sequencing technologies, Genome-wide association (GWA) studies have emerged as approaches to study the genetics of natural variation and gene-environment interaction. GWA studies are particularly useful when inbred lines are available (as once they are genotyped, these lines can be phenotyped multiple times) and also with the availability of automated image acquisition and analysis systems for rapid phenotyping. The teleost fish Medaka (Oryzias latipes) is an ideal model organism for these kinds of studies because of the presence of still free living wild populations in Japan and East Asia, the ability to generate highly polymorphic inbred lines and the availability of the complete genome sequence. We present the development of automated and intelligent screening platforms for high-throughput acquisition of morphometric and behavioral data. We characterize gross morphological features of different southern and northern inbred Medaka lines and evaluate the level of phenotypic variation between these lines. Furthermore, we show results of a quantitative assessment of fundamental behavioral traits such as locomotion and feeding in larval Medaka. Mathematical algorithms developed for morphometry and behavioral analysis will be discussed. The aim of this work is to identify a variety of phenotypic traits derived from morphology and behavior in order to assist in the investigation of the genetic basis for polymorphism in Medaka. "
+  thumbnailUrl: grey_standin.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 45
+  name: "Alexander"
+  surname: "Cook"
+  company: "Universitätsmedizin der Johannes Gutenberg-Universität Mainz, Germany<br>Deutsches Resilienz Zentrum, DRZ"
+  title: "Click for Abstract"
+  bio: "<b>Developing a zebrafish model to identify novel molecular resilience mechanisms</b><br><br>Resilience is a dynamic and active process that ensures a trajectory of stable mental health during and after a traumatizing event or a prolonged period of stress, or a relatively rapid, successful recovery. Elucidating and understanding the underlying mechanisms behind this phenomenon is important to combat the negative trajectories non-resilient individuals’ experience. The zebrafish represents a newly established vertebrate animal model in stress research with a high degree of conservation of the stress response system, rendering it an attractive model system to discover molecules contributing to stress resilience. Both acute and chronic stressor paradigms have been reported for zebrafish. However, as of yet, there is no established resilience model, thus, our aim is to develop the first resilience model in zebrafish. Our first objective is to develop a chronic, ecologically relevant stressor in the form of a predator cue and subsequently detect behavioral alterations via multiple behavioral assays. Here we report the development of a high-throughput stressor delivery system suitable for simultaneous chronic stress exposure of a large number of adult zebrafish. The system consists of small monitors fixed above single-housing tanks displaying a ‘looming dot” of defined contrast and angular velocity, resembling an approaching predator. To robustly detect the effect of chronic stress on this behavior, we developed an “open tank” assay, comprising of a large novel environment, offering both a confined deep space and an open exposed space.  An individuals’ choice between these two compartments is a measure of stress-induced alteration in exploratory behavior. We discuss the details of this behavioral paradigm and present results on how acute and chronic predator stress exposures alter adult zebrafish behavior in this assay."
+  thumbnailUrl: grey_standin.jpg
+  rockstar: false
+  social: 
+    - {}
+
+- 
+  id: 46
+  name: "Jens"
+  surname: "Kroll"
+  company: "Heidelberg University, Germany<br>Vascular Biology"
+  title: "Click for Abstract"
+  bio: "To be announced<b></b><br><br>"
+  thumbnailUrl: grey_standin.jpg
+  rockstar: false
+  social: 
+    - {}
 
 
