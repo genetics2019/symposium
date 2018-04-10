@@ -237,25 +237,110 @@
 
 -
   id: 301
-  title: "Regional Fish Meeting"
-  description: "Young Investigator Session"
+  title: "Evolutionary emergence of the rac3b/rfng/sgca regulatory cluster refined mechanisms for hindbrain boundaries formation in zebrafish"
+  description: "Key Note Lecture - 3rd Regional Fish Meeting"
+  speakers: [61]
 
 -
   id: 302
-  title: "Regional Fish Meeting"
-  description: "Young Investigator Session"
+  title: "High content screening by ACQUIFER - Automated microscopy for whole organism screening applications"
+  description: "Technical Talk - 3rd Regional Fish Meeting"
+  speakers: [47]
 
 -
   id: 303
-  title: "Regional Fish Meeting"
-  description: "Young Investigator Session"
+  title: "A Change of Heart: Medaka as a model for Human Cardio-Vascular Diseases & GWAS"
+  description: "Technical Talk - 3rd Regional Fish Meeting"
+  speakers: [41]
 
 -
+  id: 304
+  title: "To be announced."
+  description: "Technical Talk - 3rd Regional Fish Meeting"
+  speakers: []
+
+-
+  id: 305
+  title: "Growth control in the retinal stem cell niche of medaka"
+  description: "3rd Regional Fish Meeting"
+  speakers: [40]
+-
+  id: 306
+  title: "Zebrafish heart valve regeneration: a model for valve recellularization"
+  description: "3rd Regional Fish Meeting"
+  speakers: [36]
+-
+  id: 307
+  title: "Pitx2c orchestrates embryonic axis extension via  mesendodermal cell migration and oriented cell division"
+  description: "3rd Regional Fish Meeting"
+  speakers: [35]
+-
+  id: 308
+  title: "Developing a zebrafish model to identify novel molecular resilience mechanisms"
+  description: "3rd Regional Fish Meeting"
+  speakers: [45]
+-
+  id: 309
+  title: "The Hippo Pathway effector Taz is required for the formation of the Micropyle in Zebrafish"
+  description: "3rd Regional Fish Meeting"
+  speakers: [37]
+-
+  id: 310
+  title: "The mRNA surveillance machinery controls transcriptional adaptation to mutations"
+  description: "3rd Regional Fish Meeting"
+  speakers: [33]
+-
   id: 311
-  title: "Lunch"
- 
+  title: "Genome-wide Association Study of Cardiac Phenotypes in Medaka Inbred Strains"
+  description: "3rd Regional Fish Meeting"
+  speakers: [48]
 -
   id: 312
+  title: "Molecular Mechanisms of Germ Plasm Localization during Early Zebrafish Embryogenesis"
+  description: "3rd Regional Fish Meeting"
+  speakers: [38]
+-
+  id: 313
+  title: "In vivo secretome-wide and chemical screening to identify novel regulators of pancreatic β-cell function"
+  description: "3rd Regional Fish Meeting"
+  speakers: [34]
+ 
+-
+  id: 314
+  title: "Loss of erythropoietin aggravates hyperglycemia induced renal damage and alters embryonic renal development via induction of apoptosis in zebrafish"
+  description: "3rd Regional Fish Meeting"
+  speakers: [46]
+-
+  id: 315
+  title: "From Morphology to Behavior: Phenotyping Medaka Inbred Lines"
+  description: "3rd Regional Fish Meeting"
+  speakers: [44]
+-
+  id: 316
+  title: "Neural stem cells induce the formation of their physical niche during organogenesis"
+  description: "3rd Regional Fish Meeting"
+  speakers: [42]
+-
+  id: 317
+  title: "Neural stem cells coordinate post-embryonic morphogenesis in the eye of medaka"
+  description: "3rd Regional Fish Meeting"
+  speakers: [39]
+-
+  id: 318
+  title: "Visualizing signaling oscillations during embryonic patterning in the Medaka model"
+  description: "3rd Regional Fish Meeting"
+  speakers: [43]
+
+-
+  id: 3110
+  title: "Coffee Break"
+
+-
+  id: 3120
+  title: "Lunch & Poster Session"
+
+-
+  id: 3130
   title: "Coffee Break"
 
 
