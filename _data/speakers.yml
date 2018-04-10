@@ -469,25 +469,7 @@ To investigate germ plasm localization, we use the Bucky ball (Buc) gene discove
   social: 
     - {}
 
-- 
-  id: 39
-  name: "Erika"
-  surname: "Tsingos"
-  company: "Heidelberg University, Germany<br>Centre for Organismal Studies (COS)"
-  title: "Click for Abstract"
-  bio: "<b>Neural stem cells coordinate post-embryonic morphogenesis in the eye of medaka</b><br><br>"How do anatomically and functionally distinct tissues coordinate to direct growth and shape in complex organs? 
 
-Teleost fish grow throughout life, providing an excellent system to address this question. The eye consists of many anatomically distinct tissues; i.e. cells in one tissue do not contribute new cells to other tissues in the organ. Thus, the tissues grow independently, and yet their growth rates must be precisely tuned to maintain the 3D shape crucial for visual function.
-
-In medaka (Oryzias latipes), the neural retina (NR) and retinal pigmented epithelium (RPE) contain independent stem cells in a ring-shaped domain. In both tissues, cell size is constant, cell death is negligible, and there is no cell rearrangement. Therefore, the critical parameter that needs to be tuned to adjust tissue growth rate to organ growth rate is the proliferation of the tissue stem cells. 
-
-We explore conceptual modes of growth and shape-giving in the NR and RPE in an agent-based computational model. Using experimental lineage tracing in medaka, we validate the model predictions and introduce step-wise increments in complexity to explain the experimental findings. The combination of computational modelling and experiments uncovers that - despite the identical topology of NR and RPE - stem cells in the NR drive growth and control shape of the organ, whereas RPE stem cells follow external instructive signals. 
-
-Our work highlights how a minimal target node for evolution – the proliferation of neuroretinal stem cells – can be exploited to adapt complex organ morphogenesis in a vertebrate system."
-  thumbnailUrl: grey_standin.jpg
-  rockstar: false
-  social: 
-    - {}
 
 - 
   id: 40
