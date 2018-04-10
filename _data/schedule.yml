@@ -46,46 +46,46 @@
     }
     - {
     	startTime: "12:10",
-    	endTime: "12:25",
+    	endTime: "12:35",
     	sessionIds: [107]
     }
     - {
-    	startTime: "12:25",
-    	endTime: "12:50",
+    	startTime: "12:35",
+    	endTime: "13:00",
     	sessionIds: [108]
     }
     - {
-    	startTime: "12:50",
-    	endTime: "14:15",
+    	startTime: "13:00",
+    	endTime: "14:30",
     	sessionIds: [1120]
     }
     - {
-    	startTime: "14:15",
-    	endTime: "14:40",
+    	startTime: "14:30",
+    	endTime: "14:55",
     	sessionIds: [109]
     }
     - {
-    	startTime: "14:40",
-    	endTime: "15:05",
+    	startTime: "14:55",
+    	endTime: "15:20",
     	sessionIds: [110]
     }
     - {
-    	startTime: "15:05",
-    	endTime: "15:30",
+    	startTime: "15:20",
+    	endTime: "15:45",
     	sessionIds: [111]
     }
     - {
-    	startTime: "15:30",
-    	endTime: "15:55",
+    	startTime: "15:45",
+    	endTime: "16:10",
     	sessionIds: [112]
     }
     - {
-    	startTime: "15:55",
-    	endTime: "16:20",
+    	startTime: "16:10",
+    	endTime: "16:35",
     	sessionIds: [113]
     }
     - {
-    	startTime: "16:20",
+    	startTime: "16:35",
     	endTime: "18:00",
     	sessionIds: [1140]
     }
@@ -100,9 +100,9 @@
     - {title: "Venue: COS Auditorium (More information coming soon)", color: "#90be4e"}
   timeslots: 
     - {
-    	startTime: "09:00",
+    	startTime: "08:45",
 	endTime: "10:00",
-    	sessionIds: [2110]
+    	sessionIds: [2110, 2111, 2112]
 	}
     - {
         startTime: "10:00",
@@ -131,71 +131,76 @@
     }
     - {
         startTime: "12:10",
-        endTime: "12:25",
+        endTime: "12:35",
         sessionIds: [205]
     }
     - {
-    	startTime: "12:25",
-    	endTime: "12:50",
+    	startTime: "12:35",
+    	endTime: "13:00",
     	sessionIds: [206]
     }
     - {
-    	startTime: "12:50",
-	endTime: "14:15",
+    	startTime: "13:00",
+	endTime: "14:30",
     	sessionIds: [2130]
     }
     - {
-        startTime: "14:15",
-        endTime: "14:40",
+        startTime: "14:30",
+        endTime: "14:55",
         sessionIds: [207]
     }
     - {
-    	startTime: "14:40",
-    	endTime: "15:05",
-    	sessionIds: [208]
+    	startTime: "14:55",
+    	endTime: "15:20",
+    	sessionIds: [212]
     }
     - {
-    	startTime: "15:05",
-    	endTime: "15:30",
+    	startTime: "15:20",
+    	endTime: "15:45",
     	sessionIds: [209]
     }
     - {
-        startTime: "15:30",
-        endTime: "15:55",
-        sessionIds: [210]
+        startTime: "15:45",
+        endTime: "16:10",
+        sessionIds: [211]
     }
     - {
-    	startTime: "15:55",
-    	endTime: "16:20",
-    	sessionIds: [211]
+    	startTime: "16:10",
+    	endTime: "16:35",
+    	sessionIds: [213]
     }
     - {
-    	startTime: "16:20",
-	endTime: "16:45",
+    	startTime: "16:35",
+	endTime: "17:10",
     	sessionIds: [2140]
-    }
-    - {
-        startTime: "16:45",
-        endTime: "17:10",
-        sessionIds: [212]
     }
     - {
         startTime: "17:10",
         endTime: "17:35",
-        sessionIds: [213]
+        sessionIds: [210]
     }
     - {
         startTime: "17:35",
-        endTime: "18:00",
+        endTime: "17:55",
+        sessionIds: [208]
+    }
+    - {
+        startTime: "17:55",
+        endTime: "18:15",
+        sessionIds: [216]
+    }
+    - {
+        startTime: "18:15",
+        endTime: "18:35",
         sessionIds: [214]
     }
     - {
-        startTime: "18:00",
-        endTime: "18:25",
+    	startTime: "18:35",
+        endTime: "19:00",
         sessionIds: [215]
     }
     - {
-    	startTime: "18:30",
+    	startTime: "19:00",
     	sessionIds: [2150]
     }
 - 

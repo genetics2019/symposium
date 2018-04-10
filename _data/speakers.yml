@@ -613,3 +613,19 @@ Conclusion: We present a genome-wide approach to dissect genetic determinants of
   social: 
     - {}
 
+- 
+  id: 49
+  name: "Thomas"
+  surname: "Thumberger"
+  company: "Heidelberg University, Germany<br>COS"
+  title: "Click for Abstract"
+  bio: "<b>Acute and inducible knockdown of GFP-tagged proteins using a nanobody-destruction box fusion</b><br><br>Tissue specific and inducible loss of function on the level of the protein provides the ultimate means for acute intervention with protein function. It is not only a useful tool to overcome embryonic lethality but eventually allows addressing the function of the protein of interest. 
+
+Here we present an experimental setup that allows the analysis of protein function in an in vivo context and combines effective knock down with the tagging of the respective cells facilitating functional in vivo studies. We have successfully adapted an acute knockdown approach for GFP-tagged proteins in the Japanese rice fish medaka (Oryzias latipes). This is achieved by the conditional expression of a GFP-targeting nanobody (camelid single-domain antibody) fused to medaka SPOP, an adaptor protein of the Cullin-RING E3 ubiquitin ligase complex. We have established medaka-specific SPOP-anti-GFP nanobodies that can be expressed in any cell type (of the retina) in a temporo-spatially controlled manner. As proof of concept, the endogenous GFP-tagged Retinal homeobox protein 2 (Rx2) was acutely targeted to degradation in a cell-specific and inducible manner. 
+
+Using a stream-lined CRISPR-Cas9 mediated homology directed repair strategy (from off-target prediction via CCTop to advanced Golden Gate cloning for specific donor plasmid creation) to fuse the GFP sequence with endogenous open reading frames offers an easy and reliable way for acute protein knock-down. The approach works in transient as well as in stable transgenic lines. Successful knockdown of GFP in affected cells is visualized by the co-expression of nuclear RFP with the nanobody construct. The approach presented allows an efficient and acute knock down of in vivo tagged proteins and the analysis of the immediate consequences of that acute loss of function."
+  thumbnailUrl: Thumberger3.png
+  rockstar: false
+  social: 
+    - {}
+

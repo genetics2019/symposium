@@ -167,7 +167,7 @@
 
 -
   id: 209
-  title: "To be announced"
+  title: "Drug discovery screening for lymphatic vessel related diseases using medaka"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [27]
 
@@ -203,15 +203,32 @@
 
 -
   id: 215
-  title: "To be announced"
+  title: "Genetic compensation is triggered by mutant mRNA degradation"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [8]
 
+-
+  id: 216
+  title: "Small proteins with big roles: Bouncer is necessary and sufficient for species-specific fertilization"
+  description: "4th Strategic Meeting for Medaka Research"
+  speakers: [32]
 
 -
   id: 2110
   title: "Community Meeting Current State and Future Directions"
   service: true
+
+-
+  id: 2111
+  title: "Acute and inducible knockdown of GFP-tagged proteins using a nanobody-destruction box fusion"
+  description: "4th Strategic Meeting for Medaka Research"
+  speakers: [49]
+
+-
+  id: 2112
+  title: "Whole Genome Analysis of the Inbred Medaka Kiyosu Panel"
+  description: "4th Strategic Meeting for Medaka Research"
+  speakers: [31]
  
 -
   id: 2120
@@ -230,7 +247,7 @@
 
 -
   id: 2150
-  title: "BBQ & Posters"
+  title: "BBQ & Poster Session"
   service: true
 
 
