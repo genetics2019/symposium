@@ -41,7 +41,7 @@
   surname: "Centanin"
   company: "COS Heidelberg, Germany"
   title: "Click for Abstract"
-  bio: "To be announced.<b></b><br><br>"
+  bio: "<b>Fixed Developmental Timing Revealed by Trans-Species Transplantation</b><br><br>Jana F. Fuhrmann, Lazaro Centanin. <br> <br>The temporal requirement to go through embryogenesis is stereotypic within a given specie but largely variable among animals, where the very same organ can display different developmental timing even in related species. Considering teleost fish, a Zebrafish embryo develops faster than a Medaka embryo. Here we use Medaka/Zebrafish chimeras to asses if developmental timing relies mainly on genetic information or if alternatively, is an orchestrated process that responds to instructions from the host. Zebrafish and Medaka blastocysts do not mix to each other when put together in a developing blastula. We have exploited this feature to develop exogenous Zebrafish retinae in medaka host and vice versa, and used it to tackle developmental timing using distinctive events: lens recruitment, onset of pigmentation and neurogenesis. Our results indicate that the genetic timing of retinogenesis is maintained when the organ develops in an exogenous environment, suggesting an autonomous mode of organ formation. I will discuss this findings in the context of community cell effects and self-organising models."
   thumbnailUrl: centanin-grey.jpg
   rockstar: false
   social: 
@@ -205,7 +205,7 @@ Related references
   surname: "Wittbrodt"
   company: "COS Heidelberg, Germany"
   title: "Click for Abstract"
-  bio: "To be announced.<b></b><br><br>"
+  bio: "<b>Genetics of Individuality, a medaka population genomics resource</b><br><br>"
   thumbnailUrl: wittbrodt.jpeg
   rockstar: false
   social: 
