@@ -177,7 +177,7 @@ Related references
 
 - 
   id: 15
-  name: "Takashi"
+  name: "Takahashi"
   surname: "Yoshimura"
   company: "Nagoya University, Japan<br>Institute of Transformative Bio-Molecules"
   title: "Click for Abstract"
@@ -343,8 +343,8 @@ It is therefore important to establish suitable model systems. We have used meda
   surname: "Deguchi"
   company: "<br>"
   title: "Click for Abstract"
-  bio: "<b>Drug discovery screening for lymphatic vessel related diseases using medaka</b><br><br>"
-  thumbnailUrl: Deguchi.jpg
+  bio: "To be announced<b></b><br><br>"
+  thumbnailUrl: grey_standin.jpg
   rockstar: false
   social: 
     - {}
