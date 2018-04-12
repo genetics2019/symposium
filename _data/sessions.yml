@@ -34,7 +34,7 @@
   speakers: [9]
 
 -
-  id: 106
+  id: 108
   title: "Evolution of the sex chromosome and sex-determining genes in Oryzias fish"
   place: "Alte Aula"
   description: "4th Strategic Meeting for Medaka Research"
@@ -48,7 +48,7 @@
   speakers: [20]
 
 -
-  id: 108
+  id: 106
   title: "Analysis of molecular basis underlying decision making according to social familiarity"
   place: "Alte Aula"
   description: "4th Strategic Meeting for Medaka Research"
@@ -77,7 +77,7 @@
 
 -
   id: 112
-  title: "To be announced"
+  title: "Genetics of Individuality, a medaka population genomics resource"
   place: "Alte Aula"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [16]
@@ -161,7 +161,7 @@
 
 -
   id: 208
-  title: "To be announced"
+  title: "Fixed Developmental Timing Revealed by Trans-Species Transplantation"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [4]
 
@@ -220,7 +220,7 @@
 
 -
   id: 2111
-  title: "Acute and inducible knockdown of GFP-tagged proteins using a nanobody-destruction box fusion"
+  title: "How to CRISPR: precise and efficient genome editing in Medaka"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [49]
 
@@ -363,109 +363,3 @@
 
 
 
--
-  id: 16001
-  title: "Onwards Registration"
-
--
-  id: 16002
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
-
--
-  id: 16003
-  title: "Tea / Coffee Break"
-  service: true
-
--
-  id: 16101
-  title: "Session 1 <br> Development and genetics"
-  description: "Development and genetics"
-
-
--
-  id: 16102
-  title: "Session 2 <br> Functional genomics"
-  description: "Functional genomics"
-
--
-  id: 16103
-  title: "Session 3 <br> Neuron and behavior"
-  description: "Neuron and behavior"
-
--
-  id: 17001
-  title: "Tea / Coffee Break"
-
--
-  id: 17002
-  title: "Networking"
-
--
-  id: 17003
-  title: "Lunch Break"
-
--
-  id: 17004
-  title: "Tea / Coffee Break"
-
--
-  id: 17005
-  title: "Banquet"
-
--
-  id: 17101
-  title: "Session 4 <br> Disease modeling and regenerations 1"
-  description: "Disease modeling and regenerations 1"
-
--
-  id: 17102
-  title: "Session 5 <br> Disease modeling and regenerations 2"
-  description: "Disease modeling and regenerations 2"
-
--
-  id: 17103
-  title: "Session 6 <br> Stem cell biology"
-  description: "Stem cell biology"
-
--
-  id: 17104
-  title: "Session 7 <br> Plenary lecture"
-  description: "Plenary lecture"
-
--
-  id: 18001
-  title: "Tea / Coffee Break"
-
--
-  id: 18002
-  title: "Lunch Break"
-
--
-  id: 18003
-  title: "Tea / Coffee Break"
-
--
-  id: 18004
-  title: "Move to Karlsruhe Institute of Technology (by Bus)"
-
--
-  id: 18101
-  title: "Session 8 <br> Young Investigator's session"
-  description: "Young Investigator's session"
-
--
-  id: 18102
-  title: "Session 9 <br> Toxicology and pharmacology"
-  description: "Toxicology and pharmacology"
-
--
-  id: 18103
-  title: "Session 10 <br> Husbandry, resources and technology"
-  description: "Husbandry, resources and technology"
-
--
-  id: 18104
-  title: "Session 11 <br> Kiyosu isogenic panel and table discussion"
-  description: "Kiyosu isogenic panel and table discussion"
