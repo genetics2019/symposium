@@ -2,7 +2,7 @@
   date: "2018-04-16"
   dateReadable: "April 16, Monday"
   tracks: 
-    - {title: "Venue: Alte Aula (More information coming soon)", color: "#90be4e"}
+    - {title: "Venue: Alte Aula", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "09:00",
@@ -97,7 +97,7 @@
   date: "2018-04-17"
   dateReadable: "April 17, Tuesday"
   tracks: 
-    - {title: "Venue: COS Auditorium (More information coming soon)", color: "#90be4e"}
+    - {title: "Venue: COS Auditorium Room 00.005", color: "#90be4e"}
   timeslots: 
     - {
     	startTime: "08:45",
@@ -207,7 +207,7 @@
   date: "2018-04-18"
   dateReadable: "April 18"
   tracks: 
-    - {title: "Venue: COS Auditorium (More information coming soon)", color: "#90be4e"}
+    - {title: "Venue: COS Auditorium Room 00.005", color: "#90be4e"}
   timeslots: 
     - {
     	startTime: "09:00",
