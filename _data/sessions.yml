@@ -1,90 +1,90 @@
 -
   id: 101
-  title: "The structure and epigenetics of the pluripotent genome in medaka fish"
+  title: "T1 - The structure and epigenetics of the pluripotent genome in medaka fish"
   place: "Alte Aula"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [10]
 
 -
   id: 102
-  title: "More than meets the eye: Vertebrate non-visual photoreceptors"
+  title: "T2 - More than meets the eye: Vertebrate non-visual photoreceptors"
   place: "Alte Aula"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [18]
 
 -
   id: 103
-  title: "To be announced"
+  title: "T3 - The role of signaling oscillations during embryonic mesoderm pattering"
   place: "Alte Aula"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [2]
 
 -
   id: 104
-  title: "Medaka as a model to understand the underlying mechanism of vertebrate seasonal adaptation"
+  title: "T4 - Medaka as a model to understand the underlying mechanism of vertebrate seasonal adaptation"
   place: "Alte Aula"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [15]
 
 -
   id: 105
-  title: "Individual recognition in medaka fish"
+  title: "T5 - Individual recognition in medaka fish"
   place: "Alte Aula"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [9]
 
 -
   id: 108
-  title: "Evolution of the sex chromosome and sex-determining genes in Oryzias fish"
+  title: "T8 - Evolution of the sex chromosome and sex-determining genes in Oryzias fish"
   place: "Alte Aula"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [28]
 
 -
   id: 107
-  title: "Diversification of androgen receptor function underlies secondary sex characteristics development of teleost fishes"
+  title: "T7 - Diversification of androgen receptor function underlies secondary sex characteristics development of teleost fishes"
   place: "Alte Aula"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [20]
 
 -
   id: 106
-  title: "Analysis of molecular basis underlying decision making according to social familiarity"
+  title: "T6 - Analysis of molecular basis underlying decision making according to social familiarity"
   place: "Alte Aula"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [13]
 
 -
   id: 109
-  title: "Germ Cells - More than Gametogenesis"
+  title: "T9 - Germ Cells - More than Gametogenesis"
   place: "Alte Aula"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [5]
 
 -
   id: 110
-  title: "Transcriptome profiling of osteoblasts in a medaka osteoporosis model identifies novel mediators of bone repair"
+  title: "T10 - Transcriptome profiling of osteoblasts in a medaka osteoporosis model identifies novel mediators of bone repair"
   place: "Alte Aula"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [7]
 
 -
   id: 111
-  title: "The Genetic Response to Fluorescent Light Exposure Within Internal and External Organs Is Conserved Among Vertebrates (Danio rerio, Oryzias latipes, and Mus musculus)"
+  title: "T11 - The Genetic Response to Fluorescent Light Exposure Within Internal and External Organs Is Conserved Among Vertebrates (Danio rerio, Oryzias latipes, and Mus musculus)"
   place: "Alte Aula"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [19]
 
 -
   id: 112
-  title: "Genetics of Individuality, a medaka population genomics resource"
+  title: "T12 - Library of life: the matrix. Medaka to tackle the genetics of individuality"
   place: "Alte Aula"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [16]
 
 -
   id: 113
-  title: "How the Medaka came to Europe"
+  title: "T13 - How the Medaka came to Europe"
   place: "Alte Aula"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [12]
@@ -113,103 +113,103 @@
 
 -
   id: 1150
-  title: "Wine Testing & Dinner for Speakers"
+  title: "Wine Tasting & Dinner for Speakers"
 
 
 
 -
   id: 201
-  title: "cis-regulatory logic of Shh expression reveals common history of unpaired and paired fins"
+  title: "T16 - cis-regulatory logic of Shh expression reveals common history of unpaired and paired fins"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [21]
 
 -
   id: 202
-  title: "The molecular genetic basis of diversified sexually dimorphic traits in Oryzias species endemic to Sulawesi, Indonesia"
+  title: "T17 - The molecular genetic basis of diversified sexually dimorphic traits in Oryzias species endemic to Sulawesi, Indonesia"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [14]
 
 -
   id: 203
-  title: "The Proteins Interacting with Prmt5 in Medaka (Oryzias latipes)"
+  title: "T18 - The Proteins Interacting with Prmt5 in Medaka (Oryzias latipes)"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [22]
 
 -
   id: 204
-  title: "Long search for the &quot;Holy Grail&quot; in the evolution of adaptive immune system: Identification of lymph node equivalent structures in medaka fish"
+  title: "T19 - Long search for the &quot;Holy Grail&quot; in the evolution of adaptive immune system: Identification of lymph node equivalent structures in medaka fish"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [3]
 
 -
   id: 205
-  title: "Characterization of the endocrine and behavioural stress responses of medaka larvae"
+  title: "T20 - Characterization of the endocrine and behavioural stress responses of medaka larvae"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [11]
 
 -
   id: 206
-  title: "Basal lamina in the base of intestinal furrow is an inductive site for the mucosal adaptive immune response in medaka fish"
+  title: "T21 - Basal lamina in the base of intestinal furrow is an inductive site for the mucosal adaptive immune response in medaka fish"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [1]
 
 -
   id: 207
-  title: "Suppressed recombination of the homomorphic Y chromosome in the medaka"
+  title: "T22 - Suppressed recombination of the homomorphic Y chromosome in the medaka"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [23]
 
 -
   id: 208
-  title: "Fixed Developmental Timing Revealed by Trans-Species Transplantation"
+  title: "T28 - Fixed Developmental Timing Revealed by Trans-Species Transplantation"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [4]
 
 -
   id: 209
-  title: "Drug discovery screening for lymphatic vessel related diseases using medaka"
+  title: "T24 - Drug discovery screening for lymphatic vessel related diseases using medaka"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [27]
 
 -
   id: 210
-  title: "Biological and Optical improvement of IR laser-mediated gene induction microscope system"
+  title: "T27 - Biological and Optical improvement of IR laser-mediated gene induction microscope system"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [17]
 
 -
   id: 211
-  title: "in vivo MR microcopy of disease models in Medaka"
+  title: "T25 - in vivo MR microcopy of disease models in Medaka"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [24]
 
 -
   id: 212
-  title: "Germline sex determination by nanos3, a component of germ plasm, in medaka"
+  title: "T23 - Germline sex determination by nanos3, a component of germ plasm, in medaka"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [25]
 
 -
   id: 213
-  title: "A panel of medaka inbred lines: a resource to study the genetics of individuality"
+  title: "T26 - A panel of medaka inbred lines: a resource to study the genetics of individuality"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [26]
 
 -
   id: 214
-  title: "Analysis of YAP/TAZ-dependent transcriptional response during early morphogenesis in teleost embryos."
+  title: "T30 - Analysis of YAP/TAZ-dependent transcriptional response during early morphogenesis in teleost embryos."
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [6]
 
 -
   id: 215
-  title: "Genetic compensation is triggered by mutant mRNA degradation"
+  title: "T31 - Genetic compensation is triggered by mutant mRNA degradation"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [8]
 
 -
   id: 216
-  title: "Small proteins with big roles: Bouncer is necessary and sufficient for species-specific fertilization"
+  title: "T29 - Small proteins with big roles: Bouncer is necessary and sufficient for species-specific fertilization"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [32]
 
@@ -220,13 +220,13 @@
 
 -
   id: 2111
-  title: "How to CRISPR: precise and efficient genome editing in Medaka"
+  title: "T14 - Acute and inducible knockdown of GFP-tagged proteins using a nanobody-destruction box fusion"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [49]
 
 -
   id: 2112
-  title: "Whole Genome Analysis of the Inbred Medaka Kiyosu Panel"
+  title: "T15 - Whole Genome Analysis of the Inbred Medaka Kiyosu Panel"
   description: "4th Strategic Meeting for Medaka Research"
   speakers: [31]
  
@@ -254,97 +254,97 @@
 
 -
   id: 301
-  title: "Evolutionary emergence of the rac3b/rfng/sgca regulatory cluster refined mechanisms for hindbrain boundaries formation in zebrafish"
+  title: "T32 - Evolutionary emergence of the rac3b/rfng/sgca regulatory cluster refined mechanisms for hindbrain boundaries formation in zebrafish"
   description: "Key Note Lecture - 3rd Regional Fish Meeting"
   speakers: [61]
 
 -
   id: 302
-  title: "High content screening by ACQUIFER - Automated microscopy for whole organism screening applications"
+  title: "T33 - High content screening by ACQUIFER - Automated microscopy for whole organism screening applications"
   description: "Technical Talk - 3rd Regional Fish Meeting"
   speakers: [47]
 
 -
   id: 303
-  title: "A Change of Heart: Medaka as a model for Human Cardio-Vascular Diseases & GWAS"
+  title: "T34 - A Change of Heart: Medaka as a model for Human Cardio-Vascular Diseases & GWAS"
   description: "Technical Talk - 3rd Regional Fish Meeting"
   speakers: [41]
 
 -
   id: 304
-  title: "To be announced."
+  title: "T35 - Luxendo Light-sheet Microscopy: Seeing Life from a Different Angle"
   description: "Technical Talk - 3rd Regional Fish Meeting"
-  speakers: []
+  speakers: [50]
 
 -
   id: 305
-  title: "Growth control in the retinal stem cell niche of medaka"
+  title: "T36 - Growth control in the retinal stem cell niche of medaka"
   description: "3rd Regional Fish Meeting"
   speakers: [40]
 -
   id: 306
-  title: "Zebrafish heart valve regeneration: a model for valve recellularization"
+  title: "T37 - Zebrafish heart valve regeneration: a model for valve recellularization"
   description: "3rd Regional Fish Meeting"
   speakers: [36]
 -
   id: 307
-  title: "Pitx2c orchestrates embryonic axis extension via  mesendodermal cell migration and oriented cell division"
+  title: "T38 - Pitx2c orchestrates embryonic axis extension via  mesendodermal cell migration and oriented cell division"
   description: "3rd Regional Fish Meeting"
   speakers: [35]
 -
   id: 308
-  title: "Developing a zebrafish model to identify novel molecular resilience mechanisms"
+  title: "T39 - Developing a zebrafish model to identify novel molecular resilience mechanisms"
   description: "3rd Regional Fish Meeting"
   speakers: [45]
 -
   id: 309
-  title: "The Hippo Pathway effector Taz is required for the formation of the Micropyle in Zebrafish"
+  title: "T40 - The Hippo Pathway effector Taz is required for the formation of the Micropyle in Zebrafish"
   description: "3rd Regional Fish Meeting"
   speakers: [37]
 -
   id: 310
-  title: "The mRNA surveillance machinery controls transcriptional adaptation to mutations"
+  title: "T41 - The mRNA surveillance machinery controls transcriptional adaptation to mutations"
   description: "3rd Regional Fish Meeting"
   speakers: [33]
 -
   id: 311
-  title: "Genome-wide Association Study of Cardiac Phenotypes in Medaka Inbred Strains"
+  title: "T42 - Genome-wide Association Study of Cardiac Phenotypes in Medaka Inbred Strains"
   description: "3rd Regional Fish Meeting"
   speakers: [48]
 -
   id: 312
-  title: "Molecular Mechanisms of Germ Plasm Localization during Early Zebrafish Embryogenesis"
+  title: "T43 - Molecular Mechanisms of Germ Plasm Localization during Early Zebrafish Embryogenesis"
   description: "3rd Regional Fish Meeting"
   speakers: [38]
 -
   id: 313
-  title: "In vivo secretome-wide and chemical screening to identify novel regulators of pancreatic β-cell function"
+  title: "T44 - In vivo secretome-wide and chemical screening to identify novel regulators of pancreatic β-cell function"
   description: "3rd Regional Fish Meeting"
   speakers: [34]
  
 -
   id: 314
-  title: "Loss of erythropoietin aggravates hyperglycemia induced renal damage and alters embryonic renal development via induction of apoptosis in zebrafish"
+  title: "T45 - Loss of erythropoietin aggravates hyperglycemia induced renal damage and alters embryonic renal development via induction of apoptosis in zebrafish"
   description: "3rd Regional Fish Meeting"
   speakers: [46]
 -
   id: 315
-  title: "From Morphology to Behavior: Phenotyping Medaka Inbred Lines"
+  title: "T46 - From Morphology to Behavior: Phenotyping Medaka Inbred Lines"
   description: "3rd Regional Fish Meeting"
   speakers: [44]
 -
   id: 316
-  title: "Neural stem cells induce the formation of their physical niche during organogenesis"
+  title: "T47 - Neural stem cells induce the formation of their physical niche during organogenesis"
   description: "3rd Regional Fish Meeting"
   speakers: [42]
 -
   id: 317
-  title: "Neural stem cells coordinate post-embryonic morphogenesis in the eye of medaka"
+  title: "T48 - Neural stem cells coordinate post-embryonic morphogenesis in the eye of medaka"
   description: "3rd Regional Fish Meeting"
   speakers: [39]
 -
   id: 318
-  title: "Visualizing signaling oscillations during embryonic patterning in the Medaka model"
+  title: "T49 - Visualizing signaling oscillations during embryonic patterning in the Medaka model"
   description: "3rd Regional Fish Meeting"
   speakers: [43]
 
