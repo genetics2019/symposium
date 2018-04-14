@@ -50,11 +50,11 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "https://goo.gl/forms/v8rtIL6zuGW8TS1t2", text: "Apply for Sponsorship"}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf7N_jo1rg3WZdbJY0y6X2Ipgsaacl22q7KJC4NtLJqFsns3Q/viewform?usp=sf_link", text: "Registration"}
-navbC4sponsorsButton: "Download Abstract Book"
+ - {link:"/assets/Meeting_Abstract_Book.pdf", text: "Abstract book"}
 rightNavigationButtons:
  - {link: "https://goo.gl/forms/v8rtIL6zuGW8TS1t2", text: "Apply for Sponsorship"}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf7N_jo1rg3WZdbJY0y6X2Ipgsaacl22q7KJC4NtLJqFsns3Q/viewform?usp=sf_link", text: "Registration"}
-navrC4sponsorsButton: "Download Abstract Book"
+ - {link:"/assets/Meeting_Abstract_Book.pdf", text: "Abstract book"}
 
 # Hero Block
 heroImage: "SagitalGIF-ProperScale.gif"
