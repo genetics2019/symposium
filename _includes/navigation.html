@@ -21,13 +21,11 @@
                 <a href="{% if bottomNavigationLink.permalink != null %} {{ bottomNavigationLink.permalink | prepend: site.baseurl }} {% else %} {{ bottomNavigationLink.link }} {% endif %}" {% if bottomNavigationLink.link != null %}target="_blank"{% endif %}>{{ bottomNavigationLink.text }}</a>
             </li>
             {% endfor %}
-<a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.navbC4sponsorsButton }}</a>
         </ul>
         {% for rightNavigationButton in site.rightNavigationButtons %}
         <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" {% if rightNavigationButton.link != null %}target="_blank"{% endif %}>
             {{ rightNavigationButton.text }}
         </a>
         {% endfor %}
-<a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.navrC4sponsorsButton }}</a>
     </nav>
 </header>
