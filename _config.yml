@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/coslogo204.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "/assets/Medaka_v14.pdf"
 
 
 # Navigation
@@ -62,6 +62,7 @@ heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf7N_jo1rg3WZdbJY0y6X2Ipgsaacl22q7KJC4NtLJqFsns3Q/viewform?usp=sf_link", text: "Registration"}
  - {link: "https://goo.gl/forms/v8rtIL6zuGW8TS1t2", text: "Apply for Sponsorship"}
 hotelButton: "Hotel Information"
+heroC4sponsorsButton: "Download Abstract Book"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "alte_uni_saal_small.jpg"
