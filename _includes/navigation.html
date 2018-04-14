@@ -20,7 +20,6 @@
             <li>
                 <a href="{% if bottomNavigationLink.permalink != null %} {{ bottomNavigationLink.permalink | prepend: site.baseurl }} {% else %} {{ bottomNavigationLink.link }} {% endif %}" {% if bottomNavigationLink.link != null %}target="_blank"{% endif %}>{{ bottomNavigationLink.text }}</a>
             </li>
-<a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.navC4sponsorsButton }}</a>
             {% endfor %}
         </ul>
         {% for rightNavigationButton in site.rightNavigationButtons %}
