@@ -1,8 +1,6 @@
 - 
   group: "  "
   elements: 
-    - {name: "ACQUIFER", description: "ACQUIFER", link: "https://www.acquifer.de/", imageUrl: "AcquiferBox.png"}
-    - {name: "LUXENDO", description: "LUXENDO - A Bruker Company", link: "http://luxendo.eu/", imageUrl: "Luxendo.png"}
 
 -
   group: "   "
@@ -11,9 +9,8 @@
 -
   group: "   "
   elements:
-    - {name: "EPPENDORF", description: "Eppendorf", link: "https://www.eppendorf.com/", imageUrl: "EppendorfBox.png"}
-    - {name: "EHEIM shopDesign", description: "EHEIM Shopdesign", link: "http://www.eheim-shopdesign.de/", imageUrl: "EHEIMBox.png"}
-    - {name: "TECNIPLAST", description: "Tecniplast", link: "http://www.tecniplast.it/de/index.html", imageUrl: "TecniplastBox.png"}
-    - {name: "NIKON", description: "NIKON", link: "https://www.nikon.de/de_DE/", imageUrl: "NIKON.png"}
-    - {name: "COS", description: "Center of Organismal Studies Heidelberg", link: "https://www.cos.uni-heidelberg.de/", imageUrl: "COSbox.png"}
+    - {name: "Klaus Tschira Stiftung", description: "Klaus Tschira Stiftung", link: "https://www.klaus-tschira-stiftung.de/", imageUrl: "KTS_RGB.jpg"}
+    - {name: "SFB", description: "SFB", link: "", imageUrl: "logo_rot.jpg"}
+    - {name: "CellNetWorks", description: "CellNetWorks", link: "http://www.cellnetworks.uni-hd.de/", imageUrl: "CellNetWorks.jpg"}
+    - {name: "COS", description: "Center of Organismal Studies Heidelberg", link: "https://www.cos.uni-heidelberg.de/", imageUrl: "coslogo.png"}
 
