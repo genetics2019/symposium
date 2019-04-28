@@ -6,7 +6,6 @@
     <div class="jumbotron">
 <div class="banner" style="padding:15px; text-align:center;">
 <div class="banner-content">
-<h5><b> Deadline for Registration and Abstract submission has been extended until March 15th<b></h5>
 </div>
 </div>
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
@@ -16,8 +15,6 @@
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}
-<a href="/zeppelin/logistics/" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.hotelButton }}</a>
- <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.heroC4sponsorsButton }}</a>
         </div>
     </div>
     <a href="#about" class="explore">
