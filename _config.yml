@@ -54,8 +54,6 @@ heroTitle: "Genetics 2019&#58; Old Questions and New Frontiers <br> 6th COS Symp
 eventDate: "06-07 June 2019"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf7N_jo1rg3WZdbJY0y6X2Ipgsaacl22q7KJC4NtLJqFsns3Q/viewform?usp=sf_link", text: "Registration"}
-#hotelButton: "Hotel Information"
-#heroC4sponsorsButton: "Download Abstract Book"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "alte_uni_saal_small.jpg"
@@ -69,23 +67,14 @@ contributorTitle: "Main Contributor"
 #Sponsor Block
 sponsorsTitle: "Major Sponsors"
 
-# Venue1 Block
-venue1BlockTitle: "Venue Day 1"
-venue1BigImage: ""
-venue1SmallImage1: "alte_uni.jpg"
-venue1SmallImage2: "alte_uni_saal_medium.jpg"
-venue1SmallImage3: ""
-venue1Title: "Alte Aula - Old Assembly Hall"
-venue1Features: ["Venue 16th April 2018", "Registration Opening 10:00am", "Located directly in the city center"]
-
 # Venue2 Block
-venue2BlockTitle: "Venue Day 2-3"
+venue2BlockTitle: "Venue"
 venue2BigImage: ""
 venue2SmallImage1: "Leben_Logo_bunt.jpg"
 venue2SmallImage2: "COSAuditorium.jpg"
 venue2SmallImage3: ""
-venue2Title: "COS - Im Neuenheimer Feld 230"
-venue2Features: ["Venue 17th-18th April 2018", "Bertalanffy Lecture Hall and Seminar room 005", "Located in Neuenheimer Feld campus"]
+venue2Title: "COS - Im Neuenheimer Feld 360"
+venue2Features: ["Venue 06th-07th June 2019", "Bertalanffy Lecture Hall and Seminar room 005", "Located in Neuenheimer Feld campus"]
 
 # About Block
 aboutTitle: "Organizers"
