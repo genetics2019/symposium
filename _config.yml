@@ -67,21 +67,27 @@ contributorTitle: "Main Contributor"
 #Sponsor Block
 sponsorsTitle: "Major Sponsors"
 
+# Venue1 Block
+venue1BlockTitle: "Venue Lectures"
+venue1BigImage: ""
+venue1SmallImage1: "Leben_Logo_bunt.jpg"
+venue1SmallImage2: "COSAuditorium.jpg"
+venue1SmallImage3: ""
+venue1Title: "Im Neuenheimer Feld 360"
+venue1Features: ["Venue 06th-07th June 2019", "Lecture Hall", "Located in Neuenheimer Feld campus", "More information coming soon"]
+
 # Venue2 Block
-venue2BlockTitle: "Venue"
+venue2BlockTitle: "Venue Poster Session"
 venue2BigImage: ""
 venue2SmallImage1: "Leben_Logo_bunt.jpg"
 venue2SmallImage2: "COSAuditorium.jpg"
 venue2SmallImage3: ""
-venue2Title: "COS - Im Neuenheimer Feld 360"
+venue2Title: "COS - Im Neuenheimer Feld 361"
 venue2Features: ["Venue 06th-07th June 2019", "Lecture Hall and Seminar", "Located in Neuenheimer Feld campus", "More information coming soon"]
 
 # About Block
 aboutTitle: "Organizers"
 aboutBlock:
- - {title: "Lazaro Centanin", image: "Centanin3.jpg", text: "lazaro.centanin@cos.uni-heidelberg.de"}
- - {title: "Kiyoshi Naruse", image: "Kiyoshi_Naruse.jpg"}
- - {title: "Thomas Thumberger", image: "Thumberger3.png"}
  - {title: "Ute Volbehr", image: "volbehr.JPG", text: "ute.volbehr@cos.uni-heidelberg.de"}
  - {title: "Jochen Wittbrodt", image: "wittbrodt.jpeg", text: "sekretariat.wittbrodt@cos.uni-heidelberg.de"}
 aboutInfo: "Test"
@@ -103,9 +109,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lazaro.centanin@cos.uni-heidelberg.de", text: "lazaro.centanin@cos.uni-heidelberg.de"}
-   - {link: "mailto:ute.volbehr@cos.uni-heidelberg.de", text: "ute.volbehr@cos.uni-heidelberg.de"}
-   - {link: "mailto:sekretariat.wittbrodt@cos.uni-heidelberg.de", text: "sekretariat.wittbrodt@cos.uni-heidelberg.de"}
+   - {link: "mailto:symposium@cos.uni-heidelberg.de", text: "symposium@cos.uni-heidelberg.de"}
    - {link: "https://goo.gl/maps/xMkr4hkHoNA2", text: "COS <br> Im Neuenheimer Feld 230 <br> 69120 Heidelberg"}
  -
   title: "Sitemap"
@@ -114,16 +118,6 @@ footerBlocks:
    - {permalink: "/schedule/", text: "Programm"}
    - {permalink: "/speakers/", text: "Speakers"}
    - {permalink: "/logistics/", text: "Logistics"}
- -
-  title: "Account Info for Registration Fee"
-  links:
-   - {text: "Account holder: Universität Heidelberg<br>
-Bank: BW-Bank Stuttgart<br>
-IBAN: DE69 6005 0101 7421 5004 36<br>
-SWIFT/BIC: SOLADEST600<br>
-Address: Kleiner Schlossplatz 11, 70173 Stuttgart<br> 
-Reference I: 2300091 Medaka Meeting<br>
-Reference II: your name"}
 
 # Schedule Block
 scheduleC4sponsorsButton: "Download Abstract Book"
