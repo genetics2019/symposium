@@ -12,5 +12,5 @@
     - {name: "Klaus Tschira Stiftung", description: "Klaus Tschira Stiftung", link: "https://www.klaus-tschira-stiftung.de/", imageUrl: "kts_s.jpg"}
     - {name: "SFB", description: "SFB", link: "", imageUrl: "logo_s.jpg"}
     - {name: "CellNetWorks", description: "CellNetWorks", link: "http://www.cellnetworks.uni-hd.de/", imageUrl: "CellNetWorks_s.jpg"}
-    - {name: "COS", description: "Center of Organismal Studies Heidelberg", link: "https://www.cos.uni-heidelberg.de/", imageUrl: "cos_s.png"}
+    - {name: "COS", description: "Center of Organismal Studies Heidelberg", link: "https://www.cos.uni-heidelberg.de/", imageUrl: "cos_s.jpg"}
 
