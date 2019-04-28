@@ -11,9 +11,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "4th Strategic Meeting for Medaka Research & 3rd Regional Fish Meeting"
+title: "Genetics 2019: Old Questions and New Frontiers"
 email: "lazaro.centanin@cos.uni-heidelberg.de"
-description: "4th Strategic Meeting for Medaka Research & 3rd Regional Fish Meeting"
+description: "Genetics 2019: Old Questions and New Frontiers"
 baseurl: "/symposium"
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
@@ -25,7 +25,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "Centre for Organismal Studies Heidelberg"
 organizerAlternateName: "Centre for Organismal Studies Heidelberg"
 organizerDescription: "The Centre for Organismal Studies (COS) Heidelberg aims to study organismic biology beyond the borders of organisational level."
-organizerEmail: "lazaro.centanin@cos.uni-heidelberg.de"
+organizerEmail: "symposium@cos.uni-heidelberg.de"
 organizerLogo: "/img/seo/coslogo204.png"
 organizerLink: "https://www.cos.uni-heidelberg.de/"
 
@@ -37,34 +37,33 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/coslogo204.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/Meeting_Abstract_Book.pdf"
+#c4pUrl: "https://bit.ly/dfua-c4p"
+#c4sponsorsUrl: "/assets/Meeting_Abstract_Book.pdf"
 
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "HomeHello"}
+ - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "https://goo.gl/forms/v8rtIL6zuGW8TS1t2", text: "Apply for Sponsorship"}
+# - {link: "https://goo.gl/forms/v8rtIL6zuGW8TS1t2", text: "Apply for Sponsorship"}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf7N_jo1rg3WZdbJY0y6X2Ipgsaacl22q7KJC4NtLJqFsns3Q/viewform?usp=sf_link", text: "Registration"}
- - {link: "https://wittbrodtlab.github.io/zeppelin/assets/Meeting_Abstract_Book.pdf", text: "Abstract Book"}
+# - {link: "https://wittbrodtlab.github.io/zeppelin/assets/Meeting_Abstract_Book.pdf", text: "Abstract Book"}
 rightNavigationButtons:
- - {link: "https://goo.gl/forms/v8rtIL6zuGW8TS1t2", text: "Apply for Sponsorship"}
+# - {link: "https://goo.gl/forms/v8rtIL6zuGW8TS1t2", text: "Apply for Sponsorship"}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf7N_jo1rg3WZdbJY0y6X2Ipgsaacl22q7KJC4NtLJqFsns3Q/viewform?usp=sf_link", text: "Registration"}
- - {link: "https://wittbrodtlab.github.io/zeppelin/assets/Meeting_Abstract_Book.pdf", text: "Abstract Book"}
+# - {link: "https://wittbrodtlab.github.io/zeppelin/assets/Meeting_Abstract_Book.pdf", text: "Abstract Book"}
 
 # Hero Block
-heroImage: "SagitalGIF-ProperScale.gif"
-heroTitle: "4th Strategic Meeting for Medaka Research <br> 3rd Regional Fish Meeting"
-eventDate: "16-18 April 2018 <br> Deadline for Registration and Abstract submission: March 15th <br> (Abstract length max. 2.000 characters)"
+heroImage: "Mendel_Dominanz_w.jpg"
+heroTitle: "Genetics 2019: Old Questions and New Frontiers <br> 6th COS Symposium"
+eventDate: "06-07 June 2019"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf7N_jo1rg3WZdbJY0y6X2Ipgsaacl22q7KJC4NtLJqFsns3Q/viewform?usp=sf_link", text: "Registration"}
- - {link: "https://goo.gl/forms/v8rtIL6zuGW8TS1t2", text: "Apply for Sponsorship"}
-hotelButton: "Hotel Information"
-heroC4sponsorsButton: "Download Abstract Book"
+#hotelButton: "Hotel Information"
+#heroC4sponsorsButton: "Download Abstract Book"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "alte_uni_saal_small.jpg"
