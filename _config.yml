@@ -44,7 +44,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "Mendel_Dominanz_w.jpg"
-heroTitle: "<font color="black">Genetics 2019&#58; Old Questions and New Frontiers <br> 6th COS Symposium</font>"
+heroTitle: "Genetics 2019&#58; Old Questions and New Frontiers <br> 6th COS Symposium"
 eventDate: "06-07 June 2019"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf7N_jo1rg3WZdbJY0y6X2Ipgsaacl22q7KJC4NtLJqFsns3Q/viewform?usp=sf_link", text: "Registration"}
