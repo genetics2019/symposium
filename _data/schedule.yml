@@ -2,7 +2,7 @@
   date: "2019-06-06"
   dateReadable: "June 06, Thursday"
   tracks: 
-    - {title: " ", color: "#90be4e"}
+    - {title: "Venue: Im Neuenheimer Feld 360, Lecture Hall ", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "15:45",
@@ -38,7 +38,7 @@
   date: "2019-06-07"
   dateReadable: "June 07, Friday"
   tracks: 
-    - {title: " ", color: "#90be4e"}
+    - {title: "Venue: Im Neuenheimer Feld 360, Lecture Hall ", color: "#90be4e"}
   timeslots: 
     - {
     	startTime: "08:30",
