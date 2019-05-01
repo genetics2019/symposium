@@ -20,7 +20,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         }
     }
     .overlay {
-        opacity: 1;
+        opacity: 0;
         transition: $base-transition;
     }
 }
