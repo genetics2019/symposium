@@ -6,13 +6,13 @@
     <div class="jumbotron">
 <div class="banner" style="padding:15px; text-align:center; color:red">
 <div class="banner-content">
-<h5><b> Deadline for Registration until May 27th<b></h5>
+<h4><b> Deadline for Registration until May 27th<b></h4>
 </div>
 </div>
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <h1> <font color="black"><b> {{ heroText[0] }} <b></font> </h1>
-            <p><font color="black"><b>{{ site.eventDate }}<b></font></p>
+            <h4><font color="black"><b>{{ site.eventDate }}<b></font></h4>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}
