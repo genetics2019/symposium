@@ -1,14 +1,13 @@
 $nav-color: #fff;
 $nav-color-hover: #cfcfcf;
-$nav-scroll-color: rgba(0, 0, 0, .5);
-$nav-scroll-color-hover: rgba(0, 0, 0, .8);
+$nav-scroll-color: #fff;
+$nav-scroll-color-hover: #cfcfcf;
 
 .top-header {
     position: fixed;
     z-index: 500;
     width: 100%;
     padding: 0 45px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
     @media (min-width: 768px) and (max-width: 991px) {
         padding: 13px 0 0 34px;
     }
@@ -20,7 +19,8 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         }
     }
     .overlay {
-        opacity: 1;
+        opacity: 0;
+        transition: $base-transition;
     }
 }
 .logo-header {
