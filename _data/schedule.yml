@@ -1,317 +1,121 @@
 - 
-  date: "2018-04-16"
-  dateReadable: "April 16, Monday"
+  date: "2019-06-06"
+  dateReadable: "June 06, Thursday"
   tracks: 
-    - {title: "Venue: Alte Aula", color: "#90be4e"}
+    - {title: " ", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "09:00",
-	endTime: "09:10",
-    	sessionIds: [1100]
+    	startTime: "15:45",
+	endTime: "16:00",
+    	sessionIds: [100]
     }
     - {
-        startTime: "09:10",
-        endTime: "09:35",
+        startTime: "16:00",
+        endTime: "16:30",
         sessionIds: [101]
     }
     - {
-    	startTime: "09:35",
-    	endTime: "10:00",
+    	startTime: "16:30",
+    	endTime: "17:00",
     	sessionIds: [102]
     }
     - {
-    	startTime: "10:00",
-    	endTime: "10:25",
+    	startTime: "17:05",
+    	endTime: "17:10",
     	sessionIds: [103]
     }
     - {
-    	startTime: "10:25",
-    	endTime: "10:50",
+    	startTime: "17:10",
+    	endTime: "18:00",
     	sessionIds: [104]
     }
     - {
-    	startTime: "10:50",
-    	endTime: "11:20",
-    	sessionIds: [1110]
-    }
-    - {
-    	startTime: "11:20",
-    	endTime: "11:45",
+    	startTime: "19:00",
     	sessionIds: [105]
     }
-    - {
-    	startTime: "11:45",
-    	endTime: "12:10",
-    	sessionIds: [106]
-    }
-    - {
-    	startTime: "12:10",
-    	endTime: "12:35",
-    	sessionIds: [107]
-    }
-    - {
-    	startTime: "12:35",
-    	endTime: "13:00",
-    	sessionIds: [108]
-    }
-    - {
-    	startTime: "13:00",
-    	endTime: "14:30",
-    	sessionIds: [1120]
-    }
-    - {
-    	startTime: "14:30",
-    	endTime: "14:55",
-    	sessionIds: [109]
-    }
-    - {
-    	startTime: "14:55",
-    	endTime: "15:20",
-    	sessionIds: [110]
-    }
-    - {
-    	startTime: "15:20",
-    	endTime: "15:45",
-    	sessionIds: [111]
-    }
-    - {
-    	startTime: "15:45",
-    	endTime: "16:10",
-    	sessionIds: [112]
-    }
-    - {
-    	startTime: "16:10",
-    	endTime: "16:35",
-    	sessionIds: [113]
-    }
-    - {
-    	startTime: "16:35",
-    	endTime: "18:00",
-    	sessionIds: [1140]
-    }
-    - {
-    	startTime: "18:00",
-    	sessionIds: [1150]
-    }
+
 - 
-  date: "2018-04-17"
-  dateReadable: "April 17, Tuesday"
+  date: "2019-06-07"
+  dateReadable: "June 07, Friday"
   tracks: 
-    - {title: "Venue: COS Auditorium Room 00.005", color: "#90be4e"}
+    - {title: " ", color: "#90be4e"}
   timeslots: 
     - {
-    	startTime: "08:45",
-	endTime: "10:00",
-    	sessionIds: [2110, 2111, 2112]
+    	startTime: "08:30",
+	endTime: "09:00",
+    	sessionIds: [200]
 	}
     - {
-        startTime: "10:00",
-        endTime: "10:25",
+        startTime: "09:00",
+        endTime: "09:30",
         sessionIds: [201]
     }
     - {
-    	startTime: "10:25",
-    	endTime: "10:50",
+    	startTime: "09:30",
+    	endTime: "10:00",
     	sessionIds: [202]
     }
     - {
-    	startTime: "10:50",
-	endTime: "11:20",
+    	startTime: "10:00",
+	endTime: "10:30",
     	sessionIds: [2120]
     }
     - {
-        startTime: "11:20",
-        endTime: "11:45",
+        startTime: "10:30",
+        endTime: "11:00",
         sessionIds: [203]
     }
     - {
-    	startTime: "11:45",
-    	endTime: "12:10",
+    	startTime: "11:00",
+    	endTime: "11:30",
     	sessionIds: [204]
     }
     - {
-        startTime: "12:10",
-        endTime: "12:35",
+        startTime: "11:30",
+        endTime: "12:00",
         sessionIds: [205]
     }
     - {
-    	startTime: "12:35",
-    	endTime: "13:00",
+    	startTime: "12:00",
+    	endTime: "13:30",
     	sessionIds: [206]
     }
     - {
-    	startTime: "13:00",
-	endTime: "14:30",
+    	startTime: "13:30",
+	endTime: "14:00",
     	sessionIds: [2130]
     }
     - {
-        startTime: "14:30",
-        endTime: "14:55",
+        startTime: "14:00",
+        endTime: "14:30",
         sessionIds: [207]
     }
     - {
-    	startTime: "14:55",
-    	endTime: "15:20",
-    	sessionIds: [212]
-    }
-    - {
-    	startTime: "15:20",
-    	endTime: "15:45",
-    	sessionIds: [209]
-    }
-    - {
-        startTime: "15:45",
-        endTime: "16:10",
-        sessionIds: [211]
-    }
-    - {
-    	startTime: "16:10",
-    	endTime: "16:35",
-    	sessionIds: [213]
-    }
-    - {
-    	startTime: "16:35",
-	endTime: "17:10",
-    	sessionIds: [2140]
-    }
-    - {
-        startTime: "17:10",
-        endTime: "17:35",
-        sessionIds: [210]
-    }
-    - {
-        startTime: "17:35",
-        endTime: "17:55",
-        sessionIds: [208]
-    }
-    - {
-        startTime: "17:55",
-        endTime: "18:15",
-        sessionIds: [216]
-    }
-    - {
-        startTime: "18:15",
-        endTime: "18:35",
-        sessionIds: [214]
-    }
-    - {
-    	startTime: "18:35",
-        endTime: "19:00",
-        sessionIds: [215]
-    }
-    - {
-    	startTime: "19:00",
-    	sessionIds: [2150]
-    }
-- 
-  date: "2018-04-18"
-  dateReadable: "April 18"
-  tracks: 
-    - {title: "Venue: COS Auditorium Room 00.005", color: "#90be4e"}
-  timeslots: 
-    - {
-    	startTime: "09:00",
-	endTime: "09:30",
-    	sessionIds: [301]
-    }
-    - {
-        startTime: "09:30",
-        endTime: "09:45",
-        sessionIds: [302]
-    }
-    - {
-    	startTime: "09:45",
-    	endTime: "10:00",
-    	sessionIds: [303]
-    }
-    - {
-    	startTime: "10:00",
-    	endTime: "10:15",
-    	sessionIds: [304]
-    }
-    - {
-    	startTime: "10:15",
-    	endTime: "10:45",
-    	sessionIds: [3110]
-    }
-    - {
-    	startTime: "10:45",
-    	endTime: "11:05",
-    	sessionIds: [305]
-    }
-    - {
-    	startTime: "11:05",
-    	endTime: "11:25",
-    	sessionIds: [306]
-    }
-    - {
-    	startTime: "11:25",
-    	endTime: "11:45",
-    	sessionIds: [307]
-    }
-    - {
-    	startTime: "11:45",
-    	endTime: "12:05",
-    	sessionIds: [308]
-    }
-    - {
-    	startTime: "12:05",
-    	endTime: "12:25",
-    	sessionIds: [309]
-    }
-    - {
-    	startTime: "12:25",
+    	startTime: "14:30",
     	endTime: "15:00",
-    	sessionIds: [3120]
+    	sessionIds: [208]
     }
     - {
     	startTime: "15:00",
-    	endTime: "15:20",
-    	sessionIds: [310]
+    	endTime: "15:30",
+    	sessionIds: [209]
     }
     - {
-    	startTime: "15:20",
-    	endTime: "15:40",
-    	sessionIds: [311]
-    }
-    - {
-    	startTime: "15:40",
-    	endTime: "16:00",
-    	sessionIds: [312]
+        startTime: "15:30",
+        endTime: "16:00",
+        sessionIds: [211]
     }
     - {
     	startTime: "16:00",
-    	endTime: "16:20",
-    	sessionIds: [313]
+    	endTime: "16:30",
+    	sessionIds: [212]
     }
     - {
-    	startTime: "16:20",
-    	endTime: "16:50",
-    	sessionIds: [3130]
+    	startTime: "16:30",
+	endTime: "17:15",
+    	sessionIds: [213]
     }
     - {
-    	startTime: "16:50",
-    	endTime: "17:10",
-    	sessionIds: [314]
+        startTime: "17:30",
+        sessionIds: [214]
     }
-    - {
-    	startTime: "17:10",
-    	endTime: "17:30",
-    	sessionIds: [315]
-    }
-    - {
-    	startTime: "17:30",
-    	endTime: "17:50",
-    	sessionIds: [316]
-    }
-    - {
-    	startTime: "17:50",
-    	endTime: "18:10",
-    	sessionIds: [317]
-    }
-    - {
-    	startTime: "18:10",
-    	endTime: "18:30",
-    	sessionIds: [318]
-    }
-
