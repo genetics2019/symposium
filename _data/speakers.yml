@@ -4,9 +4,9 @@
   surname: "Andrews"
   company: "University of Toronto, Canada<br> The Donnelly Centre for Cellular and Biomolecular Research"
   title: ""
-  bio: "<b>Systems Genetics</b><br> <br>
+  bio: '<b>Systems Genetics</b><br> <br>
 <a href="http://sites.utoronto.ca/andrewslab/">http://sites.utoronto.ca/andrewslab/</a>
-"
+'
   thumbnailUrl: grey_standin.jpg
   rockstar: true
   social: 
@@ -18,10 +18,10 @@
   surname: "Furlong"
   company: "EMBL Heidelberg, Germany"
   title: ""
-  bio: "<b>Developmental Regulatory Genomics
+  bio: '<b>Developmental Regulatory Genomics
 </b><br><br>
 <a href="http://furlonglab.embl.de">http://furlonglab.embl.de</a>
-"
+'
   thumbnailUrl: grey_standin.jpg
   rockstar: false
   social: 
@@ -33,9 +33,9 @@
   surname: "Harmer"
   company: "Department of Plant Biology, College of Biological Sciences"
   title: ""
-  bio: "
+  bio: '
 <a href="https://biology.ucdavis.edu/people/stacey-harmer">https://biology.ucdavis.edu/people/stacey-harmer</a>
-"
+'
   thumbnailUrl: grey_standin.jpg
   rockstar: false
   social: 
@@ -47,9 +47,9 @@
   surname: "Jonikas"
   company: "Systems genetics of Photosynthesis"
   title: ""
-  bio: "
+  bio: '
 <a href="http://jonikaslab.princeton.edu">http://jonikaslab.princeton.edu</a>
-"
+'
   thumbnailUrl: grey_standin.jpg
   rockstar: false
   social: 
@@ -61,9 +61,9 @@
   surname: "Köhler"
   company: "Plants Genetics and Epigenetics"
   title: ""
-  bio: "
+  bio: '
 <a href="http://kohlerlab.se">http://kohlerlab.se</a>
-"
+'
   thumbnailUrl: grey_standin.jpg
   rockstar: false
   social: 
@@ -75,9 +75,9 @@
   surname: "McKay"
   company: "The Genetic Basis of Quantitative Variation"
   title: ""
-  bio: "
+  bio: '
 <a href="https://mackay.gnets.ncsu.edu/">https://mackay.gnets.ncsu.edu/</a>
-"
+'
   thumbnailUrl: grey_standin.jpg
   rockstar: false
   social: 
@@ -89,9 +89,9 @@
   surname: "Mittelsten Scheid"
   company: "GMI - GREGOR MENDEL INSTITUTE OF MOLECULAR PLANT BIOLOGY"
   title: ""
-  bio: "
+  bio: '
 <a href="https://www.oeaw.ac.at/gmi/research/research-groups/ortrun-mittelsten-scheid/">https://www.oeaw.ac.at/gmi/research/research-groups/ortrun-mittelsten-scheid/</a>
-"
+'
   thumbnailUrl: grey_standin.jpg
   rockstar: false
   social: 
@@ -103,9 +103,9 @@
   surname: "Odom"
   company: "tissue evolution"
   title: ""
-  bio: "
+  bio: '
 <a href="http://www.cruk.cam.ac.uk/research-groups/odom-group">http://www.cruk.cam.ac.uk/research-groups/odom-group</a>
-"
+'
   thumbnailUrl: grey_standin.jpg
   rockstar: false
   social: 
@@ -117,9 +117,9 @@
   surname: "Ostrander"
   company: "Comparative Genetics Section"
   title: ""
-  bio: "
+  bio: '
 <a href="https://www.genome.gov/27559791/ostrander-scientific-summary/">https://www.genome.gov/27559791/ostrander-scientific-summary/</a>
-"
+'
   thumbnailUrl: grey_standin.jpg
   rockstar: false
   social: 
@@ -131,9 +131,9 @@
   surname: "Rajewsky"
   company: "Systems Biology of Gene Regulatory Elements"
   title: ""
-  bio: "
+  bio: '
 <a href="https://www.mdc-berlin.de/n-rajewsky">https://www.mdc-berlin.de/n-rajewsky</a>
-"
+'
   thumbnailUrl: grey_standin.jpg
   rockstar: false
   social: 
@@ -145,9 +145,9 @@
   surname: "Schneeberger"
   company: "Genome Plasticity and Computational Genetics"
   title: ""
-  bio: "
+  bio: '
 <a href="http://www.mpipz.mpg.de/schneeberger">http://www.mpipz.mpg.de/schneeberger</a>
-"
+'
   thumbnailUrl: grey_standin.jpg
   rockstar: false
   social: 
@@ -159,9 +159,9 @@
   surname: "Tautz"
   company: "Evolutionary Genetics"
   title: ""
-  bio: "
+  bio: '
 <a href="http://www.evolbio.mpg.de/15929/evolutionarygenetics">http://www.evolbio.mpg.de/15929/evolutionarygenetics</a>
-"
+'
   thumbnailUrl: grey_standin.jpg
   rockstar: true
   social: 
@@ -173,9 +173,9 @@
   surname: "Weigel"
   company: "Evolutionary Genomics"
   title: ""
-  bio: "
+  bio: '
 <a href="http://www.weigelworld.org">http://www.weigelworld.org</a>
-"
+'
   thumbnailUrl: grey_standin.jpg
   rockstar: true
   social: 
