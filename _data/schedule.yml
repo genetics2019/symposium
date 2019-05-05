@@ -5,71 +5,50 @@
     - {title: "Venue: Im Neuenheimer Feld 360, Lecture Hall ", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "15:45",
-	endTime: "16:00",
+    	startTime: "14:00",
+	endTime: "14:15",
     	sessionIds: [100]
     }
     - {
     	sessionIds: [1000]
     }
     - {
-        startTime: "16:00",
-        endTime: "16:30",
+        startTime: "14:15",
+        endTime: "15:00",
         sessionIds: [101]
     }
     - {
-    	startTime: "16:30",
-    	endTime: "17:00",
+    	startTime: "15:00",
+    	endTime: "15:45",
     	sessionIds: [102]
     }
     - {
-    	startTime: "17:05",
-    	endTime: "17:10",
+    	startTime: "15:45",
+    	endTime: "16:45",
+    	sessionIds: [1001]
+    }
+    - {
+    	startTime: "16:45",
+    	endTime: "17:30",
     	sessionIds: [103]
     }
     - {
-    	startTime: "17:10",
+    	startTime: "17:30",
     	endTime: "18:00",
+    	sessionIds: [1002]
+    }
+    - {
+    	startTime: "18:00",
+    	endTime: "19:00",
     	sessionIds: [104]
     }
     - {
     	startTime: "19:00",
+        endTime: "19:30",
     	sessionIds: [105]
     }
 
-- 
-  tracks: 
-    - {title: "Genetic Variation  ", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "15:45",
-	endTime: "16:00",
-    	sessionIds: [100]
-    }
-    - {
-        startTime: "16:00",
-        endTime: "16:30",
-        sessionIds: [101]
-    }
-    - {
-    	startTime: "16:30",
-    	endTime: "17:00",
-    	sessionIds: [102]
-    }
-    - {
-    	startTime: "17:05",
-    	endTime: "17:10",
-    	sessionIds: [103]
-    }
-    - {
-    	startTime: "17:10",
-    	endTime: "18:00",
-    	sessionIds: [104]
-    }
-    - {
-    	startTime: "19:00",
-    	sessionIds: [105]
-    }
+
 
 - 
   date: "2019-06-07"
@@ -78,13 +57,16 @@
     - {title: "Venue: Im Neuenheimer Feld 360, Lecture Hall ", color: "#90be4e"}
   timeslots: 
     - {
+    	sessionIds: [2000]
+    }
+    - {
     	startTime: "08:30",
-	endTime: "09:00",
+	endTime: "09:15",
     	sessionIds: [200]
 	}
     - {
-        startTime: "09:00",
-        endTime: "09:30",
+        startTime: "09:15",
+        endTime: "10:00",
         sessionIds: [201]
     }
     - {
@@ -94,65 +76,62 @@
     }
     - {
     	startTime: "10:00",
-	endTime: "10:30",
-    	sessionIds: [2120]
+    	endTime: "10:30",
+    	sessionIds: [2001]
     }
     - {
         startTime: "10:30",
-        endTime: "11:00",
+        endTime: "11:15",
         sessionIds: [203]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:30",
+    	startTime: "11:15",
+    	endTime: "12:00",
     	sessionIds: [204]
     }
     - {
-        startTime: "11:30",
-        endTime: "12:00",
-        sessionIds: [205]
+        startTime: "12:00",
+        endTime: "13:30",
+        sessionIds: [2002]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "13:30",
-    	sessionIds: [206]
+    	sessionIds: [2003]
     }
     - {
     	startTime: "13:30",
-	endTime: "14:00",
-    	sessionIds: [2130]
+	endTime: "14:15",
+    	sessionIds: [206]
     }
     - {
-        startTime: "14:00",
-        endTime: "14:30",
+        startTime: "14:15",
+        endTime: "15:00",
         sessionIds: [207]
     }
     - {
-    	startTime: "14:30",
-    	endTime: "15:00",
+    	startTime: "15:00",
+    	endTime: "15:45",
     	sessionIds: [208]
     }
     - {
-    	startTime: "15:00",
-    	endTime: "15:30",
+        startTime: "15:45",
+        endTime: "16:15",
+        sessionIds: [2004]
+    }
+    - {
+    	startTime: "16:15",
+    	endTime: "16:45",
     	sessionIds: [209]
     }
     - {
-        startTime: "15:30",
-        endTime: "16:00",
         sessionIds: [211]
     }
     - {
-    	startTime: "16:00",
-    	endTime: "16:30",
+    	startTime: "16:45",
+    	endTime: "17:30",
     	sessionIds: [212]
     }
     - {
-    	startTime: "16:30",
-	endTime: "17:15",
+    	startTime: "17:30",
+	endTime: "18:15",
     	sessionIds: [213]
-    }
-    - {
-        startTime: "17:30",
-        sessionIds: [214]
     }

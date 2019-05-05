@@ -6,11 +6,16 @@
   speakers: []
 -
   id: 1000
-  title: "Genetics Block Test"
-
+  title: "Genetics Variation"
+-
+  id: 1001
+  title: "Coffee Break and Poster Session"
+-
+  id: 1002
+  title: "Coffee Break"
 -
   id: 101
-  title: "Genetic Variety"
+  title: "To be announced"
   place: "INF 360"
   description: ""
   speakers: [8]
@@ -24,51 +29,60 @@
 
 -
   id: 103
-  title: "Introduction of public lecture"
+  title: "To be announced"
   place: "INF 360"
   description: ""
-  speakers: []
+  speakers: [6]
 
 -
   id: 104
-  title: "To be announced"
+  title: "Public Lecture"
   place: "INF 360"
   description: ""
   speakers: [12]
 
 -
   id: 105
-  title: "Speakers' Dinner"
+  title: "Reception"
   place: ""
   description: ""
   speakers: []
 
 
 -
-  id: 200
+  id: 2000
   title: "Genetics and Environment"
+-
+  id: 2001
+  title: "Coffee Break"
+-
+  id: 2002
+  title: "Lunch and Poster Session"
+-
+  id: 2003
+  title: "Cellular Genetics"
+-
+  id: 2004
+  title: "Coffee Break"
+-
+  id: 200
+  title: "To be announced"
   place: "INF 360"
   description: ""
-  speakers: [6]
+  speakers: [5]
 
 
 -
   id: 201
   title: "To be announced"
   description: ""
-  speakers: []
+  speakers: [61]
 
 -
   id: 202
   title: "To be announced"
   description: ""
   speakers: [5]
-
--
-  id: 2120
-  title: "Coffee Break"
-  description: ""
-  speakers: []
 
 -
   id: 203
@@ -81,23 +95,11 @@
   id: 204
   title: "To be announced"
   description: ""
-  speakers: [3]
-
--
-  id: 205
-  title: "To be announced"
-  description: ""
-  speakers: []
+  speakers: [7]
 
 -
   id: 206
-  title: "Lunch Break"
-  description: ""
-  speakers: []
-
--
-  id: 2130
-  title: "Cellular Genetics"
+  title: "To be announced"
   description: ""
   speakers: [2]
 
@@ -111,11 +113,11 @@
   id: 208
   title: "To be announced"
   description: ""
-  speakers: [9, 4]
+  speakers: [9]
 
 -
   id: 209
-  title: "Coffee Break"
+  title: "Schmeil and Poster Prize Awards"
   description: ""
   speakers: []
 
@@ -129,18 +131,12 @@
   id: 212
   title: "To be announced"
   description: ""
-  speakers: [7]
+  speakers: [3]
 
 -
   id: 213
   title: "To be announced"
   description: ""
-  speakers: []
-
--
-  id: 214
-  title: "BBQ"
-  description: ""
-
+  speakers: [4]
 
 
