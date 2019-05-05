@@ -10,6 +10,9 @@
     	sessionIds: [100]
     }
     - {
+    	sessionIds: [1000]
+    }
+    - {
         startTime: "16:00",
         endTime: "16:30",
         sessionIds: [101]

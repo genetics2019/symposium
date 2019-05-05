@@ -4,6 +4,9 @@
   place: "INF 360"
   description: ""
   speakers: []
+-
+  id: 1000
+  title: "Genetics Block Test"
 
 -
   id: 101
