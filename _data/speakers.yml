@@ -2,7 +2,7 @@
   id: 1
   name: "Brenda"
   surname: "Andrews"
-  company: "University of Toronto, Canada<br> The Donnelly Centre for Cellular and Biomolecular Research"
+  company: "Centre for Cellular and Biomolecular Research (CCBR)<br>Toronto, Canada"
   title: ""
   bio: '<b>Systems Genetics</b><br> <br>
 <a href="http://sites.utoronto.ca/andrewslab/">http://sites.utoronto.ca/andrewslab/</a>
@@ -16,7 +16,7 @@
   id: 2
   name: "Eileen"
   surname: "Furlong"
-  company: "EMBL Heidelberg, Germany"
+  company: "The European Molecular Biology Laboratory (EMBL) Heidelberg<br>Heidelberg, Germany"
   title: ""
   bio: '<b>Developmental Regulatory Genomics
 </b><br><br>
@@ -31,7 +31,7 @@
   id: 3
   name: "Stacey"
   surname: "Harmer"
-  company: "Department of Plant Biology, College of Biological Sciences"
+  company: "UC Davis - College of Biological Sciences<br>Davis, USA"
   title: ""
   bio: '
 <a href="https://biology.ucdavis.edu/people/stacey-harmer">https://biology.ucdavis.edu/people/stacey-harmer</a>
@@ -45,7 +45,7 @@
   id: 4
   name: "Martin"
   surname: "Jonikas"
-  company: "Systems genetics of Photosynthesis"
+  company: "Systems and Synthetic Biology of Photosynthetic Organisms<br>Princeton, USA"
   title: ""
   bio: '
 <a href="http://jonikaslab.princeton.edu">http://jonikaslab.princeton.edu</a>
@@ -59,7 +59,7 @@
   id: 5
   name: "Claudia"
   surname: "Köhler"
-  company: "Plants Genetics and Epigenetics"
+  company: "Uppsala BioCenter<br>Uppsala, Sweden"
   title: ""
   bio: '
 <a href="http://kohlerlab.se">http://kohlerlab.se</a>
@@ -73,7 +73,7 @@
   id: 6
   name: "Trudy"
   surname: "McKay"
-  company: "The Genetic Basis of Quantitative Variation"
+  company: "North Carolina State University<br>Raleigh, USA"
   title: ""
   bio: '
 <a href="https://mackay.gnets.ncsu.edu/">https://mackay.gnets.ncsu.edu/</a>
@@ -87,7 +87,7 @@
   id: 61
   name: "Ortrun"
   surname: "Mittelsten Scheid"
-  company: "GMI - GREGOR MENDEL INSTITUTE OF MOLECULAR PLANT BIOLOGY"
+  company: "Gregor Mendel Institute of Molecular Plant Biology (GMI)<br>Vienna, Austria"
   title: ""
   bio: '
 <a href="https://www.oeaw.ac.at/gmi/research/research-groups/ortrun-mittelsten-scheid/">https://www.oeaw.ac.at/gmi/research/research-groups/ortrun-mittelsten-scheid/</a>
@@ -101,7 +101,7 @@
   id: 7
   name: "Duncan"
   surname: "Odom"
-  company: "tissue evolution"
+  company: "German Cancer Research Center (DKFZ)<br>Heidelberg, Germany"
   title: ""
   bio: '
 <a href="http://www.cruk.cam.ac.uk/research-groups/odom-group">http://www.cruk.cam.ac.uk/research-groups/odom-group</a>
@@ -115,7 +115,7 @@
   id: 8
   name: "Elaine"
   surname: "Ostrander"
-  company: "Comparative Genetics Section"
+  company: "National Human Genome Research Institute (NIH)<br>Bethesda, USA"
   title: ""
   bio: '
 <a href="https://www.genome.gov/27559791/ostrander-scientific-summary/">https://www.genome.gov/27559791/ostrander-scientific-summary/</a>
@@ -129,7 +129,7 @@
   id: 9
   name: "Nikolaus"
   surname: "Rajewsky"
-  company: "Systems Biology of Gene Regulatory Elements"
+  company: "Max Delbrück Center for Molecular Medicine<br>Berlin, Germany"
   title: ""
   bio: '
 <a href="https://www.mdc-berlin.de/n-rajewsky">https://www.mdc-berlin.de/n-rajewsky</a>
@@ -143,7 +143,7 @@
   id: 10
   name: "Korbinian"
   surname: "Schneeberger"
-  company: "Genome Plasticity and Computational Genetics"
+  company: "Max-Planck-Institute for Plant Breeding Research<br>Cologne, Germany"
   title: ""
   bio: '
 <a href="http://www.mpipz.mpg.de/schneeberger">http://www.mpipz.mpg.de/schneeberger</a>
@@ -157,7 +157,7 @@
   id: 11
   name: "Diethard"
   surname: "Tautz"
-  company: "Evolutionary Genetics"
+  company: "Max-Planck-Institute for Evolutionary Biology<br>Plön, Germany"
   title: ""
   bio: '
 <a href="http://www.evolbio.mpg.de/15929/evolutionarygenetics">http://www.evolbio.mpg.de/15929/evolutionarygenetics</a>
@@ -171,7 +171,7 @@
   id: 12
   name: "Detlef"
   surname: "Weigel"
-  company: "Evolutionary Genomics"
+  company: "Max-Planck-Institute for Developmental Biology<br>Tübingen, Germany"
   title: ""
   bio: '
 <a href="http://www.weigelworld.org">http://www.weigelworld.org</a>
