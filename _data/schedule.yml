@@ -33,6 +33,38 @@
     	startTime: "19:00",
     	sessionIds: [105]
     }
+  tracks: 
+    - {title: "Venue2: Im Neuenheimer Feld 360, Lecture Hall ", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "15:45",
+	endTime: "16:00",
+    	sessionIds: [100]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "16:30",
+        sessionIds: [101]
+    }
+    - {
+    	startTime: "16:30",
+    	endTime: "17:00",
+    	sessionIds: [102]
+    }
+    - {
+    	startTime: "17:05",
+    	endTime: "17:10",
+    	sessionIds: [103]
+    }
+    - {
+    	startTime: "17:10",
+    	endTime: "18:00",
+    	sessionIds: [104]
+    }
+    - {
+    	startTime: "19:00",
+    	sessionIds: [105]
+    }
 
 - 
   date: "2019-06-07"
