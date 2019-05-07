@@ -10,7 +10,7 @@
   group: "   "
   elements:
     - {name: "Klaus Tschira Stiftung", description: "Klaus Tschira Stiftung", link: "https://www.klaus-tschira-stiftung.de/", imageUrl: "kts_s.jpg"}
-    - {name: "SFB", description: "SFB", link: "www.sfb873.de", imageUrl: "logo_s.jpg"}
+    - {name: "SFB", description: "SFB", link: "https://www.cos.uni-heidelberg.de/index.php/sfb873?l=_e", imageUrl: "logo_s.jpg"}
     - {name: "CellNetWorks", description: "CellNetWorks", link: "http://www.cellnetworks.uni-hd.de/", imageUrl: "CellNetWorks_s.jpg"}
     - {name: "SFB1324", description: "SFB1324", link: "http://sfb1324.de/sfb1324-mechanisms-and-functions-of-wnt-signaling/", imageUrl: "wnt.png"}
     - {name: "Heidelberg Biosciences International Graduate School", description: "Heidelberg Biosciences International Graduate School", link: "http://www.hbigs.uni-heidelberg.de/main_contact.html", imageUrl: "hbigs_logo.jpg"}
