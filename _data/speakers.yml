@@ -4,7 +4,7 @@
   surname: "Andrews"
   company: "Centre for Cellular and Biomolecular Research (CCBR)<br>Toronto, Canada"
   title: ""
-  bio: '<b>Systems Genetics</b><br> <br>
+  bio: '<b>From phenotypes to pathways: global exploration of cellular systems using yeast functional genomics</b><br> <br>
 <a href="http://sites.utoronto.ca/andrewslab/">http://sites.utoronto.ca/andrewslab/</a>
 '
   thumbnailUrl: andrews.jpg
@@ -33,7 +33,7 @@
   surname: "Harmer"
   company: "UC Davis - College of Biological Sciences<br>Davis, USA"
   title: ""
-  bio: '
+  bio: '<b>There and back again: from phototropism to heliotropism</b> <br> <br>
 <a href="https://biology.ucdavis.edu/people/stacey-harmer">https://biology.ucdavis.edu/people/stacey-harmer</a>
 '
   thumbnailUrl: grey_standin.jpg
@@ -50,7 +50,7 @@
   bio: '
 <a href="http://jonikaslab.princeton.edu">http://jonikaslab.princeton.edu</a>
 '
-  thumbnailUrl: grey_standin.jpg
+  thumbnailUrl: jonikas.jpeg
   rockstar: false
   social: 
     - {}
@@ -148,7 +148,7 @@
   bio: '
 <a href="http://www.mpipz.mpg.de/schneeberger">http://www.mpipz.mpg.de/schneeberger</a>
 '
-  thumbnailUrl: grey_standin.jpg
+  thumbnailUrl: Schneeberger.jpg
   rockstar: false
   social: 
     - {}
@@ -173,7 +173,8 @@
   surname: "Weigel"
   company: "Max-Planck-Institute for Developmental Biology<br>Tübingen, Germany"
   title: ""
-  bio: '
+  bio: '<b>Klima im Wandel –– Pflanzen im Wandel </b> <br><br>
+Wir erfahren zurzeit eine dramatische Veränderung des Weltklimas. Aber was bedeutet dies für wilde Pflanzen und Tiere? Haben diese überhaupt eine Chance, sich in kürzester Zeit an veränderte Umweltbedingungen anzupassen? In seinem Vortrag wird Detlef Weigel zuerst Grundlagen der Evolutionsforschung beschreiben, darunter, warum es bei der Evolution immer um Kompromisse geht, um widersprüchlichen Anforderungen gerecht zu werden. Er wird dann auf seine eigenen Arbeiten eingehen und diskutieren, wie sich vorhersagen lässt, ob und wie Pflanzen in einem zukünftigen Klima überleben können. Ein wichtiges Fazit ist, dass Arten nicht als eine starre Einheit betrachtet werden dürfen, sondern dass ihrer genetischen Vielfalt – und den Grenzen ihrer innerartlichen Vielfalt – Rechnung getragen werden muss. <br> <br>
 <a href="http://www.weigelworld.org">http://www.weigelworld.org</a>
 '
   thumbnailUrl: Detlef_Weigel.jpg
