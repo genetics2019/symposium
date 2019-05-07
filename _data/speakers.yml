@@ -7,7 +7,7 @@
   bio: '<b>Systems Genetics</b><br> <br>
 <a href="http://sites.utoronto.ca/andrewslab/">http://sites.utoronto.ca/andrewslab/</a>
 '
-  thumbnailUrl: grey_standin.jpg
+  thumbnailUrl: andrews.jpg
   rockstar: true
   social: 
     - {}
@@ -22,7 +22,7 @@
 </b><br><br>
 <a href="http://furlonglab.embl.de">http://furlonglab.embl.de</a>
 '
-  thumbnailUrl: grey_standin.jpg
+  thumbnailUrl: Furlong_web1.jpg
   rockstar: false
   social: 
     - {}
@@ -64,7 +64,7 @@
   bio: '
 <a href="http://kohlerlab.se">http://kohlerlab.se</a>
 '
-  thumbnailUrl: grey_standin.jpg
+  thumbnailUrl: köhler.jpg
   rockstar: false
   social: 
     - {}
@@ -78,7 +78,7 @@
   bio: '
 <a href="https://mackay.gnets.ncsu.edu/">https://mackay.gnets.ncsu.edu/</a>
 '
-  thumbnailUrl: clemson-trudy-mackay-8470.jpg
+  thumbnailUrl: mackay.jpg
   rockstar: false
   social: 
     - {}
@@ -134,7 +134,7 @@
   bio: '
 <a href="https://www.mdc-berlin.de/n-rajewsky">https://www.mdc-berlin.de/n-rajewsky</a>
 '
-  thumbnailUrl: grey_standin.jpg
+  thumbnailUrl: rajewsky2.jpg
   rockstar: false
   social: 
     - {}
@@ -162,7 +162,7 @@
   bio: '
 <a href="http://www.evolbio.mpg.de/15929/evolutionarygenetics">http://www.evolbio.mpg.de/15929/evolutionarygenetics</a>
 '
-  thumbnailUrl: 2017_DTautz.tiff
+  thumbnailUrl: Tautz.jpg
   rockstar: true
   social: 
     - {}
