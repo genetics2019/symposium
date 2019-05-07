@@ -72,13 +72,13 @@
 - 
   id: 6
   name: "Trudy"
-  surname: "McKay"
+  surname: "Mackay"
   company: "North Carolina State University<br>Raleigh, USA"
   title: ""
   bio: '
 <a href="https://mackay.gnets.ncsu.edu/">https://mackay.gnets.ncsu.edu/</a>
 '
-  thumbnailUrl: grey_standin.jpg
+  thumbnailUrl: clemson-trudy-mackay-8470.jpg
   rockstar: false
   social: 
     - {}
@@ -92,7 +92,7 @@
   bio: '
 <a href="https://www.oeaw.ac.at/gmi/research/research-groups/ortrun-mittelsten-scheid/">https://www.oeaw.ac.at/gmi/research/research-groups/ortrun-mittelsten-scheid/</a>
 '
-  thumbnailUrl: grey_standin.jpg
+  thumbnailUrl: Mittelsten_Scheid.jpg
   rockstar: false
   social: 
     - {}
@@ -106,7 +106,7 @@
   bio: '
 <a href="http://www.cruk.cam.ac.uk/research-groups/odom-group">http://www.cruk.cam.ac.uk/research-groups/odom-group</a>
 '
-  thumbnailUrl: grey_standin.jpg
+  thumbnailUrl: Duncan_Odom.jpg
   rockstar: false
   social: 
     - {}
@@ -120,7 +120,7 @@
   bio: '
 <a href="https://www.genome.gov/27559791/ostrander-scientific-summary/">https://www.genome.gov/27559791/ostrander-scientific-summary/</a>
 '
-  thumbnailUrl: grey_standin.jpg
+  thumbnailUrl: Ostrander.jpg
   rockstar: false
   social: 
     - {}
@@ -162,7 +162,7 @@
   bio: '
 <a href="http://www.evolbio.mpg.de/15929/evolutionarygenetics">http://www.evolbio.mpg.de/15929/evolutionarygenetics</a>
 '
-  thumbnailUrl: grey_standin.jpg
+  thumbnailUrl: 2017_DTautz.tiff
   rockstar: true
   social: 
     - {}
@@ -176,7 +176,7 @@
   bio: '
 <a href="http://www.weigelworld.org">http://www.weigelworld.org</a>
 '
-  thumbnailUrl: grey_standin.jpg
+  thumbnailUrl: Detlef_Weigel.jpg
   rockstar: true
   social: 
     - {}

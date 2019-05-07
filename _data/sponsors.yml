@@ -10,7 +10,8 @@
   group: "   "
   elements:
     - {name: "Klaus Tschira Stiftung", description: "Klaus Tschira Stiftung", link: "https://www.klaus-tschira-stiftung.de/", imageUrl: "kts_s.jpg"}
-    - {name: "SFB", description: "SFB", link: "", imageUrl: "logo_s.jpg"}
+    - {name: "SFB", description: "SFB", link: "www.sfb873.de", imageUrl: "logo_s.jpg"}
     - {name: "CellNetWorks", description: "CellNetWorks", link: "http://www.cellnetworks.uni-hd.de/", imageUrl: "CellNetWorks_s.jpg"}
+    - {name: "Heidelberg Biosciences International Graduate School", description: "Heidelberg Biosciences International Graduate School", link: "http://www.hbigs.uni-heidelberg.de/main_contact.html", imageUrl: "hbigs_logo.jpg"}
     - {name: "COS", description: "Center of Organismal Studies Heidelberg", link: "https://www.cos.uni-heidelberg.de/", imageUrl: "cos_s.jpg"}
 
