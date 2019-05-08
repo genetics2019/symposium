@@ -15,28 +15,28 @@
   title: "Coffee Break"
 -
   id: 101
-  title: "Genetic Variation"
+  title: "How to Build a Dog in 927, 152, 360 Easy Steps"
   place: "INF 360"
   description: ""
   speakers: [8]
 
 -
   id: 102
-  title: "Genetic Variation"
+  title: "Testing the omnigenic model for quantitative trait"
   place: "INF 360"
   description: ""
   speakers: [11]
 
 -
   id: 103
-  title: "Genetic Variation"
+  title: "Context Dependent Effects of Alleles Affecting Quantitative Traits: Insights From Drosophila"
   place: "INF 360"
   description: ""
   speakers: [6]
 
 -
   id: 104
-  title: "Public Lecture"
+  title: "Public Lecture: Klima im Wandel – Pflanzen im Wandel"
   place: "INF 360"
   description: ""
   speakers: [12]
@@ -66,7 +66,7 @@
   title: "Coffee Break"
 -
   id: 200
-  title: "Genetics and Environment"
+  title: "Epigenetic mechanisms regulating plant reproduction"
   place: "INF 360"
   description: ""
   speakers: [5]
@@ -74,38 +74,38 @@
 
 -
   id: 201
-  title: "Genetics and Environment"
+  title: "Shining light on seeds sheds light on germination"
   description: ""
   speakers: [61]
 
 -
   id: 202
-  title: "To be announced"
+  title: "Epigenetic mechanisms regulating plant reproduction"
   description: ""
   speakers: [5]
 
 -
   id: 203
-  title: "Genetics and Environment"
+  title: "The evolution and natural control of genetic incompatibilities"
   place: ""
   description: ""
   speakers: [10]
 
 -
   id: 204
-  title: "Genetics and Environment"
+  title: "The evolution of transcriptional regulation among mammals"
   description: ""
   speakers: [7]
 
 -
   id: 206
-  title: "Cellular Genetics"
+  title: "Genome regulation during developmental transitions: a single cell view"
   description: ""
   speakers: [2]
 
 -
   id: 207
-  title: "Cellular Genetics"
+  title: "From phenotypes to pathways: global exploration of cellular systems using yeast functional genomics"
   description: ""
   speakers: [1]
 
@@ -129,13 +129,13 @@
 
 -
   id: 212
-  title: "Molecular Mechanisms"
+  title: "There and back again: from phototropism to heliotropism"
   description: ""
   speakers: [3]
 
 -
   id: 213
-  title: "Molecular Mechanisms"
+  title: "Structure, Biogenesis, and Engineering of the Eukaryotic CO2-Concentrating Organelle, the Pyrenoid"
   description: ""
   speakers: [4]
 
