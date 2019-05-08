@@ -14,5 +14,3 @@
     - {name: "CellNetWorks", description: "CellNetWorks", link: "http://www.cellnetworks.uni-hd.de/", imageUrl: "cellnetworks2.jpg"}
     - {name: "SFB1324", description: "SFB1324", link: "http://sfb1324.de/sfb1324-mechanisms-and-functions-of-wnt-signaling/", imageUrl: "sfb1324.jpg"}
     - {name: "Heidelberg Biosciences International Graduate School", description: "Heidelberg Biosciences International Graduate School", link: "http://www.hbigs.uni-heidelberg.de/main_contact.html", imageUrl: "hbigs2.jpg"}
-    - {name: "COS", description: "Center of Organismal Studies Heidelberg", link: "https://www.cos.uni-heidelberg.de/", imageUrl: "cos2.jpg"}
-
