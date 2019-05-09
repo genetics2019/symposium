@@ -67,7 +67,7 @@ venue1SmallImage1: "Leben_Logo_bunt.jpg"
 venue1SmallImage2: "COSAuditorium.jpg"
 venue1SmallImage3: ""
 venue1Title: "Im Neuenheimer Feld 360"
-venue1Features: ["Venue 06th-07th June 2019", "Lecture Hall", "Located in Neuenheimer Feld campus", "More information coming soon"]
+venue1Features: ["Date 06-07 June 2019", "Lecture Hall", "Located in Neuenheimer Feld Campus"]
 
 # Venue2 Block
 venue2BlockTitle: "Venue Poster Session"
@@ -108,7 +108,7 @@ footerBlocks:
   title: "Sitemap"
   links:
    - {permalink: "/", text: "Home"}
-   - {permalink: "/schedule/", text: "Programm"}
+   - {permalink: "/schedule/", text: "Program"}
    - {permalink: "/speakers/", text: "Speakers"}
 
 # Schedule Block

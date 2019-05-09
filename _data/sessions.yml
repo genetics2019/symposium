@@ -22,7 +22,7 @@
 
 -
   id: 102
-  title: "Testing the omnigenic model for quantitative trait"
+  title: "Testing the Omnigenic Model for Quantitative Traits"
   place: "INF 360"
   description: ""
   speakers: [11]
@@ -66,7 +66,7 @@
   title: "Coffee Break"
 -
   id: 200
-  title: "Epigenetic mechanisms regulating plant reproduction"
+  title: "Epigenetic Mechanisms Regulating Plant Reproduction"
   place: "INF 360"
   description: ""
   speakers: [5]
@@ -74,32 +74,32 @@
 
 -
   id: 201
-  title: "Shining light on seeds sheds light on germination"
+  title: "Shining Light on Seeds Sheds Light on Germination"
   description: ""
   speakers: [61]
 
 -
   id: 203
-  title: "The evolution and natural control of genetic incompatibilities"
+  title: "The Evolution and Natural Control of Genetic Incompatibilities"
   place: ""
   description: ""
   speakers: [10]
 
 -
   id: 204
-  title: "The evolution of transcriptional regulation among mammals"
+  title: "The Evolution of Transcriptional Regulation among Mammals"
   description: ""
   speakers: [7]
 
 -
   id: 206
-  title: "Genome regulation during developmental transitions: a single cell view"
+  title: "Genome Regulation during Developmental Transitions: a Single Cell View"
   description: ""
   speakers: [2]
 
 -
   id: 207
-  title: "From phenotypes to pathways: global exploration of cellular systems using yeast functional genomics"
+  title: "From Phenotypes to Pathways: Global Exploration of Cellular Systems using Yeast Functional Genomics"
   description: ""
   speakers: [1]
 
@@ -123,7 +123,7 @@
 
 -
   id: 212
-  title: "There and back again: from phototropism to heliotropism"
+  title: "There and Back Again: from Phototropism to Heliotropism"
   description: ""
   speakers: [3]
 
