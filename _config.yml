@@ -36,17 +36,11 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
-bottomNavigationLinks:
- - {link: "https://forms.gle/n9q5osgX1orgx2U76", text: "Registration"}
-rightNavigationButtons:
- - {link: "https://forms.gle/n9q5osgX1orgx2U76", text: "Registration"}
 
 # Hero Block
 heroImage: "Mendel_Dominanz_w_hell.jpg"
 heroTitle: "Genetics 2019&#58;<br> Old Questions and New Frontiers <br> 6th COS Symposium"
 eventDate: "06-07 June 2019"
-heroButtons:
- - {link: "https://forms.gle/n9q5osgX1orgx2U76", text: "Registration"}
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "alte_uni_saal_small.jpg"
